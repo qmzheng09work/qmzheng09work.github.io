@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Qiming Zheng"
-  avatar           : "profile2.JPG"
+  avatar           : "profile2.PNG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Hong Kong"
   employer         : 
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://qmzheng09work.github.io/"
+  github           :
   google_plus      :
   keybase          :
   instagram        :

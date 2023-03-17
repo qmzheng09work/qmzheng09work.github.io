@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environment and Resource Sciences, Zhejiang University, 2011-2015
+* Ph.D in Remote Sensing and GIS, Zhejiang University, 2015-2020
 
 Work experience
 ======

@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Qiming Zheng"
   avatar           : "profile2.PNG"
-  bio              : "Research Assistant Professor @ HK Polytechnic University"
+  bio              : "Research Assistant Professor @The Hong Kong Polytechnic University"
   location         : "Hong Kong"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en"
@@ -226,15 +226,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""

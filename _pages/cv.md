@@ -9,31 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
+Download my lastest [CV](https://github.com/qmzheng09work/qmzheng09work.github.io/blob/master/files/C.V.%20Qiming%20Zheng_v14.pdf)
+
 Education
 ======
-* B.S. in Environment and Resource Sciences, Zhejiang University, 2011-2015
-* Ph.D in Remote Sensing and GIS, Zhejiang University, 2015-2020
+* Ph.D. in Remote Sensing and GIS, Zhejiang University, China, 2015-2020
+* Visiting Ph.D. in Remote Sensing of Urban Environment, Indiana State Universtiy, USA, 2018-2019
+* B.S. in Environment and Resource Sciences, Zhejiang University, China, 2011-2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.01 - present: Research Assistant Professor
+  * Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University
+  * Affliated with The JC STEM Lab of Earth Observations (Lab Head: Prof. Qihao WENG)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.06 - present: Editorial Board member
+  * ISPRS Journal of Photogrammetry and Remote Sensing
+
+* 2020.08 - 2023.01: Postdoctoral Research Fellow
+  * Centre for Nature-based Climate Solutions, National University of Singapore
+  * Supervisor: Prof. Lian Pin KOH
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Remote sensing of urban environment
+* Global environmental and climate change
+* Land-based and nature-based climate change mitigation solutions
+* Remote sensing image processing techniques and applications
+
+
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
 
 Publications
 ======
@@ -53,6 +60,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

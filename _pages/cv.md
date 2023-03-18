@@ -37,10 +37,13 @@ Research Interests
 
 Professional Service
 ======
-### Editorship 
-* 2022.06 - present: Editorial Board Member, *ISPRS Journal of Photogrammetry and Remote Sensing
-* 2023.01 - present: Editorial Board Memebr, *Frontier of Remote Sensing
-* 2021-2023: Guest editor, *Remote Sensing* Special Issue: Remote Sensing Imagery For Mapping Economic Activities
+**Editorship**
+* 2022.06 - present: Editorial Board Member, *ISPRS Journal of Photogrammetry and Remote Sensing*
+* 2023.01 - present: Editorial Board Memebr, *Frontier of Remote Sensing*
+* 2021-2023: Guest editor, *Remote Sensing*, Special Issue: Remote Sensing Imagery For Mapping Economic Activities
+
+**Journal Reviewer** (Total: 124)
+*Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, IEEE Transactions on Geoscience and Remote Sensing, PNAS Nexus, GIScience & Remote Sensing, Building and Environment, Sustainable Cities and Society, Earth System Science Data, Journal of Cleaner Production, etc.
 
 Publications
 ======

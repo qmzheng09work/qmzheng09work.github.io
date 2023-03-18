@@ -21,14 +21,11 @@ Work experience
 ======
 * 2023.01 - present: Research Assistant Professor
   * Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University
-  * Affliated with The JC STEM Lab of Earth Observations (Lab Head: Prof. Qihao WENG)
-
-* 2022.06 - present: Editorial Board member
-  * ISPRS Journal of Photogrammetry and Remote Sensing
+  * Affliated with The JC STEM Lab of Earth Observations (Lab Head: Prof. Qihao Weng)
 
 * 2020.08 - 2023.01: Postdoctoral Research Fellow
   * Centre for Nature-based Climate Solutions, National University of Singapore
-  * Supervisor: Prof. Lian Pin KOH
+  * Supervisor: Prof. Lian Pin Koh
   
 Research Interests
 ======
@@ -36,11 +33,14 @@ Research Interests
 * Global environmental and climate change
 * Land-based and nature-based climate change mitigation solutions
 * Remote sensing image processing techniques and applications
+* Nighttime light remote sensing
 
-
-Service and leadership
+Professional Service
 ======
-* Currently signed in to 43 different slack teams
+# Editorship 
+* 2022.06 - present: Editorial Board Member, *ISPRS Journal of Photogrammetry and Remote Sensing
+* 2023.01 - present: Editorial Board Memebr, *Frontier of Remote Sensing
+* 2021-2023: Guest editor, *Remote Sensing* Special Issue: Remote Sensing Imagery For Mapping Economic Activities
 
 Publications
 ======

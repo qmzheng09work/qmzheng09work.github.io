@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: " Understanding urban-climate-environment nexus with geospatial data"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+## Understanding urban-climate-environment nexus with geospatial data ##
 ## About me ##
 My research interests center on the urban-climate-environment nexus. I use remote sensing, GIS and geospatial techniques, environment and climate models, and AI/machine learning approaches to understand global urbanization and its environmental and climatic consequences, and to develop effective mitigation and adaption solutions. My research focus has always been on pushing the envelope on technical bottlenecks, bridging the gap between technical innovation and cutting edge environmental issues, and delivering policy-relevant information for decision-making. My current research focuses on the following themes:
 * Remote sensing of urban environment

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my lastest [CV](https://github.com/qmzheng09work/qmzheng09work.github.io/blob/master/files/C.V.%20Qiming%20Zheng_v14.pdf)
+Download my lastest [CV](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/files/C.V.%20Qiming%20Zheng.pdf)
 
 Education
 ======

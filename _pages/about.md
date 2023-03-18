@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiming Zheng"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+## About me ##
+My research interests center on the urban-climate-environment nexus. I use remote sensing, GIS and geospatial techniques, environment and climate models, and AI/machine learning approaches to understand global urbanization and its environmental and climatic consequences, and to develop effective mitigation and adaption solutions. My research focus has always been on pushing the envelope on technical bottlenecks, bridging the gap between technical innovation and cutting edge environmental issues, and delivering policy-relevant information for decision-making. My current research focuses on the following themes:
+* Remote sensing of urban environment
+* Global environmental and climate change
+* Land-based climate change mitigation
+* Remote sensing image processing techniques and applications
+* Nighttime light remote sensing
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You kee
-
-
-
-A data-driven personal website2
-======
-
-ddd
+## News ##
+* 18/01/2023: I joined the PolyU Hong Kong as a Research Assistant Professor.
+* 11/12/2022: I attended AGU 2022 and gave a talk about how abandoned cropland can support both food security and climate change mitigation.
+* 13/10/2022: I gave talk to share my experience in publishing research papers for students and staffs at Dept. of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University
+* 18/09/2022: I gave an invited talk on Natural Climate Solutions for Ministry of Trade and Industry, Singapore.
+* 20/08/2022: Our paper "Large-scale reforestation can increase water yield and reduce drought risk for water-insecure regions in the Asia-Pacific." was accepted by Global Change Biology [[Download](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/_publications/GCB_Teo_2022.pdf)]
+* 30/06/2022: I kicked off a new duty as an Editorial Board Member of ISPRS Journal of Photogrammetry and Remote Sensing

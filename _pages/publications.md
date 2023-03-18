@@ -8,8 +8,8 @@ redirect_from:
   - /publications.html
 ---
 
-Publications ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])
-(Zheng Q=Zheng Qiming; #=Corresponding Author)
+**Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
+(Zheng Q=Zheng Qiming; #=Corresponding Author)   
 (Total citation: 636; H-index=12)
 
 **2022**   

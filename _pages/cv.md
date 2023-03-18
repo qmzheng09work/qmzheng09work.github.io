@@ -33,7 +33,7 @@ Download my lastest [CV](https://github.com/qmzheng09work/qmzheng09work.github.i
 * Nighttime light remote sensing
 
 ## Professional Service
-**Editorship**      
+**Editorship**     
 * 2022.06 - present: Editorial Board Member, *ISPRS Journal of Photogrammetry and Remote Sensing*
 * 2023.01 - present: Editorial Board Memebr, *Frontier of Remote Sensing*
 * 2021 - 2023: Guest editor, *Remote Sensing*, Special Issue: Remote Sensing Imagery For Mapping Economic Activities
@@ -41,10 +41,23 @@ Download my lastest [CV](https://github.com/qmzheng09work/qmzheng09work.github.i
 **Journal Reviewer** (Total: 124)   
 *Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, IEEE Transactions on Geoscience and Remote Sensing, PNAS Nexus, GIScience & Remote Sensing, Building and Environment, Sustainable Cities and Society, Earth System Science Data, Journal of Cleaner Production, etc.*
 
-
 ## Publications   
 see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=EN)
-  
+
+## Grants
+* Supporting both food security and climate change mitigation with abandoned cropland: potential and trade-offs. Start-up Fund for RAP under the Strategic Hiring Scheme. The Hong Kong Polytechnic University. PI: HK$ 250,000. 2023-2024
+* Exploring the spatio-temporal pattern of polycentric cities based on night-time light remote sensing data, Zhejiang University. PI: RMB 40,000. 2019-2020.
+
+## Awards
+* 2021, *Remote Sensing* 2021 Best Cover Award, MDPI, CHF 100
+* 2020, Excellent Doctoral Graduate of Zhejiang Province, Department of Education of Zhejiang Province
+* 2019, National PhD Student Award of China, Ministry of Education of China, RMB 30,000
+* 2019  Student Honors Paper Competition Award (1st place), Remote Sensing Specialty Group of American Association of Geographers, USD 500
+* 2019, IndianaView Student Scholarship Award, IndianaView Consortium (USGS), USD 750
+* 2018, Visiting PhD Student Fellowship, China Scholarship Council
+* 2017, Outstanding PhD student scholarship, Zhejiang University, RMB 10,000
+* 2015, TOP 100 Best Undergraduate Thesis, Zhejiang University
+
 ## Talks     
 * **Zheng Q**. Supporting both food security and climate change mitigation with abandoned cropland: potential and trade-offs. American Geophysical Union Fall Meeting 2022, Dec. 2022, Chicago, USA.
 * **Zheng Q**. Future land-use competition constrains natural climate solutions. Nature-based Solutions Conference 2022, July 2022, Oxford, United Kingdom.
@@ -59,6 +72,3 @@ see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scho
 *	Climate Change - Potential of Nature-based Climate Solutions. Civil Service College Singapore & Ministry of Trade and Industry of Singapore. Sept. 7, 2022 (Invited lecture).
 *	Change detection with remote sensing data: theory, method and applications. National University of Singapore, Sept. 3, 2021 (Teaching session).
 *	Geographic Information Systems and Agricultural Modernization, No: 1440001001: Zhejiang University, winter semester, 2019 (Guest Lecturer & Teaching Assistant).
-
-  
-

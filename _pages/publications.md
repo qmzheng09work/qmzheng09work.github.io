@@ -1,12 +1,11 @@
 ---
 layout: archive
 title: " "
-permalink: /publiations/
+permalink: /publications/
 author_profile: true
 redirect_from:
-  - /publiations/
+  - /publications/
 ---
-
 
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   

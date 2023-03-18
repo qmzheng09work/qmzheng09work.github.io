@@ -10,6 +10,7 @@ redirect_from:
 
 Publications ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])
 (Zheng Q=Zheng Qiming; #=Corresponding Author)
+(Total citation: 636; H-index=12)
 
 **2022**   
 **Zheng Q#**, Kelly Siman, Yiwen Zeng, et al. Future land-use competition constrains natural-climate solutions. *Science of the Total Environment*.

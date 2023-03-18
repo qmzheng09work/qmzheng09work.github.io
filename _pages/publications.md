@@ -1,12 +1,13 @@
 ---
-permalink: /
+layout: archive
 title: " "
-excerpt: "publications"
+permalink: /publiations/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
+redirect_from:
+  - /publiations/
 ---
+
+
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author)   

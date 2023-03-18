@@ -8,10 +8,10 @@ redirect_from:
   - /publications.html
 ---
 
-Publications (([Google Scholar]](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en))
-(Zheng Q=Zheng Qiming; #=corresponding author)
+Publications ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])
+(Zheng Q=Zheng Qiming; #=Corresponding Author)
 
-**2022**
+**2022**   
 **Zheng Q#**, Kelly Siman, Yiwen Zeng, et al. Future land-use competition constrains natural-climate solutions. *Science of the Total Environment*.
 
 **Zheng Q#**, Weng Q, Zhou Y, et al. Impact of temporal composite on nighttime light (NTL) data and its applications. *Remote Sensing of Environment*.
@@ -24,7 +24,7 @@ You S; **Zheng Q**, Wang K, et al. Identifying the spatiotemporal dynamics of fo
 
 Lin Y, Zhang M, Gan M, Huang L, Zhu C, **Zheng Q**, et al. Fine identification of the supply–demand mismatches and matches of urban green space ecosystem services with a spatial filtering tool. *Journal of Cleaner Production*.
 
-**2021**
+**2021**   
 **Zheng Q** Weng Q, Wang K. Characterizing urban changes of 30 global mega-cities using dense nighttime light time series stacks. *ISPRS Journal of Photogrammetry and Remote Sensing*. 
 
 **Zheng Q#**, Teo HC, Koh LP. Artificial light at night advances spring phenology in the United States. *Remote Sensing*. (Cover story & TOP10 notable articles of the season).
@@ -35,7 +35,7 @@ Ye Y, Huang L, **Zheng Q**, et al. A feasible framework to downscale NPP-VIIRS n
 
 Dong B, **Zheng Q** Wang Ke, et al. Identifying and Classifying Shrinking Cities Using Long-Term Continuous Night-Time Light Time Series. *Remote Sensing*.
 
-**2020**
+**2020**   
 **Zheng Q**, Weng Q, Wang K. Correcting the Pixel Blooming Effect (PiBE) of DMSP-OLS nighttime light imagery. *Remote Sensing of Environment*.
 
 Ye Z, **Zheng Q**, Zhou R, et al. Mapping and Discriminating Rural Settlements Using Gaofen-2 Images and a Fully Convolutional Network. *Sensors*.
@@ -46,12 +46,12 @@ Ye Y, Deng J, Huang L, **Zheng Q**, et al. Modeling and Prediction of NPP-VIIRS 
 
 Xue X, Lin Y, **Zheng Q**, et al. Mapping the fine-scale spatial pattern of artificial light pollution at night in urban environments from the perspective of bird habitats. *Science of the Total Environment*.
 
-**2019**
+**2019**   
 **Zheng Q**, Weng Q, Wang K. Developing a new cross-sensor calibration model for DMSP-OLS and Suomi-NPP VIIRS night-light imageries. *ISPRS Journal of Photogrammetry and Remote Sensing*.
 
 Fu, Y, Li, J, Weng, Q, **Zheng Q**, et al. Characterizing the spatial pattern of annual urban growth by using time series Landsat imagery. *Science of the Total Environment*.
 
-**2018**
+**2018**   
 **Zheng Q**, Weng Q, Huang L, et al. A new source of multi-spectral high spatial resolution night-time light imagery—JL1-3B. *Remote Sensing of Environment*.
 
 Shahtahmassebi AR, Wu C, Blackburn GA, **Zheng Q**, et al. How do modern transportation projects impact on development of impervious surfaces via new urban area and urban intensification? Evidence from Hangzhou Bay Bridge, China. *Land Use Policy*.
@@ -62,7 +62,7 @@ Huang L, Wu Y, Zheng Q, **Zheng Q**, et al. Quantifying the Spatiotemporal Dynam
 
 **Zheng Q**, Wang K, Huang L, Zheng Q, et al. Monitoring the Different Types of Urban Construction Land Expansion (UCLE) in China’s Port City: A Case Study of Ningbo’s Central City. *Sustainability*.
 
-**2017**
+**2017**   
 **Zheng Q**, Jiang R, Wang K, et al. Monitoring the trajectory of urban nighttime light hotspots using a Gaussian volume model. *International Journal of Applied Earth Observation and Geo-information*.
 
 **Zheng Q**, Zeng Y, Deng J, et al. “Ghost cities” identification using multi-source remote sensing datasets: A case study in Yangtze River Delta. *Applied Geography*. 

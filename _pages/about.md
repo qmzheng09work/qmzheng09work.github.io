@@ -18,8 +18,9 @@ My research interests center on the urban-climate-environment nexus. I use remot
 
 ## News ##
 * 18/01/2023: I joined the PolyU Hong Kong as a Research Assistant Professor.
+* 05/01/2023: I joined the Editorial Board of *Frontier of Remote Sensing*
 * 11/12/2022: I attended AGU 2022 and gave a talk about how abandoned cropland can support both food security and climate change mitigation.
-* 13/10/2022: I gave talk to share my experience in publishing research papers for students and staffs at Dept. of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University
-* 18/09/2022: I gave an invited talk on Natural Climate Solutions for Ministry of Trade and Industry, Singapore.
-* 20/08/2022: Our paper "Large-scale reforestation can increase water yield and reduce drought risk for water-insecure regions in the Asia-Pacific." was accepted by Global Change Biology [[Download](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/_publications/GCB_Teo_2022.pdf)]
-* 30/06/2022: I kicked off a new duty as an Editorial Board Member of ISPRS Journal of Photogrammetry and Remote Sensing
+* 13/10/2022: I gave talk to share my experience in publishing research papers for students and staffs at Dept. of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University, Hong Kong
+* 18/09/2022: I gave an invited talk on Natural Climate Solutions for Ministry of Trade and Industry, Singapore
+* 20/08/2022: Our paper "Large-scale reforestation can increase water yield and reduce drought risk for water-insecure regions in the Asia-Pacific." was accepted by *Global Change Biology* [[Download](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/_publications/GCB_Teo_2022.pdf)]
+* 30/06/2022: I kicked off a new duty as an Editorial Board Member of *ISPRS Journal of Photogrammetry and Remote Sensing*

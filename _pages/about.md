@@ -26,12 +26,12 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * 30/06/2022: I kicked off a new duty as an Editorial Board Member of *ISPRS Journal of Photogrammetry and Remote Sensing*
 
 ## 📠Contact Info. ##
-Qiming Zheng, Ph.D.
-Department of Land Surveying and Geo-Informatics
-The Hong Kong Polytechnic University
-Block Z, Office ZN613
-Phase 8, 181 Chatham Road South
-Hung Hom, Kowloon, Hong Kong SAR
-Email: Qiming.Zheng@outlook.com / Qiming.Zheng@polyu.edu.hk
+Qiming Zheng, Ph.D.   
+Department of Land Surveying and Geo-Informatics   
+The Hong Kong Polytechnic University   
+Block Z, Office ZN613   
+Phase 8, 181 Chatham Road South   
+Hung Hom, Kowloon, Hong Kong SAR   
+Email: Qiming.Zheng@outlook.com / Qiming.Zheng@polyu.edu.hk    
 
 Updated 18/03/2023

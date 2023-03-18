@@ -16,7 +16,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Remote sensing image processing techniques and applications
 * Nighttime light remote sensing
 
-## News ##
+## 📰News ##
 * 18/01/2023: I joined the PolyU Hong Kong as a Research Assistant Professor.
 * 05/01/2023: I joined the Editorial Board of *Frontier of Remote Sensing*
 * 11/12/2022: I attended AGU 2022 and gave a talk about how abandoned cropland can support both food security and climate change mitigation.

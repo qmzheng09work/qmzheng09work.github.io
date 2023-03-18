@@ -13,7 +13,7 @@ name                     : &name "Qiming Zheng"
 description              : &description "personal description"
 url                      : https://qmzheng09work.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://qmzheng09work.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

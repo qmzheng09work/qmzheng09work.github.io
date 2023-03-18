@@ -53,13 +53,13 @@ see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scho
   
 Talks
 ======
-* Zheng Q. Supporting both food security and climate change mitigation with abandoned cropland: potential and trade-offs. American Geophysical Union Fall Meeting 2022, Dec. 2022, Chicago, USA.
-* Zheng Q. Future land-use competition constrains natural climate solutions. Nature-based Solutions Conference 2022, July 2022, Oxford, United Kingdom.
-* Zheng Q, Weng Q. Characterizing urban land changes of global megacities using nighttime light time series. Symposium 2021 of Group on Earth Observations, June 2021, Online.
-* Zheng Q. Earth Observation at Night: Nighttime Light Images Open Up New Applications. September 2019. Indiana State University, USA. (Invited talk)
-* Zheng Q. Developing a new cross-sensor calibration model for DMSP-OLS and Suomi-NPP VIIRS night-light imageries. AAG 2019-Annual Meeting of American Association of Geographers, April 2019, Washington D.C., USA.
-* Zheng Q, Wang K. Analysis of the spatio-temporal dynamic of polycentric city using night-time light remote sensing imagery. IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium, July 2018, Valencia, Spain.
-* Zheng Q, Wang K. Monitoring “ghost cities” in China from the view of night-time light remote sensing data. Workshop of “Sustainable Systems and Societies: energy, environment and policy frameworks”, November 2016, Campinas, Brazil.
+* **Zheng Q**. Supporting both food security and climate change mitigation with abandoned cropland: potential and trade-offs. American Geophysical Union Fall Meeting 2022, Dec. 2022, Chicago, USA.
+* **Zheng Q**. Future land-use competition constrains natural climate solutions. Nature-based Solutions Conference 2022, July 2022, Oxford, United Kingdom.
+* **Zheng Q** Weng Q. Characterizing urban land changes of global megacities using nighttime light time series. Symposium 2021 of Group on Earth Observations, June 2021, Online.
+* **Zheng Q**. Earth Observation at Night: Nighttime Light Images Open Up New Applications. September 2019. Indiana State University, USA. (Invited talk)
+* **Zheng Q**. Developing a new cross-sensor calibration model for DMSP-OLS and Suomi-NPP VIIRS night-light imageries. AAG 2019-Annual Meeting of American Association of Geographers, April 2019, Washington D.C., USA.
+* **Zheng Q**, Wang K. Analysis of the spatio-temporal dynamic of polycentric city using night-time light remote sensing imagery. IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium, July 2018, Valencia, Spain.
+* **Zheng Q**, Wang K. Monitoring “ghost cities” in China from the view of night-time light remote sensing data. Workshop of “Sustainable Systems and Societies: energy, environment and policy frameworks”, November 2016, Campinas, Brazil.
 
   
 Teaching

@@ -47,7 +47,6 @@ Professional Service
 *Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, IEEE Transactions on Geoscience and Remote Sensing, PNAS Nexus, GIScience & Remote Sensing, Building and Environment, Sustainable Cities and Society, Earth System Science Data, Journal of Cleaner Production, etc.*
 
 
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,14 +55,21 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Zheng Q. Supporting both food security and climate change mitigation with abandoned cropland: potential and trade-offs. American Geophysical Union Fall Meeting 2022, Dec. 2022, Chicago, USA.
+* Zheng Q. Future land-use competition constrains natural climate solutions. Nature-based Solutions Conference 2022, July 2022, Oxford, United Kingdom.
+* Zheng Q, Weng Q. Characterizing urban land changes of global megacities using nighttime light time series. Symposium 2021 of Group on Earth Observations, June 2021, Online.
+* Zheng Q. Earth Observation at Night: Nighttime Light Images Open Up New Applications. September 2019. Indiana State University, USA. (Invited talk)
+* Zheng Q. Developing a new cross-sensor calibration model for DMSP-OLS and Suomi-NPP VIIRS night-light imageries. AAG 2019-Annual Meeting of American Association of Geographers, April 2019, Washington D.C., USA.
+* Zheng Q, Wang K. Analysis of the spatio-temporal dynamic of polycentric city using night-time light remote sensing imagery. IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium, July 2018, Valencia, Spain.
+* Zheng Q, Wang K. Monitoring “ghost cities” in China from the view of night-time light remote sensing data. Workshop of “Sustainable Systems and Societies: energy, environment and policy frameworks”, November 2016, Campinas, Brazil.
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*	Remote Sensing of Urban Landscape (Course GE4214 for senior undergraduates). National University of Singapore. Oct. 18, 2022 (Invited lecture).
+*	Climate Change - Potential of Nature-based Climate Solutions. Civil Service College Singapore & Ministry of Trade and Industry of Singapore. Sept. 7, 2022 (Invited lecture).
+*	Change detection with remote sensing data: theory, method and applications. National University of Singapore, Sept. 3, 2021 (Teaching session).
+*	Geographic Information Systems and Agricultural Modernization, No: 1440001001: Zhejiang University, winter semester, 2019 (Guest Lecturer & Teaching Assistant).
+
   
 

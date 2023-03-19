@@ -18,7 +18,6 @@ My research interests center on the urban-climate-environment nexus. I use remot
 
 ## 📰News ##
 * 18/01/2023: I joined the PolyU Hong Kong as a Research Assistant Professor.
-* 05/01/2023: I joined the Editorial Board of *Frontier of Remote Sensing*
 * 11/12/2022: I attended AGU 2022 and gave a talk about how abandoned cropland can support both food security and climate change mitigation.
 * 13/10/2022: I gave talk to share my experience in publishing research papers for students and staffs at Dept. of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University, Hong Kong
 * 18/09/2022: I gave an invited talk on Natural Climate Solutions for Ministry of Trade and Industry, Singapore

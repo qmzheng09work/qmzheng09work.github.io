@@ -7,7 +7,7 @@ author_profile: true
 
 ## Understanding the Urban-Climate-Environment nexus with geospatial data, model, and ML/AI techniques. 
 
-see full [Publication](https://qmzheng09work.github.io/publications/) or [Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=EN)
+see full publication list in [Publication](https://qmzheng09work.github.io/publications/) or [Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=EN)
 
 ### Topic 1: Understanding global urbanization for sustainable urban developing   
 
@@ -25,5 +25,10 @@ see full [Publication](https://qmzheng09work.github.io/publications/) or [Google
    
 ### Topic 3: Land-based climate change mitigation
 
-df 
+**1. Global urban reforestation can be an important natural climate solution**   
+  The climate mitigation potential of urban nature-based solutions (NBSs) is often perceived as insignificant and thus overlooked, as cities primarily pursue NBSs for local ecosystem services. We modelled the global potential and limits of urban reforestation worldwide, and find that 10.9 ± 2.8 Mha of land (17.6% of all city areas) are suitable for reforestation, which would offset 82.4 ± 25.7 MtCO2e yr−1 of carbon emissions. Among the cities analysed, 1189 are potentially able to offset >25% of their city carbon emissions through reforestation. (ERL, 2021) [[PDF](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/_publications/Hoong%20Chen-2021-Global%20urban%20reforestation%20can.pdf)][[Online](https://iopscience.iop.org/article/10.1088/1748-9326/abe783)]
+  
+   ![](urban_reforestation.png)
+   
+
 

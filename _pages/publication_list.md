@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: " "
 permalink: /publication_list/
+title: " "
 author_profile: true
+redirect_from: 
+  - /publication_list/
+  - /publication_list.html
 ---
 
 

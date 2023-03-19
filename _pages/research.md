@@ -16,7 +16,7 @@ see full publication list in [Publication](https://qmzheng09work.github.io/publi
   
    ![](urban_land_change2.png)
 
-### TOPIC 2: Nighttime Light Remote Sensing   
+### TOPIC 2: Nighttime Light Remote Sensing    
 
 **1. Impact of temporal compositing on nighttime light data and its applications**   
   We utilized over 180,000 daily NTL tiles from NASA’s Black Marble VIIRS product (VNP46A2, 2012–2020), covering 230 cities from China and the United States, to delve    into the influence of temporal compositing on valid pixel coverage and spatiotemporal pattern of NTL data and the performance of three representative types of NTL-based applications. (RSE, 2022) [[PDF](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/_publications/NTL_composite_Zheng_2023.pdf)][[Online](https://www.sciencedirect.com/science/article/pii/S0034425722001304?via%3Dihub)]
@@ -31,7 +31,6 @@ see full publication list in [Publication](https://qmzheng09work.github.io/publi
    ![](urban_reforestation.png)
    
 **2. Future land-use competition constrains natural climate solutions**    
-
   Natural climate solutions (NCS) are an essential complement to climate mitigation and have been increasingly incorporated into international mitigation strategies. Yet, with the ongoing population growth, allocating natural areas for NCS may compete with other socioeconomic priorities, especially urban development and food security. We projected the impacts ofland-use competition incurred by cropland and urban expansion on the climate mitigation potential of NCS.  
   Our results estimate a substantial reduction, 0.3–2.8 GtCO2 yr−1 or 4–39 %, in NCS mitigation potential, of which cropland expansion for fulfilling future food demand is the primary cause. The accumulated loss in NCS potential accounts for 25-30% of the total emission reduction demand during 2020-2030. Such impact on NCS is particularly severe in the tropics where NCS hold the most abundant mitigation potential. (STOTEN, 2022)[[PDF](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/_publications/Zheng-2022-Future%20land-use%20competition%20constra.pdf)][[Online](https://www.sciencedirect.com/science/article/pii/S0048969722035069?via%3Dihub)]
   

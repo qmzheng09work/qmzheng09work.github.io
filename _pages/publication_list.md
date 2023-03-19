@@ -1,10 +1,8 @@
 ---
-permalink: /publication_list/
+layout: archive
 title: " "
+permalink: /publication_list/
 author_profile: true
-redirect_from: 
-  - /publication_list/
-  - /publication_list.html
 ---
 
 

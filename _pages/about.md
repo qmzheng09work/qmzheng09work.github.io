@@ -34,5 +34,3 @@ Hung Hom, Kowloon, Hong Kong SAR
 Email: Qiming.Zheng@outlook.com / Qiming.Zheng@polyu.edu.hk    
 
 Updated 18/03/2023
-
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/5.js?i=5aztwpa79ue&amp;m=6&amp;c=ff0000&amp;cr1=ffffff" async="async"></script>

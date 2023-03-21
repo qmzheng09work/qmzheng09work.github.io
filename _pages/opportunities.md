@@ -9,7 +9,7 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 
 Email: qiming.zheng@polyu.edu.hk (please cc: qiming.zheng@outlook.com)
 
-**Current opennings: **
+## Current opennings: 
 1. Research Assistant   
 Duration:6-9 months   
 Research focus: urban nighttime light remote sensing   

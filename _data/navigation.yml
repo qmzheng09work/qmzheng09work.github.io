@@ -10,7 +10,7 @@ main:
     url: /publication_list/ 
     
   - title: "Codes·Data·Tutorials"
-    url: /markdown/  
+    url: /codes/  
             
   - title: "Opportunities"
     url: /opportunities/  

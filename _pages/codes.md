@@ -1,10 +1,8 @@
 ---
-permalink: /markdown/
+layout: archive
 title: " "
+permalink: /codes/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 ## NASA's Black Marble VIIRS Product Pre-processing 

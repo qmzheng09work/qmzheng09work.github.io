@@ -28,10 +28,11 @@ My research interests center on the urban-climate-environment nexus. I use remot
 Qiming Zheng, Ph.D.   
 Department of Land Surveying and Geo-Informatics   
 The Hong Kong Polytechnic University   
-Block Z, Phase 8, 181 Chatham Road South   
+Block Z, Office ZN613   
+Phase 8, 181 Chatham Road South   
 Hung Hom, Kowloon, Hong Kong SAR   
+
 Email: Qiming.Zheng@outlook.com / Qiming.Zheng@polyu.edu.hk    
-Office: ZN613   
 Working phone no.: +852-27665973
 
 Updated 18/03/2023

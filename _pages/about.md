@@ -17,6 +17,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Nighttime light remote sensing
 
 ## 📰News ##
+* 25/04/2023: Our paper about the new high-resolution NTL image data - SDGSAT-1 has been published in *International Journal of Applied Earth Observation and Geoinformation* [[Download](https://www.sciencedirect.com/science/article/pii/S1569843223001358?via%3Dihub)].
 * 04/04/2023: I gave 2 lectures on "Urban Observation with Remote Sensing Images" to students of PolyU HK. 
 * 18/01/2023: I joined the PolyU Hong Kong as a Research Assistant Professor.
 * 11/12/2022: I attended AGU 2022 and gave a talk about how abandoned cropland can support both food security and climate change mitigation.

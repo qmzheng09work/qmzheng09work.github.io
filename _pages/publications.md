@@ -8,7 +8,10 @@ author_profile: true
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author)   
-(Total citation: 636; H-index=12)
+(Total citation: 664; H-index=13)
+
+**2023**   
+Guo B, Hu D, **Zheng Q**. Potentiality of SDGSAT-1 glimmer imagery to investigate the spatial variability in nighttime lights. *International Journal of Applied Earth Observation and Geoinformation*.
 
 **2022**   
 **Zheng Q#**, Kelly Siman, Yiwen Zeng, et al. Future land-use competition constrains natural-climate solutions. *Science of the Total Environment*.

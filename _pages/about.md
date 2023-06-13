@@ -20,10 +20,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * 29/05/2023: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" was accepted by ISPRS P&RS Journal.
 * 22/05/2023: I was invited by Northestern University, Shenyang, China, to give a talk on "Nighttime light remote sensing" as part of its centennial celebration events.
 * 25/04/2023: Our paper about the new high-resolution NTL image data - SDGSAT-1 has been published in *International Journal of Applied Earth Observation and Geoinformation* [[Download](https://www.sciencedirect.com/science/article/pii/S1569843223001358?via%3Dihub)].
-* 04/04/2023: I gave 2 lectures on "Urban Observation with Remote Sensing Images" to students of PolyU HK. 
 * 18/01/2023: I joined the PolyU Hong Kong as a Research Assistant Professor.
-* 11/12/2022: I attended AGU 2022 and gave a talk about how abandoned cropland can support both food security and climate change mitigation.
-* 13/10/2022: I gave talk to share my experience in publishing research papers for students and staffs at Dept. of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University, Hong Kong
 * 18/09/2022: I gave an invited talk on Natural Climate Solutions for Ministry of Trade and Industry, Singapore
 * 20/08/2022: Our paper "Large-scale reforestation can increase water yield and reduce drought risk for water-insecure regions in the Asia-Pacific." was accepted by *Global Change Biology* [[Download](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/_publications/GCB_Teo_2022.pdf)]
 * 30/06/2022: I kicked off a new duty as an Editorial Board Member of *ISPRS Journal of Photogrammetry and Remote Sensing*

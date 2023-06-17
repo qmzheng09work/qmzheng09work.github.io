@@ -8,10 +8,10 @@ author_profile: true
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author)   
-(Total citation: 677; H-index=13)
+(Total citation: 724; H-index=14)
 
 **2023**   
-**Zheng Q**, Seto KC, Zhou Y, You S, Weng Q*. Nighttime light remote sensing for urban applications: progress, challenges, and prospects. *ISPRS Journal of Photogrammetry and Remote Sensing*   
+**Zheng Q**, Seto KC, Zhou Y, You S, Weng Q. Nighttime light remote sensing for urban applications: progress, challenges, and prospects. *ISPRS Journal of Photogrammetry and Remote Sensing* 
 
 Guo, B., Hu, D., & **Zheng, Q.** (2023). Potentiality of SDGSAT-1 glimmer imagery to investigate the spatial variability in nighttime lights. *International Journal of Applied Earth Observation and Geoinformation*
 

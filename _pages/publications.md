@@ -11,9 +11,9 @@ author_profile: true
 (Total citation: 724; H-index=14)
 
 **2023**   
-Guo B, Hu D, **Zheng Q**. Potentiality of SDGSAT-1 glimmer imagery to investigate the spatial variability in nighttime lights. *International Journal of Applied Earth Observation and Geoinformation*.  
+**Zheng, Q.**, Seto, K. C., Zhou, Y., You, S., & Weng, Q. Nighttime light remote sensing for urban applications: Progress, challenges, and prospects. *ISPRS Journal of Photogrammetry and Remote Sensing*.
 
-**Zheng, Q.**, Seto, K. C., Zhou, Y., You, S., & Weng, Q. *Nighttime light remote sensing for urban applications: Progress, challenges, and prospects. ISPRS Journal of Photogrammetry and Remote Sensing*.
+Guo B, Hu D, **Zheng Q**. Potentiality of SDGSAT-1 glimmer imagery to investigate the spatial variability in nighttime lights. *International Journal of Applied Earth Observation and Geoinformation*.  
 
 **2022**   
 **Zheng Q#**, Kelly Siman, Yiwen Zeng, et al. Future land-use competition constrains natural-climate solutions. *Science of the Total Environment*.

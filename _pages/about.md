@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---  
 
-<font size=5>-Vincent Van Gogh:"*I often think that the night is even more alive and richly colored that the day.*"</font>   
-<font size=5>-Qiming:"*So do I.*"</font>
+-Vincent Van Gogh:*I often think that the night is even more alive and richly colored that the day.*   
+-Qiming:*So do I.*
 
 ## Welcome to my homepage ##
 My research interests center on the urban-climate-environment nexus. I use remote sensing, GIS and geospatial techniques, environment and climate models, and AI/machine learning approaches to understand global urbanization and its environmental and climatic consequences, and to develop effective mitigation and adaption solutions. My research focus has always been on pushing the envelope on technical bottlenecks, bridging the gap between technical innovation and cutting edge environmental issues, and delivering policy-relevant information for decision-making. My current research focuses on the following themes:

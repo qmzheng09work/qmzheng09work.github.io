@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---  
 
-<font size=5>Vincent Van Gogh："*I often think that the night is even more alive and richly colored that the day*"</font>
+<font size=5>Vincent Van Gogh："*I often think that the night is even more alive and richly colored that the day*"</font>   
 <font size=5>Qiming："*So do I*"</font>
 
 ## Welcome to my homepage ##

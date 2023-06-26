@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---  
 
-🎨Vincent Van Gogh: I often think that the night is even more alive and richly colored that the day   
+🎨Vincent Van Gogh: I often think that the night is even more alive and richly colored than the day   
 🗺️Qiming: So do I
 
 ## Welcome to my homepage ##

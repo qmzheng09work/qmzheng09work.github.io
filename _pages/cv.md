@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my lastest [CV](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/files/C.V. Qiming Zheng_v14.pdf)
+Download my lastest [CV](https://github.com/qmzheng09work/qmzheng09work.github.io/blob/master/files/C.V.%20Qiming%20Zheng_v14.pdf)
 
 ## Education    
 * **Ph.D**. in Remote Sensing and GIS, Zhejiang University, China, 2015-2020

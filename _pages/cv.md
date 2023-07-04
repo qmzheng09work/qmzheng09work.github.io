@@ -34,8 +34,8 @@ Download my lastest [CV](https://github.com/qmzheng09work/qmzheng09work.github.i
 
 ## Professional Service
 **Editorship**     
-* 06/2022 - present: Editorial Board Member, *ISPRS Journal of Photogrammetry and Remote Sensing (Q1:2/52)* 
-* 2021 - 2023: Guest editor, *Remote Sensing (Q2)*, Special Issue: Remote Sensing Imagery For Mapping Economic Activities
+* 06/2022 - present: **Editorial Board Member**, *ISPRS Journal of Photogrammetry and Remote Sensing* (Q1:2/52)
+* 2021 - 2023: **Guest editor**, *Remote Sensing* (Q2:12/33), Special Issue: Remote Sensing Imagery For Mapping Economic Activities
 
 **Journal Reviewer** (Total: 135)   
 *Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, IEEE Transactions on Geoscience and Remote Sensing, PNAS Nexus, GIScience & Remote Sensing, Building and Environment, Sustainable Cities and Society, Earth System Science Data, Journal of Cleaner Production, etc.*

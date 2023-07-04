@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Download my lastest [CV](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/files/C.V.%20Qiming%20Zheng.pdf)
+Download my lastest [CV](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/files/C.V. Qiming Zheng_v14.pdf)
 
 ## Education    
-* Ph.D. in Remote Sensing and GIS, Zhejiang University, China, 2015-2020
-* Visiting Ph.D. in Remote Sensing of Urban Environment, Indiana State Universtiy, USA, 2018-2019
-* B.S. in Environment and Resource Sciences, Zhejiang University, China, 2011-2015
+* **Ph.D**. in Remote Sensing and GIS, Zhejiang University, China, 2015-2020
+* **Visiting Ph.D.** in Remote Sensing of Urban Environment, Indiana State Universtiy, USA, 2018-2019
+* **B.S.** in Environment and Resource Sciences, Zhejiang University, China, 2011-2015
 
 ## Work experience     
-* 01/2023 - present: Research Assistant Professor
+* 01/2023 - present: **Research Assistant Professor**
   * Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University
   * Affliated with The JC STEM Lab of Earth Observations (Lab Head: [Prof. Qihao Weng](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-weng-qihao/))
 
-* 08/2020 - 01/2023: Postdoctoral Research Fellow
+* 08/2020 - 01/2023: **Postdoctoral Research Fellow**
   * Centre for Nature-based Climate Solutions, National University of Singapore
   * Supervisor: [Prof. Lian Pin Koh](https://www.nus.edu.sg/cncs/koh-lian-pin/)
   

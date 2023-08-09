@@ -24,7 +24,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 
 ## 📰News ##  
 * 08/08/2023: Our proposed research on building height estimation was selected for Alibaba DAMO Academy AI Earth Joint Research & Innovation Programme.
-* 17/06/2023: I gave a talk on “Impact of temporal compositing on nighttime light data and its applications" at Quantitatvie RS Forum 2023, Chengdu, China. [[Photo@Twitter](https://twitter.com/QimingZheng2/status/1670058400305086464)].
+* 17/06/2023: I gave a talk on “Impact of temporal compositing on nighttime light data and its applications" at Quantitative RS Forum 2023, Chengdu, China. [[Photo@Twitter](https://twitter.com/QimingZheng2/status/1670058400305086464)].
 * 29/05/2023: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" was published in *ISPRS P&RS Journal* [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].
 * 22/05/2023: I was invited by Northestern University, Shenyang, China, to give a talk on "Nighttime light remote sensing" as part of its centennial celebration events.
 * 25/04/2023: Our paper about the new high-resolution NTL image data - SDGSAT-1 has been published in *International Journal of Applied Earth Observation and Geoinformation* [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S1569843223001358?via%3Dihub)].

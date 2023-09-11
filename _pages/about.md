@@ -11,7 +11,7 @@ redirect_from:
 🎨Vincent Van Gogh: I often think that the night is even more alive and richly colored than the day   
 🗺️Qiming: So do I
 
-### I am looking for 1 Research Assistant (or Visiting PhD) and 1 Postdoc Fellow working on one of the following topics: Nighttime light remote sensing, Urban sustainability, and Nature-based Climate Solutions. [Details](https://qmzheng09work.github.io/opportunities/).
+### I am looking for 1 Postdoc and 1 Visiting PhD student working on one of the following topics: Nighttime light remote sensing, Urban sustainability, and Nature-based Climate Solutions. [Details](https://qmzheng09work.github.io/opportunities/).
  
 
 ## Welcome to my homepage ##

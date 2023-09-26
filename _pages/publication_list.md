@@ -11,6 +11,8 @@ author_profile: true
 (Total citation: 735; H-index=14)
 
 **2023**   
+[29] **Zheng Q#**, Ha T, Prishchepov A, et al. The neglected role of abandoned cropland in supporting food security and climate change mitigation. *Nature Communications"
+
 [28] **Zheng Q**, Seto KC, Zhou Y, You S, Weng Q. Nighttime light remote sensing for urban applications: progress, challenges, and prospects. *ISPRS Journal of Photogrammetry and Remote Sensing* 
 
 [27] Guo, B., Hu, D., & **Zheng, Q.** (2023). Potentiality of SDGSAT-1 glimmer imagery to investigate the spatial variability in nighttime lights. *International Journal of Applied Earth Observation and Geoinformation*

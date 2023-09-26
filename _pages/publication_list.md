@@ -8,7 +8,7 @@ author_profile: true
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author)   
-(Total citation: 735; H-index=14)
+(Total citation: 794; H-index=14)
 
 **2023**   
 [29] **Zheng Q#**, Ha T, Prishchepov A, et al. The neglected role of abandoned cropland in supporting food security and climate change mitigation. *Nature Communications*

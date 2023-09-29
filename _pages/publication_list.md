@@ -8,7 +8,7 @@ author_profile: true
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author)   
-(Total citation: 794; H-index=14)
+(Total citation: 799; H-index=14)
 
 **2023**   
 [30] **Zheng Q#**, **Weng Q#**. The emerging opportunities to improve light pollution measurement. *Science*. (eLetter, non peer-reviewed commentary)

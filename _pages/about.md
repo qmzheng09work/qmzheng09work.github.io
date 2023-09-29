@@ -23,7 +23,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Nighttime light remote sensing
 
 ## 📰News ##  
-* 29/09/2023: We posted an eLetter commentary on light pollution measurements in *Science*. [[See](https://www.science.org/doi/10.1126/science.adg0473#elettersSection)].
+* 29/09/2023: We posted an eLetter commentary on light pollution measurements in *Science*. [[View eLetter](https://www.science.org/doi/10.1126/science.adg0473#elettersSection)].
 * 21/09/2023: Our manuscript about global abandoned cropland has been accepted by *Nature Communications*.[[Download (OA)](https://www.nature.com/articles/s41467-023-41837-y)].
 * 08/08/2023: Our proposed research on building height estimation was selected for Alibaba DAMO Academy AI Earth Joint Research & Innovation Programme.
 * 17/06/2023: I gave a talk on “Impact of temporal compositing on nighttime light data and its applications" at Quantitative RS Forum 2023, Chengdu, China. [[Photo@Twitter](https://twitter.com/QimingZheng2/status/1670058400305086464)].

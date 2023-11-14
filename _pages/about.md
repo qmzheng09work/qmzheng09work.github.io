@@ -23,6 +23,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Nighttime light remote sensing
 
 ## 📰News ##  
+* 14/11/2023: My co-authored paper on "Uncertainties in deforestation emission baseline methodologies" has been accepted by Nature Communications!
 * 29/09/2023: We posted an eLetter commentary on light pollution measurements in *Science*. [[View eLetter](https://www.science.org/doi/10.1126/science.adg0473#elettersSection)].
 * 21/09/2023: Our manuscript about global abandoned cropland was published in *Nature Communications*.[[Download (OA)](https://www.nature.com/articles/s41467-023-41837-y)].[Media:[Eurekalert AAAS](https://www.eurekalert.org/news-releases/1003363);[Earth.com](https://www.earth.com/news/abandoned-croplands-could-boost-food-security-and-climate-mitigation/); see [More](https://www.nature.com/articles/s41467-023-41837-y/metrics)].
 * 08/08/2023: Our proposed research on building height estimation was selected for Alibaba DAMO Academy AI Earth Joint Research & Innovation Programme.
@@ -32,8 +33,6 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * 25/04/2023: Our paper about the new high-resolution NTL image data - SDGSAT-1 has been published in *International Journal of Applied Earth Observation and Geoinformation* [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S1569843223001358?via%3Dihub)].
 * 18/01/2023: I joined the PolyU Hong Kong as a Research Assistant Professor.
 * 18/09/2022: I gave an invited talk on Natural Climate Solutions for Ministry of Trade and Industry, Singapore
-* 20/08/2022: Our paper "Large-scale reforestation can increase water yield and reduce drought risk for water-insecure regions in the Asia-Pacific." was accepted by *Global Change Biology* [[Download](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/_publications/GCB_Teo_2022.pdf)]
-* 30/06/2022: I kicked off a new duty as an Editorial Board Member of *ISPRS Journal of Photogrammetry and Remote Sensing*
 
 ## ✉️Contact Info. ##
 Qiming Zheng, Ph.D.   

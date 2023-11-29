@@ -7,13 +7,15 @@ author_profile: true
 
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
-(Zheng Q=Zheng Qiming; #=Corresponding Author)   
+(Zheng Q=Zheng Qiming; #=Corresponding Author; *=supervised students/RA)   
 (Total citation: 855; H-index=15)
 
 **2023**   
+[31] Teo HC, Tan N, **Zheng Q**, et al. Uncertainties in deforestation emission baseline methodologies and implications for carbon markets. *Nature Communications*.(Accepted; In Press)
+
 [30] **Zheng Q#**, **Weng Q#**. The emerging opportunities to improve light pollution measurement. *Science*. (eLetter, non peer-reviewed commentary)
 
-[29] **Zheng Q#**, Ha T, Prishchepov A, et al. The neglected role of abandoned cropland in supporting food security and climate change mitigation. *Nature Communications*
+[29] **Zheng Q#**, Ha T*, Prishchepov A, et al. The neglected role of abandoned cropland in supporting food security and climate change mitigation. *Nature Communications*
 
 [28] **Zheng Q**, Seto KC, Zhou Y, You S, Weng Q. Nighttime light remote sensing for urban applications: progress, challenges, and prospects. *ISPRS Journal of Photogrammetry and Remote Sensing* 
 
@@ -28,7 +30,7 @@ author_profile: true
 
 [23] Sreekar R; Zeng Y; **Zheng Q**, et al. Nature-based climate solutions for expanding the global protected area network. *Biological Conservation*. 
 
-[22] You S; **Zheng Q**, Wang K, et al. Identifying the spatiotemporal dynamics of forest ecotourism values with remotely sensed images and social media data: a perspective of public preferences. *Journal of Cleaner Production*.
+[22] You S*; **Zheng Q**, Wang K, et al. Identifying the spatiotemporal dynamics of forest ecotourism values with remotely sensed images and social media data: a perspective of public preferences. *Journal of Cleaner Production*.
 
 [21] Lin Y, Zhang M, Gan M, Huang L, Zhu C, **Zheng Q**, et al. Fine identification of the supply–demand mismatches and matches of urban green space ecosystem services with a spatial filtering tool. *Journal of Cleaner Production*.
 

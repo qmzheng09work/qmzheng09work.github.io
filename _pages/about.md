@@ -23,7 +23,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Nighttime light remote sensing
 
 ## 📰News ##  
-* 14/11/2023: My co-authored paper on "Uncertainties in deforestation emission baseline methodologies" has been accepted by Nature Communications!
+* 14/11/2023: My co-authored paper on "Uncertainties in deforestation emission baseline methodologies" has been accepted by *Nature Communications*!
 * 29/09/2023: We posted an eLetter commentary on light pollution measurements in *Science*. [[View eLetter](https://www.science.org/doi/10.1126/science.adg0473#elettersSection)].
 * 21/09/2023: Our manuscript about global abandoned cropland was published in *Nature Communications*.[[Download (OA)](https://www.nature.com/articles/s41467-023-41837-y)].[Media:[Eurekalert AAAS](https://www.eurekalert.org/news-releases/1003363);[Earth.com](https://www.earth.com/news/abandoned-croplands-could-boost-food-security-and-climate-mitigation/); see [More](https://www.nature.com/articles/s41467-023-41837-y/metrics)].
 * 08/08/2023: Our proposed research on building height estimation was selected for Alibaba DAMO Academy AI Earth Joint Research & Innovation Programme.

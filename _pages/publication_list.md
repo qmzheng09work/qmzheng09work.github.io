@@ -30,7 +30,7 @@ author_profile: true
 
 [23] Sreekar R; Zeng Y; **Zheng Q**, et al. Nature-based climate solutions for expanding the global protected area network. *Biological Conservation*. 
 
-[22] You S*; **Zheng Q**, Wang K, et al. Identifying the spatiotemporal dynamics of forest ecotourism values with remotely sensed images and social media data: a perspective of public preferences. *Journal of Cleaner Production*.
+[22] You S^; **Zheng Q**, Wang K, et al. Identifying the spatiotemporal dynamics of forest ecotourism values with remotely sensed images and social media data: a perspective of public preferences. *Journal of Cleaner Production*.
 
 [21] Lin Y, Zhang M, Gan M, Huang L, Zhu C, **Zheng Q**, et al. Fine identification of the supply–demand mismatches and matches of urban green space ecosystem services with a spatial filtering tool. *Journal of Cleaner Production*.
 
@@ -43,14 +43,14 @@ author_profile: true
 
 [17] Ye Y, Huang L, **Zheng Q**, et al. A feasible framework to downscale NPP-VIIRS nighttime light imagery using multi-source spatial variables and geographically weighted regression. *International Journal of Applied Earth Observation and Geoinformation*.
 
-[16] Dong B, **Zheng Q** Wang Ke, et al. Identifying and Classifying Shrinking Cities Using Long-Term Continuous Night-Time Light Time Series. *Remote Sensing*.
+[16] Dong B^, **Zheng Q** Wang Ke, et al. Identifying and Classifying Shrinking Cities Using Long-Term Continuous Night-Time Light Time Series. *Remote Sensing*.
 
 **2020**   
 [15] **Zheng Q**, Weng Q, Wang K. Correcting the Pixel Blooming Effect (PiBE) of DMSP-OLS nighttime light imagery. *Remote Sensing of Environment*.
 
 [14] Ye Z, **Zheng Q**, Zhou R, et al. Mapping and Discriminating Rural Settlements Using Gaofen-2 Images and a Fully Convolutional Network. *Sensors*.
 
-[13] You S, **Zheng Q**, Lin Y, et al. Specific Bamboo Forest Extraction and Long-Term Dynamics as Revealed by Landsat Time Series Stacks and Google Earth Engine. *Remote Sensing*.
+[13] You S^, **Zheng Q**, Lin Y, et al. Specific Bamboo Forest Extraction and Long-Term Dynamics as Revealed by Landsat Time Series Stacks and Google Earth Engine. *Remote Sensing*.
 
 [12] Ye Y, Deng J, Huang L, **Zheng Q**, et al. Modeling and Prediction of NPP-VIIRS Nighttime Light Imagery Based on Spatiotemporal Statistical Method. *IEEE Transactions on Geoscience and Remote Sensing*.
 

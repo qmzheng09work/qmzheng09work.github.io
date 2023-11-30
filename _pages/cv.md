@@ -19,6 +19,9 @@ redirect_from:
   * Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University
   * Affliated with The JC STEM Lab of Earth Observations (Lab Head: [Prof. Qihao Weng](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-weng-qihao/))
 
+* 01/2023 - 10/2023: **Lab Manager**
+  * The JC STEM Lab of Earth Observations, The Hong Kong Polytechnic University
+
 * 08/2020 - 01/2023: **Postdoctoral Research Fellow**
   * Centre for Nature-based Climate Solutions, National University of Singapore
   * Supervisor: [Prof. Lian Pin Koh](https://www.nus.edu.sg/cncs/koh-lian-pin/)

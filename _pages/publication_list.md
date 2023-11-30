@@ -7,7 +7,7 @@ author_profile: true
 
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
-(Zheng Q=Zheng Qiming; #=Corresponding Author; *=supervised students/RA)   
+(Zheng Q=Zheng Qiming; #=Corresponding Author; ^=supervised students/RA)   
 (Total citation: 855; H-index=15)
 
 **2023**   
@@ -15,7 +15,7 @@ author_profile: true
 
 [30] **Zheng Q#**, **Weng Q#**. The emerging opportunities to improve light pollution measurement. *Science*. (eLetter, non peer-reviewed commentary)
 
-[29] **Zheng Q#**, Ha T**, Prishchepov A, et al. The neglected role of abandoned cropland in supporting food security and climate change mitigation. *Nature Communications*
+[29] **Zheng Q#**, Ha T^, Prishchepov A, et al. The neglected role of abandoned cropland in supporting food security and climate change mitigation. *Nature Communications*
 
 [28] **Zheng Q**, Seto KC, Zhou Y, You S, Weng Q. Nighttime light remote sensing for urban applications: progress, challenges, and prospects. *ISPRS Journal of Photogrammetry and Remote Sensing* 
 

@@ -23,7 +23,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Nighttime light remote sensing
 
 ## 📰News ##  
-* 20/12/2023: Our work that I supervised,"Estimating building heights in complex urban areas", has been published in *International Journal of Applied Earth Observation and Geoinformation*![[Download(OA)](https://doi.org/10.1016/j.jag.2023.103625)]
+* 20/12/2023: The work that I supervised,"Estimating building heights in complex urban areas", has been published in *International Journal of Applied Earth Observation and Geoinformation*![[Download(OA)](https://doi.org/10.1016/j.jag.2023.103625)]
 * 13/12/2023: My co-authored paper on "Uncertainties in deforestation emission baseline methodologies" has been published in *Nature Communications*! [[Download (OA)](https://doi.org/10.1038/s41467-023-44127-9)]
 * 29/09/2023: We posted an eLetter commentary on light pollution measurements in *Science*. [[View eLetter](https://www.science.org/doi/10.1126/science.adg0473#elettersSection)].
 * 21/09/2023: Our manuscript about global abandoned cropland was published in *Nature Communications*.[[Download (OA)](https://www.nature.com/articles/s41467-023-41837-y)].[Media:[Eurekalert AAAS](https://www.eurekalert.org/news-releases/1003363);[Earth.com](https://www.earth.com/news/abandoned-croplands-could-boost-food-security-and-climate-mitigation/); see [More](https://www.nature.com/articles/s41467-023-41837-y/metrics)].

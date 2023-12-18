@@ -11,9 +11,11 @@ author_profile: true
 (Total citation: 855; H-index=15)
 
 **2023**   
-[31] Teo HC, Tan N, **Zheng Q**, et al. Uncertainties in deforestation emission baseline methodologies and implications for carbon markets. *Nature Communications*.(Accepted; In Press)
+[32] ^Dong B, **Zheng Q#**, Lin Y, Chen B, Ye Z, Huang C, et al. Integrating physical model-based features and spatial contextual information to estimate building height in complex urban areas. *International Journal of Applied Earth Observation and Geoinformation*. 
 
-[30] **Zheng Q#**, **Weng Q#**. The emerging opportunities to improve light pollution measurement. *Science*. (eLetter, non peer-reviewed commentary)
+[31] Teo HC, Tan N, **Zheng Q**, et al. Uncertainties in deforestation emission baseline methodologies and implications for carbon markets. *Nature Communications*.
+
+[30] **Zheng Q#**, Weng Q#. The emerging opportunities to improve light pollution measurement. *Science*. (eLetter, non peer-reviewed commentary)
 
 [29] **Zheng Q#**, Ha T^, Prishchepov A, et al. The neglected role of abandoned cropland in supporting food security and climate change mitigation. *Nature Communications*
 

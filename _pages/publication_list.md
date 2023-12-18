@@ -8,7 +8,7 @@ author_profile: true
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author; ^=supervised students/RA)   
-(Total citation: 855; H-index=15)
+(Total citation: 876; H-index=15)
 
 **2023**   
 [32] ^Dong B, **Zheng Q#**, Lin Y, Chen B, Ye Z, Huang C, et al. Integrating physical model-based features and spatial contextual information to estimate building height in complex urban areas. *International Journal of Applied Earth Observation and Geoinformation*. 

@@ -23,7 +23,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Nighttime light remote sensing
 
 ## 📰News ##  
-*  08/01/2023: I joined the Dept. of Geography and Resource Science at Chinese University of Hong Kong as a Part-time Lecturer.
+*  08/01/2023: I joined the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a Part-time Lecturer.
 *  20/12/2023: The work that I supervised,"Estimating building heights in complex urban areas", has been published in *International Journal of Applied Earth Observation and Geoinformation*![[Download(OA)](https://doi.org/10.1016/j.jag.2023.103625)]
 * 13/12/2023: My co-authored paper on "Uncertainties in deforestation emission baseline methodologies" has been published in *Nature Communications*! [[Download (OA)](https://doi.org/10.1038/s41467-023-44127-9)]
 * 29/09/2023: We posted an eLetter commentary on light pollution measurements in *Science*. [[View eLetter](https://www.science.org/doi/10.1126/science.adg0473#elettersSection)].

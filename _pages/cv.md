@@ -35,6 +35,17 @@ redirect_from:
 * Land-based and nature-based climate change mitigation solutions
 * Remote sensing image processing techniques and applications
 * Nighttime light remote sensing
+  
+## Publications   
+see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=EN)
+
+## Teaching     
+* Advanced GIS (GRMD3106, 3rd-year undergraduate). The Chinese University of Hong Kong. 2023/2024.
+* Remote Sensing of Environment (GRMD2105, 2nd-year undergraduate). The Chinese University of Hong Kong. 2023/2024.
+*	Remote Sensing of Urban Landscape (GE4214, 4th-year undergraduates). National University of Singapore. Oct. 18, 2022 (Invited lecture).
+*	Climate Change - Potential of Nature-based Climate Solutions. Civil Service College Singapore & Ministry of Trade and Industry of Singapore. Sept. 7, 2022 (Invited lecture).
+*	Change detection with remote sensing data: theory, method and applications. National University of Singapore, Sept. 3, 2021 (Teaching session).
+*	Geographic Information Systems and Agricultural Modernization, No: 1440001001: Zhejiang University, winter semester, 2019 (Guest Lecturer & Teaching Assistant).
 
 ## Professional Service
 **Editorship**     
@@ -43,9 +54,6 @@ redirect_from:
 
 **Journal Reviewer** (Total: 135)   
 *Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, IEEE Transactions on Geoscience and Remote Sensing, PNAS Nexus, GIScience & Remote Sensing, Building and Environment, Sustainable Cities and Society, Earth System Science Data, Journal of Cleaner Production, etc.*
-
-## Publications   
-see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=EN)
 
 ## Grants
 * Supporting both food security and climate change mitigation with abandoned cropland: potential and trade-offs. Start-up Fund for RAP under the Strategic Hiring Scheme. The Hong Kong Polytechnic University. PI: HK$ 250,000. 2023-2024
@@ -70,8 +78,3 @@ see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scho
 * **Zheng Q**, Wang K. Analysis of the spatio-temporal dynamic of polycentric city using night-time light remote sensing imagery. IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium, July 2018, Valencia, Spain.
 * **Zheng Q**, Wang K. Monitoring “ghost cities” in China from the view of night-time light remote sensing data. Workshop of “Sustainable Systems and Societies: energy, environment and policy frameworks”, November 2016, Campinas, Brazil.
 
-## Teaching     
-*	Remote Sensing of Urban Landscape (Course GE4214 for senior undergraduates). National University of Singapore. Oct. 18, 2022 (Invited lecture).
-*	Climate Change - Potential of Nature-based Climate Solutions. Civil Service College Singapore & Ministry of Trade and Industry of Singapore. Sept. 7, 2022 (Invited lecture).
-*	Change detection with remote sensing data: theory, method and applications. National University of Singapore, Sept. 3, 2021 (Teaching session).
-*	Geographic Information Systems and Agricultural Modernization, No: 1440001001: Zhejiang University, winter semester, 2019 (Guest Lecturer & Teaching Assistant).

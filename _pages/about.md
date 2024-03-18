@@ -23,6 +23,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Nighttime light remote sensing
 
 ## 📰News ##  
+*  18/03/2024: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" is ESI highly cited! [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].
 *  27/01/2024: Our work "Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation" was accepted by *IEEE TGRS* ! [[Download](https://ieeexplore.ieee.org/document/10414127)].
 *  08/01/2024: I joined the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a Part-time Lecturer.
 *  20/12/2023: The work that I supervised,"Estimating building heights in complex urban areas", has been published in *International Journal of Applied Earth Observation and Geoinformation*![[Download(OA)](https://doi.org/10.1016/j.jag.2023.103625)]

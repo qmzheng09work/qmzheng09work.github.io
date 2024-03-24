@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Download full [CV](files/CVQiming.pdf). 
+Download full [CV](_pages/files/CVQiming.pdf). 
 
 ## Education    
 * **Ph.D**. in Remote Sensing and GIS, Zhejiang University, China, 2015-2020

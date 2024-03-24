@@ -8,20 +8,23 @@ author_profile: true
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author; ^=supervised students/RA)   
-(Total citation: 967; H-index=16)
+(Total citation=967; H-index=16)
 
-**2023**   
+**2024**   
+[33] **Zheng Q** Weng Q. Contrasting pattern of urban expansion and urban land-use intensification of global megacities using nighttime light time series data (Chapter 7). Geospatial Approaches to Sustainable Cities. 
+
 [32] ^Dong B, **Zheng Q#**, Lin Y, Chen B, Ye Z, Huang C, et al. Integrating physical model-based features and spatial contextual information to estimate building height in complex urban areas. *International Journal of Applied Earth Observation and Geoinformation*. 
 
+**2023**  
 [31] Teo HC, Tan N, **Zheng Q**, et al. Uncertainties in deforestation emission baseline methodologies and implications for carbon markets. *Nature Communications*.
 
 [30] **Zheng Q#**, Weng Q#. The emerging opportunities to improve light pollution measurement. *Science*. (eLetter, non peer-reviewed commentary)
 
 [29] **Zheng Q#**, Ha T^, Prishchepov A, et al. The neglected role of abandoned cropland in supporting food security and climate change mitigation. *Nature Communications*
 
-[28] **Zheng Q**, Seto KC, Zhou Y, You S, Weng Q. Nighttime light remote sensing for urban applications: progress, challenges, and prospects. *ISPRS Journal of Photogrammetry and Remote Sensing* 
+[28] **Zheng Q**, Seto KC, Zhou Y, You S, Weng Q. Nighttime light remote sensing for urban applications: progress, challenges, and prospects. *ISPRS Journal of Photogrammetry and Remote Sensing* **ESI Highly Cited Paper**
 
-[27] Guo, B., Hu, D., & **Zheng, Q.** (2023). Potentiality of SDGSAT-1 glimmer imagery to investigate the spatial variability in nighttime lights. *International Journal of Applied Earth Observation and Geoinformation*
+[27] Guo, B., Hu, D., & **Zheng, Q.** (2023). Potentiality of SDGSAT-1 glimmer imagery to investigate the spatial variability in nighttime lights. *International Journal of Applied Earth Observation and Geoinformation* **ESI Highly Cited Paper**
 
 **2022**   
 [26] **Zheng Q#**, Kelly Siman, Yiwen Zeng, et al. Future land-use competition constrains natural-climate solutions. *Science of the Total Environment*.

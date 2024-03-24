@@ -45,7 +45,7 @@ Block Z, Office ZN613
 Phase 8, 181 Chatham Road South   
 Hung Hom, Kowloon, Hong Kong SAR   
 
-Email: Qiming.Zheng@outlook.com / Qiming.Zheng@polyu.edu.hk    
+Email: Qiming.Zheng@outlook.com
 Working phone no.: +852-27665973
 
 Updated 15/03/2024

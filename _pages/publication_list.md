@@ -11,7 +11,9 @@ author_profile: true
 (Total citation=967; H-index=16)
 
 **2024**   
-[33] **Zheng Q** Weng Q. Contrasting pattern of urban expansion and urban land-use intensification of global megacities using nighttime light time series data (Chapter 7). Geospatial Approaches to Sustainable Cities. 
+[34] Chen, B., **Zheng, Q**, Sun, W., Yang, G., Feng, T., & Wang, Y. (2024). Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation. *IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING*
+
+[33] **Zheng Q** Weng Q. Contrasting pattern of urban expansion and urban land-use intensification of global megacities using nighttime light time series data (Chapter 7). *Geospatial Approaches to Sustainable Cities*. 
 
 [32] ^Dong B, **Zheng Q#**, Lin Y, Chen B, Ye Z, Huang C, et al. Integrating physical model-based features and spatial contextual information to estimate building height in complex urban areas. *International Journal of Applied Earth Observation and Geoinformation*. 
 

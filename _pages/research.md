@@ -7,7 +7,7 @@ author_profile: true
 
 ## Understanding the Urban-Climate-Environment nexus with geospatial data, model, and ML/AI techniques. 
 
-see full publication list in [Publication](https://qmzheng09work.github.io/publications/) or [Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=EN)
+see full publication list in [Publication](https://qmzheng09work.github.io/publications_list/) or [Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=EN)
 
 ### Topic 1: Understanding Global Urbanization for Sustainable Development
 

@@ -43,7 +43,7 @@ Department of Land Surveying and Geo-Informatics
 The Hong Kong Polytechnic University   
 Block Z, Office ZN613   
 Phase 8, 181 Chatham Road South   
-Hung Hom, Kowloon, Hong Kong SAR   
+Hung Hom, Kowloon, Hong Kong SAR    
 
 Email: Qiming.Zheng@outlook.com
 

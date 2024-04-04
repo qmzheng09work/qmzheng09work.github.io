@@ -10,11 +10,11 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 Email: qiming.zheng@outlook.com
 
 ## Current openings: 
-**1. 1 PhD student**  
+**(1). 1 PhD student**  
 Duration: 48 months
 
-**1 Postdoc**    
+**(2) 1 Postdoc**    
 Duration: 12 months (with possible extension)
 
-**Visiting PhD students**    
+**(3) Visiting PhD students**    
 Duration: 6-24 months

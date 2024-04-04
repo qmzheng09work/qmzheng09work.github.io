@@ -18,10 +18,13 @@ Download full [CV](https://github.com/qmzheng09work/qmzheng09work.github.io/blob
 * **B.S.** in Environment and Resource Sciences, Zhejiang University, China, 2011-2015
 
 ## Work experience     
-* 01/2024 - present: **Part-time Lecturer**
+* 07/2024 - Present : **Assistant Professor (Tenure Track)**
+  * Department of Geography and Resource Management, The Chinese University of Hong Kong
+
+* 01/2024 - 06/2024 : **Part-time Lecturer**
   * Department of Geography and Resource Management, The Chinese University of Hong Kong
     
-* 01/2023 - present: **Research Assistant Professor**
+* 01/2023 - 06/2024: **Research Assistant Professor**
   * Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University
   * Affliated with The JC STEM Lab of Earth Observations (Lab Head: [Prof. Qihao Weng](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-weng-qihao/))
 

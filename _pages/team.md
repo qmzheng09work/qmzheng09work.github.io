@@ -10,4 +10,5 @@ redirect_from:
 {% include base_path %}
 颜色名 | 十六进制颜色值 | 
 -|-
-![](qiming.png) | Qiming
+<img src=qiming.png width="251" height="350" > | Qiming
+

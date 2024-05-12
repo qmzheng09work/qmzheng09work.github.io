@@ -11,20 +11,20 @@ redirect_from:
 
 ## Group Members
 
-## Principle Investigator
+## - Principle Investigator - 
 
 ![](qiming3.png)  
 **Prof. Qiming Zheng**  
 -> [More information](https://qmzheng09work.github.io/cv/) <-
   
-## Research Assistants
+## - Research Assistants - 
 ![](MuTE.png)  
 **Mr. Te Mu (2024-)**  
 MSc (Zhejiang University); BSc (Shanxi University)  
 Focus: Nighttime light; Natural Disaster; Time Series Modelling  
 Email: mute50074@gmail.com  
 
-## Master Students
+## - Master Students - 
 ![](zhenyu.png)  
 **Mr. Zhenyu Wang (2023-2024)**  
 MSc (HK PolyU); BSc (Guangzhou University)  
@@ -42,7 +42,7 @@ MSc (HK PolyU); BSc (Hainan University)
 Focus: GIS; Natural Climate Solution  
 Email: yangyang.qu@connect.polyu.hk
 
-## Alumni
+## - Alumni - 
 ![](Tim.png)  
 **Mr. Tim Ha**  
 **National University of Singapore, 2022-2023)**   

@@ -26,7 +26,7 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 · The following skills will be considered as a plus: remote sensing image processing, ML/DL, climate modelling, weather forescasting and land-use change modelling etc.
 
 <u>What We Offer</u>  
-· Highly competitive salary + Health benefits + Annual leaves + MPF
+· **Highly competitive salary + Health benefits + Annual leaves + MPF**   
 · 1-year fixed-term basis, with the possibility of renewal subject to satisfactory performance and funding availability.
 
 **<font color= Blue>PhD Students (2025 Spring/Fall)</font>**     

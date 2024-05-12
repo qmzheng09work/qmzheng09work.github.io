@@ -11,16 +11,16 @@ redirect_from:
 🎨Vincent Van Gogh: I often think that the night is even more alive and richly colored than the day   
 🗺️Qiming: So do I
 
-### I am looking for 1 PhD Student, 1 Postdoc and 1 Visiting PhD student working on one of the following topics: Nighttime light remote sensing, Urban sustainability, and Nature-based Climate Solutions. [Details](https://qmzheng09work.github.io/opportunities/).
- 
-
-## Welcome to my homepage ##
+## 🌏Welcome to my homepage ##
 My research interests center on the urban-climate-environment nexus. I use remote sensing, GIS and geospatial techniques, environment and climate models, and AI/machine learning approaches to understand global urbanization and its environmental and climatic consequences, and to develop effective mitigation and adaption solutions. My research focus has always been on pushing the envelope on technical bottlenecks, bridging the gap between technical innovation and cutting edge environmental issues, and delivering policy-relevant information for decision-making. My current research focuses on the following themes:
 * Remote sensing of urban environment
 * Global environmental and climate change
 * Land-based climate change mitigation
 * Remote sensing image processing techniques and applications
 * Nighttime light remote sensing
+
+## 🚨Opportunities🚨 ##
+I am looking for 1 PhD Student(2025 Spring/Fall), 1 Postdoc (2024 Fall) and 1 Visiting PhD student (2024 Fall) working on one of the following topics: Nighttime light remote sensing, Urban sustainability, and Nature-based Climate Solutions. [Details](https://qmzheng09work.github.io/opportunities/).
 
 ## 📰News ##  
 *  20/04/2024: My publications exceeded 1,000 Google Scholar citations!
@@ -35,8 +35,6 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * 08/08/2023: Our proposed research on building height estimation was selected for Alibaba DAMO Academy AI Earth Joint Research & Innovation Programme.
 * 17/06/2023: I gave a talk on “Impact of temporal compositing on nighttime light data and its applications" at Quantitative RS Forum 2023, Chengdu, China. [[Photo@Twitter](https://twitter.com/QimingZheng2/status/1670058400305086464)].
 * 29/05/2023: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" was published in *ISPRS P&RS Journal* [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].
-* 22/05/2023: I was invited by Northestern University, Shenyang, China, to give a talk on "Nighttime light remote sensing" as part of its centennial celebration events.
-* 25/04/2023: Our paper about the new high-resolution NTL image data - SDGSAT-1 has been published in *International Journal of Applied Earth Observation and Geoinformation* [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S1569843223001358?via%3Dihub)].
 
 
 ## ✉️Contact Info. ##
@@ -49,4 +47,4 @@ Hung Hom, Kowloon, Hong Kong SAR
 
 Email: Qiming.Zheng@outlook.com
 
-Updated 15/03/2024
+Updated 12/05/2024

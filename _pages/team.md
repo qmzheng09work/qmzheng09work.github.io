@@ -11,7 +11,7 @@ redirect_from:
 
 ### Principle Investigator
 
-![](qiming3.png)
-Dr. Qiming Zheng
+![](qiming3.png)  
+Dr. Qiming Zheng  
 Assistant Professor
   

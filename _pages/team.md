@@ -13,7 +13,7 @@ redirect_from:
 
 ![](qiming3.png)  
 **Dr. Qiming Zheng**  
-Assistant Professor (2024- )
+Assistant Professor (2024- )  
 -> More information <-
   
 ### Research Assistant

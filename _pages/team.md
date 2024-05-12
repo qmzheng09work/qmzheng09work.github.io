@@ -17,7 +17,7 @@ Assistant Professor (2024- )
 -> [More information](https://qmzheng09work.github.io/cv/) <-
   
 ### Research Assistants
-![](MuTE.png)
+![](MuTE.png)  
 **Mr. Te Mu (2024-)**  
 MSc (Zhejiang University), BSc(Shanxi University)  
 Focus: Nighttime light; Natural Disaster; Time Series Modelling  

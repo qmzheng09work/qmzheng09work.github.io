@@ -24,7 +24,7 @@ Email:mute50074@gmail.com
 
 ## Master Students
 ![](zhenyu.png)  
-**Mr. Zhenyu Wang (2023-2024)**
+**Mr. Zhenyu Wang (2023-2024)**  
 MSc (HK PolyU); BSc (Guangzhou University)  
 Focus: Carbon Emission Modelling; GIS  
 Email:zyyyyy.wang@connect.polyu.hk

@@ -24,6 +24,17 @@ Email:mute50074@gmail.com
 
 ## Master Students
 ![](zhenyu.png)  
+**Mr. Zhenyu Wang (2023-2024)**
 MSc (HK PolyU); BSc (Guangzhou University)  
 Focus: Carbon Emission Modelling; GIS  
 Email:zyyyyy.wang@connect.polyu.hk
+
+**Ms. Mengni Xia (2023-2024)**  
+MSc (HK PolyU); BSc (Anhui Normal University)  
+Focus: GIS; Cropland Abandonment
+Email:meng-ni.xia@connect.polyu.hk
+
+**Ms. Qu Yang (2023-2024)**  
+MSc (HK PolyU); BSc (Hainan University)  
+Focus: GIS; Natural Climate Solution
+Email:yangyang.qu@connect.polyu.hk

@@ -29,6 +29,8 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 · Highly competitive salary + Health benefits + Annual leaves + MPF
 · 1-year fixed-term basis, with the possibility of renewal subject to satisfactory performance and funding availability.
 
+**<font color= Blue>PhD Students (2025 Fall)</font>**     
+
 
 **(3) Visiting PhD students**    
 Duration: 6-24 months

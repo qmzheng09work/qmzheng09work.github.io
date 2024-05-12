@@ -11,6 +11,6 @@ redirect_from:
 
 ### Principle Investigator
 
-![](qiming.png)
+![](qiming2.jpg)
 
 

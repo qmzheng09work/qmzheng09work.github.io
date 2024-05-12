@@ -19,7 +19,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Remote sensing image processing techniques and applications
 * Nighttime light remote sensing
 
-## 🚨Opportunities🚨 ##
+## 🚨Opportunities ##
 I am looking for 1 PhD Student(2025 Spring/Fall), 1 Postdoc (2024 Fall) and 1 Visiting PhD student (2024 Fall) working on one of the following topics: Nighttime light remote sensing, Urban sustainability, and Nature-based Climate Solutions. [Details](https://qmzheng09work.github.io/opportunities/).
 
 ## 📰News ##  

@@ -18,7 +18,7 @@ Assistant Professor (2024- )
   
 ### Research Assistants
 ![](MuTE.png)
-**Mr. Te Mu (2024-)**
+**Mr. Te Mu (2024-)**  
 MSc (Zhejiang University), BSc(Shanxi University)  
 Focus: Nighttime light; Natural Disaster; Time Series Modelling  
 Email:mute50074@gmail.com  

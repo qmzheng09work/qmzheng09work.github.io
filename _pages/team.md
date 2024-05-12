@@ -32,6 +32,7 @@ Focus: Carbon Emission Modelling; GIS
 Email: zyyyyy.wang@connect.polyu.hk
 
 **Ms. Mengni Xia (2023-2024)**  
+![](mengni.png)  
 MSc (HK PolyU); BSc (Anhui Normal University)  
 Focus: GIS; Cropland Abandonment  
 Email: meng-ni.xia@connect.polyu.hk

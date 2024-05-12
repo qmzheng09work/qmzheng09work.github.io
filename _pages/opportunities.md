@@ -12,7 +12,7 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 
 ## Current openings: 
 **<font color= Blue>1 Postdoc (2024 Fall)</font>**     
-**-Duties and Responsibilities-**  
+**Duties and Responsibilities**  
 · Conduct original and collaborative research  
 · Produce high-quality peer-review publications  
 · Draft proposals, reports and presentations  

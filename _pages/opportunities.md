@@ -34,6 +34,7 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 · HK PhD Fellowship Scheme ([Link](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs))  
 · Computational Social Science PhD Fellowship Scheme ([Link](https://cssl.socsc.cuhk.edu.hk/aboutus/fellowship_scheme/))  
 · General admission and other information ([Link1](https://www.grm.cuhk.edu.hk/en/pg/research-postgraduate/phd/) and [Link2](https://www.gs.cuhk.edu.hk/admissions/programme/social-science#mphil-phd-in-geography-and-resource-management))  
+· Enquiry is welcome and highly encouraged!
 
 **(3) Visiting PhD students**    
 Duration: 6-24 months

@@ -23,7 +23,7 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 · An outstanding track record of publications with at least 2 first-author publications in WoS JCR Q1 journals or 1 first-author publication in “中科院1区” journals.  
 · Proficient in geospatial and data analysis, and computer programming (e.g., Matlab, Python, R, etc.)  
 · An excellent command of written and spoken English  
-· The following skills   
+· The following skills will be considered as a plus: remote sensing image processing, ML/DL, climate modelling, weather forescasting and land-use change modelling etc.
 
 **What We Offer**  
 · Highly competitive salary + Health benefits + Annual leaves + MPF

@@ -19,7 +19,7 @@ redirect_from:
   
 ## - Research Assistants - 
 ![](MuTE.png)  
-**Mr. Te Mu (2024-)**  
+**Mr. Te Mu (2023- )**  
 MSc (Zhejiang University); BSc (Shanxi University)  
 Focus: Nighttime light; Natural Disaster; Time Series Modelling  
 Email: mute50074@gmail.com  
@@ -31,13 +31,13 @@ MSc (HK PolyU); BSc (Guangzhou University)
 Focus: Carbon Emission Modelling; GIS  
 Email: zyyyyy.wang@connect.polyu.hk
 
-**Ms. Mengni Xia (2023-2024)**  
+**Ms. Mengni Xia (2023- )**  
 ![](mengni.png)  
 MSc (HK PolyU); BSc (Anhui Normal University)  
 Focus: GIS; Cropland Abandonment  
 Email: meng-ni.xia@connect.polyu.hk
 
-**Ms. Yang Qu (2023-2024)**  
+**Ms. Yang Qu (2023- )**  
 ![](quyang.png)  
 MSc (HK PolyU); BSc (Hainan University)  
 Focus: GIS; Natural Climate Solution  
@@ -46,7 +46,7 @@ Email: yangyang.qu@connect.polyu.hk
 ## - Alumni - 
 ![](Tim.png)  
 **Mr. Tim Ha**  
-**National University of Singapore, 2022-2023)**   
+**National University of Singapore, 2022-2023**   
 MSc (The University of Freiburg); BSc (The University of Edinburgh)  
 Focus: Nature-based Climate Solution; Cropland Abandonment; Land use Policy  
 Current job: Geschwister-Scholl-Gymnasium Waldkirch; Oil Change International  

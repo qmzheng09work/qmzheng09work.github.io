@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![证件照](/qiming.png)
+![证件照](qiming.png)

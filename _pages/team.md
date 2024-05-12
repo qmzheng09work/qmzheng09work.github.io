@@ -42,7 +42,7 @@ Focus: GIS; Natural Climate Solution
 Email: yangyang.qu@connect.polyu.hk
 
 ## Alumni
-![](tim.png)  
+![](Tim.png)  
 **Mr. Tim Ha (National University of Singapore, 2022-2023)**  
 MSc (The University of Freiburg); BSc (The University of Edinburgh)
 Focus: Nature-based Climate Solution; Cropland Abandonment; Land use Policy

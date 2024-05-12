@@ -11,5 +11,5 @@ redirect_from:
 
 ### Principle Investigator
 
-<img src=qiming.png width="250" height="250" >                               
+<img src=qiming.png width="300" height="250" >                               
 

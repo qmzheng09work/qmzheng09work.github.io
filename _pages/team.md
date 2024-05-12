@@ -12,8 +12,7 @@ redirect_from:
 ## Principle Investigator
 
 ![](qiming3.png)  
-**Dr. Qiming Zheng**  
-Assistant Professor (2024- )  
+**Prof. Qiming Zheng**  
 -> [More information](https://qmzheng09work.github.io/cv/) <-
   
 ### Research Assistants

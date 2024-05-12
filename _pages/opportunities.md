@@ -31,9 +31,9 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 
 **<font color= Blue>PhD Students (2025 Spring/Fall)</font>**     
 <u>Available Funding Schemes</u> 
-· HK PhD Fellowship Scheme (see [Link](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs))
-· Computational Social Science PhD Fellowship Scheme (see [Link](https://cssl.socsc.cuhk.edu.hk/aboutus/fellowship_scheme/))
-· General admision and other information (see [Link](https://www.grm.cuhk.edu.hk/en/pg/research-postgraduate/phd/))
+· HK PhD Fellowship Scheme ([Link](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs))  
+· Computational Social Science PhD Fellowship Scheme ([Link](https://cssl.socsc.cuhk.edu.hk/aboutus/fellowship_scheme/))  
+· General admision and other information ([Link](https://www.grm.cuhk.edu.hk/en/pg/research-postgraduate/phd/))  
 
 **(3) Visiting PhD students**    
 Duration: 6-24 months

@@ -51,9 +51,9 @@ Focus: Nature-based Climate Solution; Cropland Abandonment; Land use Policy
 Current job: Geschwister-Scholl-Gymnasium Waldkirch; Oil Change International  
 
 ![](nicole.png)  
-**Ms. Nicole Chung**
+**Ms. Nicole Chung**  
 **(National University of Singapore, 2020-2021)**  
-BSc (National University of Singapore, 2020)  
+BSc (National University of Singapore)  
 Focus: Nature-based Climate Solution; Land-use classification  
 Current job: Yale-NUS College student  
 

@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-颜色名 | 十六进制颜色值 | 
--|-
-<img src=qiming.png width="350" height="350" > | Qiming                                          
+
+### Principle Investigator
+
+<img src=qiming.png width="250" height="250" >                               
 

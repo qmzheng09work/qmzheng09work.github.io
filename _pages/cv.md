@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-**Latest CV**  
-[EN ](https://drive.google.com/file/d/1xhc2pKv2mKbS592Q8iSnLiqeLfxpvRqp/view?usp=sharing);  [CN ](https://kdocs.cn/l/cre4FBHEw9Us)
+**Latest [CV-EN](https://drive.google.com/file/d/1xhc2pKv2mKbS592Q8iSnLiqeLfxpvRqp/view?usp=sharing) [CV-CN](https://kdocs.cn/l/cre4FBHEw9Us)**
 
 ## Education    
 * **Ph.D**. in Remote Sensing and GIS, Zhejiang University, China, 2015-2020

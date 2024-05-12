@@ -11,26 +11,24 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover letter; (2) CV; (3) 2-page (max.) research plan; (4) transcripts (for PhD position only).
 
 ## Current openings: 
-**(1). 1 PhD student**  
-Duration: 48 months
-
-**(2) 1 Postdoc (2024 Fall)**    
-<u> Duties and Responsibilities </u>  
+**<font color= Blue>1 Postdoc (2024 Fall)</font>**     
+**Duties and Responsibilities**  
 - Conduct original and collaborative research  
 -	Produce high-quality peer-review publications  
 -	Draft proposals, reports and presentations  
 -	Perform other duties as assigned  
 
-<u> Requirements </u>  
+**Requirements**  
 -	A PhD degree in remote sensing, GIS, geography, environmental science or relevant field.  
 -	An outstanding track record of publications with at least 2 first-author publications in WoS JCR Q1 journals or 1 first-author publication in “中科院1区” journals.  
 -	Proficient in geospatial and data analysis, and computer programming (e.g., Matlab, Python, R, etc.)  
 -	An excellent command of written and spoken English  
 -	The following skills   
 
-What We Offer
+**What We Offer**  
 -	Highly competitive salary + Health benefits + Annual leaves + MPF
 -	1-year fixed-term basis, with the possibility of renewal subject to satisfactory performance and funding availability.
+
 
 **(3) Visiting PhD students**    
 Duration: 6-24 months

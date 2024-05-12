@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+## Group Members
+
 ## Principle Investigator
 
 ![](qiming3.png)  
@@ -38,3 +40,5 @@ Email:meng-ni.xia@connect.polyu.hk
 MSc (HK PolyU); BSc (Hainan University)  
 Focus: GIS; Natural Climate Solution  
 Email:yangyang.qu@connect.polyu.hk
+
+## Alumni

@@ -46,15 +46,15 @@ Email: yangyang.qu@connect.polyu.hk
 **Mr. Tim Ha**  
 **National University of Singapore, 2022-2023)**   
 MSc (The University of Freiburg); BSc (The University of Edinburgh)  
-Focus: Nature-based Climate Solution; Cropland Abandonment; Land use Policy
-Current job: Geschwister-Scholl-Gymnasium Waldkirch; Oil Change International
+Focus: Nature-based Climate Solution; Cropland Abandonment; Land use Policy  
+Current job: Geschwister-Scholl-Gymnasium Waldkirch; Oil Change International  
 
 ![](nicole.png)  
 **Ms. Nicole Chung**
 **(National University of Singapore, 2020-2021)**  
 BSc (National University of Singapore, 2020)  
-Focus: Nature-based Climate Solution; Land-use classification
-Current job: Yale-NUS College student
+Focus: Nature-based Climate Solution; Land-use classification  
+Current job: Yale-NUS College student  
 
 
 

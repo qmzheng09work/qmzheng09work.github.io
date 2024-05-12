@@ -20,7 +20,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Nighttime light remote sensing
 
 ## 🚨Opportunities👩🏻‍🎓👨🏼‍🎓 ##
-I am looking for **<font color=Blue>1 PhD Student</font>** (2025 Spring/Fall), **1 Postdoc** (2024 Fall) and **Visiting PhD students** (2024 Fall) working on one of the following topics: Nighttime light remote sensing, Urban sustainability, and Nature-based Climate Solutions. [Details](https://qmzheng09work.github.io/opportunities/).
+I am looking for **<font color= #871F78>我是紫色</font>** (2025 Spring/Fall), **1 Postdoc** (2024 Fall) and **Visiting PhD students** (2024 Fall) working on one of the following topics: Nighttime light remote sensing, Urban sustainability, and Nature-based Climate Solutions. [Details](https://qmzheng09work.github.io/opportunities/).
 
 ## 📰News ##  
 *  20/04/2024: My publications exceeded 1,000 Google Scholar citations!

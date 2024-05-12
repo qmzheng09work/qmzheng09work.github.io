@@ -38,6 +38,7 @@ Focus: GIS; Cropland Abandonment
 Email: meng-ni.xia@connect.polyu.hk
 
 **Ms. Yang Qu (2023-2024)**  
+![](quyang.png)  
 MSc (HK PolyU); BSc (Hainan University)  
 Focus: GIS; Natural Climate Solution  
 Email: yangyang.qu@connect.polyu.hk

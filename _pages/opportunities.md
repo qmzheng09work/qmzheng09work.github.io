@@ -36,5 +36,9 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 · CUHK General admission and other information ([Link1](https://www.grm.cuhk.edu.hk/en/pg/research-postgraduate/phd/) and [Link2](https://www.gs.cuhk.edu.hk/admissions/programme/social-science#mphil-phd-in-geography-and-resource-management))  
 · Enquiry is welcome and highly encouraged!  
 
+<u>What We Offer</u>   
+· Funding for attending international conference and purchasing PC/Laptop  
+· Opportunities for short-term exchange
+
 **<font color= Blue>Visiting PhD students/Scholar</font>**     
 · Enquiry is welcome and highly encouraged! 

@@ -42,4 +42,4 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 · Opportunities for short-term exchange to top-university abroad    
 
 **<font color= Blue>Visiting PhD students/Scholar</font>**     
-· Enquiry is welcome and highly encouraged! 
+· Please kindly email me for further discussion!

@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Group Members
-Current: Research Assistant (1), Master student (3)  
+Current: Research Assistants (1), Master students (3)  
 Alumni: Research Assistants (2)
 
 ## - Principle Investigator - 

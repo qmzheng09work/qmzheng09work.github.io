@@ -37,8 +37,9 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 · Enquiry is welcome and highly encouraged!  
 
 <u>What We Offer</u>   
+· All kinds of trainings and instructions to make you become an outstanding independent researcher  
 · Funding for attending international conference and purchasing PC/Laptop  
-· Opportunities for short-term exchange
+· Opportunities for short-term exchang  
 
 **<font color= Blue>Visiting PhD students/Scholar</font>**     
 · Enquiry is welcome and highly encouraged! 

@@ -24,7 +24,7 @@ I am looking for **<font color= Blue>1-2 PhD Students (2025 Spring/Fall)</font>*
 
 ## 📰News ##  
 *  20/04/2024: My publications exceeded 1,000 Google Scholar citations!
-*  04/04/2024: I will officially join the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a full-time Assistant Professor (tenure-track) in the coming July.
+*  04/04/2024: **I will officially join the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a full-time Assistant Professor (tenure-track) in the coming July**.
 *  18/03/2024: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" is **ESI highly cited**! [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].
 *  27/01/2024: Our work "Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation" was accepted by *IEEE TGRS* ! [[Download](https://ieeexplore.ieee.org/document/10414127)].
 *  08/01/2024: I joined the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a Part-time Lecturer.
@@ -39,12 +39,9 @@ I am looking for **<font color= Blue>1-2 PhD Students (2025 Spring/Fall)</font>*
 
 ## ✉️Contact Info. ##
 Qiming Zheng, Ph.D.   
-Department of Land Surveying and Geo-Informatics   
-The Hong Kong Polytechnic University   
-Block Z, Office ZN613   
-Phase 8, 181 Chatham Road South   
-Hung Hom, Kowloon, Hong Kong SAR    
+Department of Geography and Resource Management
+The Chinese University of Hong Kong
 
-Email: Qiming.Zheng@outlook.com
+Email: <u>Qiming.Zheng@outlook.com</u>
 
 Updated 12/05/2024

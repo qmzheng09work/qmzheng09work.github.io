@@ -11,7 +11,7 @@ author_profile: true
 (Total citation=967; H-index=16)
 
 **2024**   
-[34] Chen, B., **Zheng, Q**, Sun, W., Yang, G., Feng, T., & Wang, Y. (2024). Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation. ***IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING*
+[34] Chen, B., **Zheng, Q**, Sun, W., Yang, G., Feng, T., & Wang, Y. (2024). Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation. ***IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING***
 
 [33] **Zheng Q** Weng Q. Contrasting pattern of urban expansion and urban land-use intensification of global megacities using nighttime light time series data (Chapter 7). ***Geospatial Approaches to Sustainable Cities*** 
 
@@ -22,11 +22,11 @@ author_profile: true
 
 [30] **Zheng Q#**, Weng Q#. The emerging opportunities to improve light pollution measurement. ***Science*** (eLetter, non peer-reviewed commentary)
 
-[29] **Zheng Q#**, Ha T^, Prishchepov A, et al. The neglected role of abandoned cropland in supporting food security and climate change mitigation. ***Nature Communications*
+[29] **Zheng Q#**, Ha T^, Prishchepov A, et al. The neglected role of abandoned cropland in supporting food security and climate change mitigation. ***Nature Communications***
 
-[28] **Zheng Q**, Seto KC, Zhou Y, You S, Weng Q. Nighttime light remote sensing for urban applications: progress, challenges, and prospects. ***ISPRS Journal of Photogrammetry and Remote Sensing* (**ESI Highly Cited Paper**)
+[28] **Zheng Q**, Seto KC, Zhou Y, You S, Weng Q. Nighttime light remote sensing for urban applications: progress, challenges, and prospects. ***ISPRS Journal of Photogrammetry and Remote Sensing*** (**ESI Highly Cited Paper🏆**)
 
-[27] Guo, B., Hu, D., & **Zheng, Q.** (2023). Potentiality of SDGSAT-1 glimmer imagery to investigate the spatial variability in nighttime lights. ***International Journal of Applied Earth Observation and Geoinformation* (**ESI Highly Cited Paper**)
+[27] Guo, B., Hu, D., & **Zheng, Q.** (2023). Potentiality of SDGSAT-1 glimmer imagery to investigate the spatial variability in nighttime lights. ***International Journal of Applied Earth Observation and Geoinformation*** (**ESI Highly Cited Paper🏆**)
 
 **2022**   
 [26] **Zheng Q#**, Kelly Siman, Yiwen Zeng, et al. Future land-use competition constrains natural-climate solutions. ***Science of the Total Environment***
@@ -35,18 +35,18 @@ author_profile: true
 
 [24] Teo HC, Koh LP, **Zheng Q**, et al. Large-scale reforestation can increase water yield and reduce drought risk for water-insecure regions in the Asia-Pacific. ***Global Change Biology*** 
 
-[23] Sreekar R; Zeng Y; **Zheng Q**, et al. Nature-based climate solutions for expanding the global protected area network. *Biological Conservation*** 
+[23] Sreekar R; Zeng Y; **Zheng Q**, et al. Nature-based climate solutions for expanding the global protected area network. ***Biological Conservation*** 
 
-[22] You S^; **Zheng Q**, Wang K, et al. Identifying the spatiotemporal dynamics of forest ecotourism values with remotely sensed images and social media data: a perspective of public preferences. *Journal of Cleaner Production***
+[22] You S^; **Zheng Q**, Wang K, et al. Identifying the spatiotemporal dynamics of forest ecotourism values with remotely sensed images and social media data: a perspective of public preferences. ***Journal of Cleaner Production***
 
-[21] Lin Y, Zhang M, Gan M, Huang L, Zhu C, **Zheng Q**, et al. Fine identification of the supply–demand mismatches and matches of urban green space ecosystem services with a spatial filtering tool. *Journal of Cleaner Production***
+[21] Lin Y, Zhang M, Gan M, Huang L, Zhu C, **Zheng Q**, et al. Fine identification of the supply–demand mismatches and matches of urban green space ecosystem services with a spatial filtering tool. ***Journal of Cleaner Production***
 
 **2021**   
 [20] **Zheng Q** Weng Q, Wang K. Characterizing urban changes of 30 global mega-cities using dense nighttime light time series stacks. ***ISPRS Journal of Photogrammetry and Remote Sensing*** 
 
 [19] **Zheng Q#**, Teo HC, Koh LP. Artificial light at night advances spring phenology in the United States. ***Remote Sensing*** (Cover story & TOP10 notable articles of the season).
 
-[18] Teo HC; Zeng Y; Sarira T; Fung TK; **Zheng Q**, et al. Global urban reforestation can be an important natural climate solution. *Environmental Research Letter***
+[18] Teo HC; Zeng Y; Sarira T; Fung TK; **Zheng Q**, et al. Global urban reforestation can be an important natural climate solution. ***Environmental Research Letter***
 
 [17] Ye Y, Huang L, **Zheng Q**, et al. A feasible framework to downscale NPP-VIIRS nighttime light imagery using multi-source spatial variables and geographically weighted regression. ***International Journal of Applied Earth Observation and Geoinformation***
 
@@ -71,7 +71,7 @@ author_profile: true
 **2018**   
 [8] **Zheng Q**, Weng Q, Huang L, et al. A new source of multi-spectral high spatial resolution night-time light imagery—JL1-3B. ***Remote Sensing of Environment***
 
-[7] Shahtahmassebi AR, Wu C, Blackburn GA, **Zheng Q**, et al. How do modern transportation projects impact on development of impervious surfaces via new urban area and urban intensification? Evidence from Hangzhou Bay Bridge, China. *Land Use Policy***
+[7] Shahtahmassebi AR, Wu C, Blackburn GA, **Zheng Q**, et al. How do modern transportation projects impact on development of impervious surfaces via new urban area and urban intensification? Evidence from Hangzhou Bay Bridge, China. ***Land Use Policy***
 
 [6] Xue X, Yu Z, Zhu S, **Zheng Q**, et al. Delineating Urban Boundaries Using Landsat 8 Multispectral Data and VIIRS Nighttime Light Data. ***Remote Sensing*** 
 
@@ -82,6 +82,6 @@ author_profile: true
 **2017**   
 [3] **Zheng Q**, Jiang R, Wang K, et al. Monitoring the trajectory of urban nighttime light hotspots using a Gaussian volume model. ***International Journal of Applied Earth Observation and Geo-information***
 
-[2]**Zheng Q**, Zeng Y, Deng J, et al. “Ghost cities” identification using multi-source remote sensing datasets: A case study in Yangtze River Delta. *Applied Geography*** 
+[2]**Zheng Q**, Zeng Y, Deng J, et al. “Ghost cities” identification using multi-source remote sensing datasets: A case study in Yangtze River Delta. ***Applied Geography*** 
 
-[1] **Zheng Q**, Deng J, Jiang R, et al. Monitoring and assessing “ghost cities” in Northeast China from the view of nighttime light remote sensing data. *Habitat International*** 
+[1] **Zheng Q**, Deng J, Jiang R, et al. Monitoring and assessing “ghost cities” in Northeast China from the view of nighttime light remote sensing data. ***Habitat International*** 

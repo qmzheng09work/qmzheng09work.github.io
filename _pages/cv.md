@@ -66,6 +66,7 @@ see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scho
 * Proposal reviewer. Belgian Earth Observation Programme, Belgium. 2024
 
 ## Grants
+* Building height estimation with context information. Alibaba DAMO Academy – AI Earth Joint Research & Innovation Programme. 2023-2024
 * Supporting both food security and climate change mitigation with abandoned cropland: potential and trade-offs. Start-up Fund for RAP under the Strategic Hiring Scheme. The Hong Kong Polytechnic University. PI: HK$ 250,000. 2023-2024
 * Exploring the spatio-temporal pattern of polycentric cities based on night-time light remote sensing data, Zhejiang University. PI: RMB 40,000. 2019-2020.
 

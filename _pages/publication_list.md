@@ -8,7 +8,7 @@ author_profile: true
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author; ^=supervised students/RA)   
-(Total citation=967; H-index=16)
+(Total citation=1032; H-index=18)
 
 **2024**   
 [34] Chen, B., **Zheng, Q**, Sun, W., Yang, G., Feng, T., & Wang, Y. (2024). Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation. ***IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING***

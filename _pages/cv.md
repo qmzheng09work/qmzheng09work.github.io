@@ -45,15 +45,17 @@ redirect_from:
 see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=EN)
 
 ## Teaching     
-* GRMD3106 Advanced GIS (3rd year undergraduate). The Chinese University of Hong Kong. 2023/2024, Spring.
-* GRMD2104 Remote Sensing of Environment (2nd year undergraduate). The Chinese University of Hong Kong. 2023/2024, Spring.
-* 
-
-
+* GRMD2105 Introduction to GIS (undergraduate). The Chinese University of Hong Kong. 2024/2025, Fall
+*	GRMD1403 Resources, Society and Environment (undergraduate). The Chinese University of Hong Kong. 2024/2025, Fall
+*	GRMD4503 Smart City Policies and Governance (undergraduate). The Chinese University of Hong Kong. 2024/2025, Fall
+*	GISM5102 GIS-T and Logistical Information Management (master). The Chinese University of Hong Kong. 2024/2025, Spring
+*	GRMD3106 Advanced GIS (undergraduate). The Chinese University of Hong Kong. 2023/2024, Spring.
+*	GRMD2104 Remote Sensing of Environment (undergraduate). The Chinese University of Hong Kong. 2023/2024, Spring.
+*	NASA Black Marble VIIRS Nighttime Light Image Processing. Serial Online Tutorials. 
 
 ## Professional Service
 **Editorship**     
-* 06/2022 - present: **Editorial Board Member**, *ISPRS Journal of Photogrammetry and Remote Sensing* (Q1:2/52)
+* 2022 - present: **Editorial Board Member**, *ISPRS Journal of Photogrammetry and Remote Sensing* (Q1:2/52)
 * 2021 - 2023: **Guest editor**, *Remote Sensing* (Q2:12/33), Special Issue: Remote Sensing Imagery For Mapping Economic Activities
 
 **Journal Reviewer** (Total: 175; Q1 Journal: 146)   
@@ -76,7 +78,10 @@ see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scho
 * 2018, Visiting PhD Student Fellowship, China Scholarship Council
 * 2015, TOP 100 Best Undergraduate Thesis, Zhejiang University
 
-## Invited Talks     
+## Invited Talks & Lectures   
+* Uncertainties and Challenges in Daily Nighttime Light Time Series Data. The 9th Youth Scientist Forum of Earth Sciences. Xiamen, China. May 2024. (Invited Keynote)  
+* Nighttime Light Remote Sensing for Urban Applications: Opportunities and Challenges. Wuhan University. Oct. 2023. (Invited Talk)  
+* Understanding the Urbanizing Planet with Nighttime Light Imagery. Northeastern University, China, May 22, 2023. (Invited Talk)  
 *	Climate Change - Potential of Nature-based Climate Solutions. Civil Service College Singapore & Ministry of Trade and Industry of Singapore. Sept. 7, 2022 (Invited lecture).
-\
+
 

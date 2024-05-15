@@ -30,8 +30,8 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 · 1-year fixed-term basis, with the possibility of renewal subject to satisfactory performance and funding availability.
 
 <u>Timeline</u>  
-· Review of applications will start as soon as possible and continue until June 30, 2024, or until the post is filled, whichever is earlier.   
-· The duty is expected to commence from Aug./Setp.,2024.
+· **Review of applications will start as soon as possible and continue until June 30, 2024, or until the post is filled, whichever is earlier**    
+· The duty is expected to commence from Aug./Sept.,2024.
 
 **<font color= Blue>PhD Students (2025 Spring/Fall)</font>**   
 <u>Requirements</u>  

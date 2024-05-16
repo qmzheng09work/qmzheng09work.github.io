@@ -11,7 +11,7 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover letter; (2) CV; (3) 2-page (max.) research plan; (4) transcripts and IELTS/TOEFL certificate(for PhD position only).
 
 ## Current openings: 
-**<font color= Blue>1 Postdoc (2024 Fall)</font>**  (see PDF in [EN](https://drive.google.com/file/d/1zcMltep-ke4TGVKQDf0ofx55dEEvLvKI/view?usp=sharing) and [CN](https://kdocs.cn/l/cnT2iCDMBXyE))    
+**<font color= Blue>1 Postdoc (2024 Fall)</font>**  (see PDF in [EN](https://drive.google.com/file/d/12azAQsrb4-C78i5vBf0BxzsjicW_jf0E/view?usp=sharing) and [CN](https://kdocs.cn/l/cbnVU3R9OQ92))    
 <u>Duties and Responsibilities</u>  
 · Conduct original and collaborative research  
 · Produce high-quality peer-review publications  

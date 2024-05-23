@@ -11,16 +11,19 @@ redirect_from:
 🎨Vincent Van Gogh: I often think that the night is even more alive and richly colored than the day   
 🗺️Qiming: So do I 
 
-## 🌏Welcome to my homepage ##
+## 🚨Opportunities👩🏻‍🎓👨🏼‍🎓 ##
+I am looking for **<font color= Blue>1-2 PhD Students (2025 Spring/Fall)</font>**, **<font color= Blue>1 Postdoc (2024 Fall)</font>** and **<font color= Blue>Visiting students/scholars (2024 Fall)</font>** to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [Details](https://qmzheng09work.github.io/opportunities/).  
+
+## 🌏Welcome to my homepage ##  
+
+![](intro_summary.png)
+
 My research interests center on the urban-climate-environment nexus. I use remote sensing, GIS and geospatial techniques, environment and climate models, and AI/machine learning approaches to understand global urbanization and its environmental and climatic consequences, and to develop effective mitigation and adaption solutions. My research focus has always been on pushing the envelope on technical bottlenecks, bridging the gap between technical innovation and cutting edge environmental issues, and delivering policy-relevant information for decision-making. My current research focuses on the following themes:
 * Remote sensing of urban environment
 * Global environmental and climate change
 * Land-based climate change mitigation
 * Remote sensing image processing techniques and applications
 * Nighttime light remote sensing
-
-## 🚨Opportunities👩🏻‍🎓👨🏼‍🎓 ##
-I am looking for **<font color= Blue>1-2 PhD Students (2025 Spring/Fall)</font>**, **<font color= Blue>1 Postdoc (2024 Fall)</font>** and **<font color= Blue>Visiting students/scholars (2024 Fall)</font>** to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [Details](https://qmzheng09work.github.io/opportunities/).
 
 ## 📰News ##  
 *  20/04/2024: My publications exceeded 1,000 Google Scholar citations!

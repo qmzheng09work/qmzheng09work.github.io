@@ -25,7 +25,7 @@ My research interests center on the urban-climate-environment nexus. I use remot
 * Nighttime light remote sensing
 
 ## 📰News ##  
-*  24/05/2024: My co-authored paper on "Downscalling VIIRS Nighttime light image" has been published in *International Journal of Applied Earth Observation and Geoinformation*! [[Download(OA](https://doi.org/10.1016/j.jag.2024.103924)]  
+*  24/05/2024: My co-authored paper on "Downscalling VIIRS Nighttime light image" has been published in *International Journal of Applied Earth Observation and Geoinformation*! [[Download(OA)](https://doi.org/10.1016/j.jag.2024.103924)]  
 *  20/04/2024: My publications exceeded 1,000 Google Scholar citations!
 *  04/04/2024: **I will officially join the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a full-time Assistant Professor (tenure-track) in the coming July**.
 *  18/03/2024: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" is **ESI highly cited**! [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].

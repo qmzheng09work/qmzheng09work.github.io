@@ -42,10 +42,10 @@ My research interests center on the urban-climate-environment nexus. I use remot
 
 ## ✉️Contact Info. ##
 Qiming Zheng, Ph.D.   
-Department of Geography and Resource Management
-The Chinese University of Hong Kong
-2nd Floor, Wong Foo Yuan Building
-Shatin, N.T., Hong Kong SAR, China
+Department of Geography and Resource Management  
+The Chinese University of Hong Kong  
+2nd Floor, Wong Foo Yuan Building  
+Shatin, N.T., Hong Kong SAR, China  
 
 Email: <u>Qiming.Zheng@outlook.com</u>
 

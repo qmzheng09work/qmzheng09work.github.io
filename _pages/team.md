@@ -52,7 +52,7 @@ Email: zyyyyy.wang@connect.polyu.hk
 **National University of Singapore, 2022-2023**   
 MSc (The University of Freiburg); BSc (The University of Edinburgh)  
 Focus: Nature-based Climate Solution; Cropland Abandonment; Land use Policy  
-Achievements: publication in [Nature Communication](https://www.nature.com/articles/s41467-023-41837-y) (2nd author)  
+Achievements: publication in [Nature Communications](https://www.nature.com/articles/s41467-023-41837-y) (2nd author)  
 Current job: Geschwister-Scholl-Gymnasium Waldkirch; Oil Change International  
 
 ![](nicole.png)  

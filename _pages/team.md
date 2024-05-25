@@ -27,12 +27,6 @@ Focus: Nighttime light; Natural Disaster; Time Series Modelling
 Email: mute50074@gmail.com  
 
 ## - Master Students - 
-![](zhenyu.png)  
-**Mr. Zhenyu Wang (2023-2024)**  
-MSc (HK PolyU); BSc (Guangzhou University)  
-Focus: Carbon Emission Modelling; GIS  
-Email: zyyyyy.wang@connect.polyu.hk
-
 ![](mengni.png)  
 **Ms. Mengni Xia (2023- )**  
 MSc (HK PolyU); BSc (Anhui Normal University)  
@@ -46,11 +40,18 @@ Focus: GIS; Natural Climate Solution
 Email: yangyang.qu@connect.polyu.hk
 
 ## - Alumni - 
+![](zhenyu.png)  
+**Mr. Zhenyu Wang (2023-2024)**  
+MSc (HK PolyU); BSc (Guangzhou University)  
+Focus: Carbon Emission Modelling; GIS  
+Email: zyyyyy.wang@connect.polyu.hk
+
 ![](Tim.png)  
 **Mr. Tim Ha**  
 **National University of Singapore, 2022-2023**   
 MSc (The University of Freiburg); BSc (The University of Edinburgh)  
 Focus: Nature-based Climate Solution; Cropland Abandonment; Land use Policy  
+Achievements: publication in [Nature Communication(https://www.nature.com/articles/s41467-023-41837-y)] (2nd author)  
 Current job: Geschwister-Scholl-Gymnasium Waldkirch; Oil Change International  
 
 ![](nicole.png)  

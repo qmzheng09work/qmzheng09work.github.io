@@ -41,13 +41,14 @@ Email: yangyang.qu@connect.polyu.hk
 
 ## - Alumni - 
 ![](zhenyu.png)  
-**Mr. Zhenyu Wang (2023-2024)**  
+**Mr. Zhenyu Wang (Master Student)**  
+**HK PolyU, 2022-2023**  
 MSc (HK PolyU); BSc (Guangzhou University)  
 Focus: Carbon Emission Modelling; GIS  
 Email: zyyyyy.wang@connect.polyu.hk
 
 ![](Tim.png)  
-**Mr. Tim Ha**  
+**Mr. Tim Ha (Research Assistant)**  
 **National University of Singapore, 2022-2023**   
 MSc (The University of Freiburg); BSc (The University of Edinburgh)  
 Focus: Nature-based Climate Solution; Cropland Abandonment; Land use Policy  
@@ -55,7 +56,7 @@ Achievements: publication in [Nature Communication(https://www.nature.com/articl
 Current job: Geschwister-Scholl-Gymnasium Waldkirch; Oil Change International  
 
 ![](nicole.png)  
-**Ms. Nicole Chung**  
+**Ms. Nicole Chung (Research Assistant)**  
 **National University of Singapore, 2020-2021**  
 BSc (National University of Singapore)  
 Focus: Nature-based Climate Solution; Land-use classification  

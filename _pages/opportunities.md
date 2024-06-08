@@ -45,11 +45,11 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 <u>What We Offer</u>   
 · All kinds of trainings and instructions to make you become an outstanding independent researcher  
 · Funding for attending international conference and purchasing PC/Laptop  
+· Opportunities for short-term exchange to top-university abroad    
 
 <u>To Apply We Offer</u>   
-Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover letter; (2) CV; (3) 2-page (max.) research plan; (4) transcripts and IELTS/TOEFL certificate.
+Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover letter; (2) CV; (3) 2-page (max.) research plan; (4) transcripts and IELTS/TOEFL certificate.  
 
-· Opportunities for short-term exchange to top-university abroad    
 
 **<font color= Blue>Visiting PhD students/Scholar</font>**     
 · Please kindly email me for further discussion!

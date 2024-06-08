@@ -7,11 +7,8 @@ author_profile: true
 
 I am always looking for enthusiastic, scientifically curious, and self-motivated critical thinkers to join my group at CUHK. The expected research focus include but not limited to **Nighttime Light Remote Sensing, Climate Change Mitigation, Global Environmental Changes, Urban Sustainability, and any other related topics**. If you are keen to work with me as a full-time research assistant, MPhil student, PhD student or postdoc, please feel free to contact me (even with no opening listed below, there are always funding/fellowship opportunties available from CUHK and other external sources). 
 
-### ✉️To Apply
-Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover letter; (2) CV; (3) 2-page (max.) research plan; (4) transcripts and IELTS/TOEFL certificate(for PhD position only).
-
 ## Current openings: 
-**<font color= Blue>1 Postdoc (2024 Fall)</font>**  (see PDF in [EN](https://drive.google.com/file/d/12azAQsrb4-C78i5vBf0BxzsjicW_jf0E/view?usp=sharing) and [CN](https://kdocs.cn/l/cbnVU3R9OQ92))    
+**<font color= Blue>1 Postdoc (2024 Fall)</font>**  (Full details and to apply, please check [Link](https://cuhk.taleo.net/careersection/cu_career_non_teach/jobdetail.ftl?job=240001HS))    
 <u>Duties and Responsibilities</u>  
 · Conduct original and collaborative research  
 · Produce high-quality peer-review publications  
@@ -48,6 +45,10 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 <u>What We Offer</u>   
 · All kinds of trainings and instructions to make you become an outstanding independent researcher  
 · Funding for attending international conference and purchasing PC/Laptop  
+
+<u>To Apply We Offer</u>   
+Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover letter; (2) CV; (3) 2-page (max.) research plan; (4) transcripts and IELTS/TOEFL certificate.
+
 · Opportunities for short-term exchange to top-university abroad    
 
 **<font color= Blue>Visiting PhD students/Scholar</font>**     

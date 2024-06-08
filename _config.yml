@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Qiming Zheng"
+title                    : "Prof. Qiming Zheng"
 title_separator          : "-"
 name                     : &name "Qiming Zheng"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Qiming Zheng"
   avatar           : "profile3.PNG"
-  bio              : "Incoming Assistant Professor @The Chinese University of Hong Kong 🛰️ 🗺️ ✈️ 🎸 🎬 🏀"
+  bio              : "Assistant Professor @The Chinese University of Hong Kong 🛰️ 🗺️ ✈️ 🎸 🎬 🏀"
   location         : "FYB RM205"
   employer         :  
   googlescholar    : "https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en"

@@ -30,13 +30,11 @@ Email: mute50074@gmail.com
 **Ms. Mengni Xia (2023- )**  
 MSc (HK PolyU); BSc (Anhui Normal University)  
 Focus: GIS; Cropland Abandonment  
-Email: meng-ni.xia@connect.polyu.hk
 
 ![](quyang.png)  
 **Ms. Yang Qu (2023- )**  
 MSc (HK PolyU); BSc (Hainan University)  
 Focus: GIS; Natural Climate Solution  
-Email: yangyang.qu@connect.polyu.hk
 
 ## - Alumni - 
 ![](zhenyu.png)  
@@ -44,7 +42,6 @@ Email: yangyang.qu@connect.polyu.hk
 **HK PolyU, 2022-2023**  
 MSc (HK PolyU); BSc (Guangzhou University)  
 Focus: Carbon Emission Modelling; GIS  
-Email: zyyyyy.wang@connect.polyu.hk  
 
 ![](MuTE.png)  
 **Mr. Te Mu (Research Assistant)**   

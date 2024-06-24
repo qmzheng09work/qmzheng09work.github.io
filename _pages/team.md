@@ -10,18 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ## Group Members
-**Current**: Research Assistants (1), Master students (3)  
-**Alumni**: Research Assistants (2)
+**Current**: PhD Student (1), Master students (2)  
+**Alumni**: Research Assistants (3), Master students (1)  
 
 ## - Principle Investigator - 
-
 ![](qiming3.png)  
 **Prof. Qiming Zheng**  
 -> [More information](https://qmzheng09work.github.io/cv/) <-
   
-## - Research Assistants - 
+## - PhD Students - 
 ![](MuTE.png)  
-**Mr. Te Mu (2023- )**  
+**Mr. Te Mu (2024- )**  
 MSc (Zhejiang University); BSc (Shanxi University)  
 Focus: Nighttime light; Natural Disaster; Time Series Modelling  
 Email: mute50074@gmail.com  
@@ -45,7 +44,14 @@ Email: yangyang.qu@connect.polyu.hk
 **HK PolyU, 2022-2023**  
 MSc (HK PolyU); BSc (Guangzhou University)  
 Focus: Carbon Emission Modelling; GIS  
-Email: zyyyyy.wang@connect.polyu.hk
+Email: zyyyyy.wang@connect.polyu.hk  
+
+![](MuTE.png)  
+**Mr. Te Mu (Research Assistant)**   
+**HK PolyU, 2023-2024**  
+MSc (Zhejiang University); BSc (Shanxi University)  
+Focus: Nighttime light; Natural Disaster; Time Series Modelling  
+Current job: PhD Student at CUHK
 
 ![](Tim.png)  
 **Mr. Tim Ha (Research Assistant)**  

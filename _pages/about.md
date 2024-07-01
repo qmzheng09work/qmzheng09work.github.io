@@ -18,11 +18,11 @@ I am looking for ~~**<font color= Blue>1 PhD Student(2024 Spring)</font>**~~, **
 ![](intro_summary.png)
 
 My research interests center on the human-environment-climate nexus. I aim to leverage remote sensing based geospatial intelligence, environment and climate models, and other advanced interdisciplinary approaches to better understand the impacts of human activities on environmental and climate changes, and to deliver policy-relevant solutions to cutting-edge challenges in climate change mitigation and sustainable development. My current research focuses on the following themes:
-* Remote sensing of urban environment
-* Global environmental and climate change
-* Land-based climate change mitigation
-* Remote sensing image processing techniques and applications
-* Nighttime light remote sensing
+* Remote sensing of urban environment;
+* Opportunities and uncertainties in nature-based climate solutions;
+*	Global environmental and climate changes;
+*	Nighttime light remote sensing;
+
 
 ## 📰News ##  
 *  24/05/2024: My co-authored paper on "Downscalling VIIRS Nighttime light image" has been published in *International Journal of Applied Earth Observation and Geoinformation*! [[Download(OA)](https://doi.org/10.1016/j.jag.2024.103924)]  

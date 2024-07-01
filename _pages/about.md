@@ -17,7 +17,7 @@ I am looking for ~~**<font color= Blue>1 PhD Student(2024 Spring)</font>**~~, **
 
 ![](intro_summary.png)
 
-My research interests center on the urban-climate-environment nexus. I use remote sensing, GIS and geospatial techniques, environment and climate models, and AI/machine learning approaches to understand global urbanization and its environmental and climatic consequences, and to develop effective mitigation and adaption solutions. My research focus has always been on pushing the envelope on technical bottlenecks, bridging the gap between technical innovation and cutting edge environmental issues, and delivering policy-relevant information for decision-making. My current research focuses on the following themes:
+My research interests center on the human-environment-climate nexus. I aim to leverage remote sensing based geospatial intelligence, environment and climate models, and other advanced interdisciplinary approaches to better understand the impacts of human activities on environmental and climate changes, and to deliver policy-relevant solutions to cutting-edge challenges in climate change mitigation and sustainable development. My current research focuses on the following themes:
 * Remote sensing of urban environment
 * Global environmental and climate change
 * Land-based climate change mitigation

@@ -12,7 +12,7 @@ redirect_from:
 🗺️Qiming: So do I 
 
 ## 🚨Opportunities👩🏻‍🎓👨🏼‍🎓 ##
-I am looking for ~~**<font color= Blue>1 PhD Student(2024 Spring)</font>**~~, **<font color= Blue>1-2 PhD Students (2025 Fall)</font>**, **<font color= Blue>1 Postdoc (2024 Fall)</font>** [**[Apply Here]**](https://cuhk.taleo.net/careersection/cu_career_non_teach/jobdetail.ftl?job=240001HS) and **<font color= Blue>Visiting students/scholars (2024 Fall)</font>** to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [**More Details**](https://qmzheng09work.github.io/opportunities/).  
+I am looking for ~~**<font color= Blue>1 PhD Student(2024 Spring)</font>**~~, **<font color= Blue>1-2 PhD Students (2025 Fall)</font>**, **<font color= Blue>1 Postdoc (2024 Fall)</font>** [**[Apply Here]**](https://cuhk.taleo.net/careersection/cu_career_non_teach/jobdetail.ftl?job=240001HS) and **<font color= Blue>Visiting ~~students~~/scholars (2024 Fall)</font>** to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [**More Details**](https://qmzheng09work.github.io/opportunities/).  
 ## 🌏Welcome to my homepage ##  
 
 ![](intro_summary.png)
@@ -25,9 +25,10 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
-*  24/05/2024: My co-authored paper on "Downscalling VIIRS Nighttime light image" has been published in *International Journal of Applied Earth Observation and Geoinformation*! [[Download(OA)](https://doi.org/10.1016/j.jag.2024.103924)]  
+*   02/07/2024: I received a HK$730K General Research Fund  from Research Grants Council Hong Kong (role: PI).
+*   02/07/2024: I officially joined the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a full-time Assistant Professor (tenure-track).
+*   24/05/2024: My co-authored paper on "Downscalling VIIRS Nighttime light image" has been published in *International Journal of Applied Earth Observation and Geoinformation*! [[Download(OA)](https://doi.org/10.1016/j.jag.2024.103924)]  
 *  20/04/2024: My publications exceeded 1,000 Google Scholar citations!
-*  04/04/2024: **I will officially join the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a full-time Assistant Professor (tenure-track) in the coming July**.
 *  18/03/2024: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" is **ESI highly cited**! [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].
 *  27/01/2024: Our work "Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation" was accepted by *IEEE TGRS* ! [[Download](https://ieeexplore.ieee.org/document/10414127)].
 *  08/01/2024: I joined the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a Part-time Lecturer.

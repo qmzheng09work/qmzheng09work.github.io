@@ -48,6 +48,7 @@ The Chinese University of Hong Kong
 2nd Floor, Wong Foo Yuan Building  
 Shatin, N.T., Hong Kong SAR, China  
 
-Email: <u>Qiming.Zheng@outlook.com</u>
+Email: <u>qmzheng@cuhk.edu.hk</u>
+Department Page: [Link](https://www.grm.cuhk.edu.hk/en/profile/prof-zheng-qiming/)
 
 Updated 15/07/2024

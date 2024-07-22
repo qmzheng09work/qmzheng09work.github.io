@@ -52,5 +52,5 @@ Email <u>qiming.zheng@outlook.com</u> with the following documents: (1) cover le
 
 
 **<font color= Blue>Visiting PhD students/Scholar</font>**     
-Please refer to the information from [Office of Academic Links OAL](https://www.oal.cuhk.edu.hk/application/) first and email me for further discussion! 
+Please refer to the information from [Office of Academic Links](https://www.oal.cuhk.edu.hk/application/) first and email me for further discussion! 
 

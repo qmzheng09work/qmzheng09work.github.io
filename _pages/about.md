@@ -25,7 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
-*   01/10/2024: I started my new service duty as an external editor of *Communications Earth and Environment*[(https://www.nature.com/commsenv/editorial-board#QimingZheng)]  
+*   01/10/2024: I started my new service duty as an external editor of [*Communications Earth and Environment*](https://www.nature.com/commsenv/editorial-board#QimingZheng)  
 *   02/07/2024: I received a HK$730K General Research Fund  from Research Grants Council Hong Kong (role: PI).
 *   02/07/2024: I officially joined the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a full-time Assistant Professor (tenure-track).
 *   24/05/2024: My co-authored paper on "Downscalling VIIRS Nighttime light image" has been published in *International Journal of Applied Earth Observation and Geoinformation*! [[Download(OA)](https://doi.org/10.1016/j.jag.2024.103924)]  

@@ -25,6 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
+*   28/10/2024: My book review paper "Seeing the unseen in cities at night" has been published in *Nature Cities* ![[Download](https://www.researchgate.net/publication/385303683_Seeing_the_unseen_in_cities_at_night)]   
 *   01/10/2024: I started my new service duty as an external editor of [*Communications Earth and Environment*](https://www.nature.com/commsenv/editorial-board#QimingZheng)  
 *   02/07/2024: I received a HK$730K General Research Fund  from Research Grants Council Hong Kong (role: PI).
 *   02/07/2024: I officially joined the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a full-time Assistant Professor (tenure-track).

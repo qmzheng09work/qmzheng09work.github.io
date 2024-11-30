@@ -8,12 +8,18 @@ author_profile: true
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author; ^=supervised students/RA)   
-(Total citation=1032; H-index=18)
+(Total citation=1266; H-index=21)
 
 **2024**   
-[34] Chen, B., **Zheng, Q**, Sun, W., Yang, G., Feng, T., & Wang, Y. (2024). Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation. ***IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING***
+[37] **Zheng Q**. Cities at night: seeing the unseen. ***Nature Cities*** 2024.  
 
-[33] **Zheng Q** Weng Q. Contrasting pattern of urban expansion and urban land-use intensification of global megacities using nighttime light time series data (Chapter 7). ***Geospatial Approaches to Sustainable Cities*** 
+[36] Chen, B., **Zheng, Q**, Sun, W., Yang, G., Feng, T., & Wang, Y. (2024). Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation. ***IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING***  
+
+[35] **Zheng Q** Weng Q. Contrasting pattern of urban expansion and urban land-use intensification of global megacities using nighttime light time series data (Chapter 7). ***Geospatial Approaches to Sustainable Cities***   
+
+[34]	Weng Q, Li Z, …, **Zheng Q**, et al. How Will AI Transform Urban Observing, Sensing, Imaging, And Mapping? ***npj Urban Sustainability***
+
+[33]	Guo B, Hu, D, Liu, Y, **Zheng Q**, Atkinson P. A novel nighttime light downscaling index method for generating annual high-definition nighttime light product. ***International Journal of Applied Earth Observation and Geo-information***
 
 [32] ^Dong B, **Zheng Q#**, Lin Y, Chen B, Ye Z, Huang C, et al. Integrating physical model-based features and spatial contextual information to estimate building height in complex urban areas. ***International Journal of Applied Earth Observation and Geoinformation*** 
 

@@ -11,7 +11,7 @@ author_profile: true
 (Total citation=1266; H-index=21)
 
 **2024**   
-[37] **Zheng Q**. Cities at night: seeing the unseen. ***Nature Cities*** 2024.  
+[37] **Zheng Q**. Cities at night: seeing the unseen. ***Nature Cities*** 
 
 [36] Chen, B., **Zheng, Q**, Sun, W., Yang, G., Feng, T., & Wang, Y. (2024). Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation. ***IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING***  
 

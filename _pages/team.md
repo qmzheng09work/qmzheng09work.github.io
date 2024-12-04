@@ -24,6 +24,7 @@ redirect_from:
 MSc (Zhejiang University); BSc (Shanxi University)  
 Focus: Nighttime light; Natural Disaster; Time Series Modelling  
 Email: mute50074@gmail.com  
+First-author publications: IEEE TGRS  
 
 ## - Master Students - 
 ![](mengni.png)  
@@ -31,17 +32,19 @@ Email: mute50074@gmail.com
 MSc (HK PolyU); BSc (Anhui Normal University)  
 Focus: GIS; Cropland Abandonment  
 
+## - Alumni - 
 ![](quyang.png)  
-**Ms. Yang Qu (2023- )**  
+**Ms. Yang Qu (2023-2024)**  
 MSc (HK PolyU); BSc (Hainan University)  
 Focus: GIS; Natural Climate Solution  
+Current job: High-School Geography teacher at Shanghai  
 
-## - Alumni - 
 ![](zhenyu.png)  
 **Mr. Zhenyu Wang (Master Student)**  
 **HK PolyU, 2022-2023**  
 MSc (HK PolyU); BSc (Guangzhou University)  
 Focus: Carbon Emission Modelling; GIS  
+Current job: Research Assistant at PolyU HK  
 
 ![](MuTE.png)  
 **Mr. Te Mu (Research Assistant)**   

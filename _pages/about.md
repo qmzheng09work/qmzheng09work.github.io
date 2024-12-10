@@ -12,7 +12,7 @@ redirect_from:
 🗺️Qiming: So do I 
 
 ## 🚨Opportunities👩🏻‍🎓👨🏼‍🎓 ##
-I am looking for ~~<font color= Blue>1 PhD Student(2024 Spring)</font>~~, ~~**<font color= Blue>1-2 PhD Students (2025 Fall)</font>**~~, ~~<font color= Blue>1 Postdoc (2024 Fall)</font>~~ and **<font color= Blue>Visiting scholars</font>** to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [**More Details**](https://qmzheng09work.github.io/opportunities/).  
+I am looking for ~~<font color= Blue>1 PhD Student(2024 Spring)</font>~~, ~~**<font color= Blue>1-2 PhD Students (2025 Fall)</font>**~~, <font color= Blue>1 Postdoc (2024 Fall)</font> and **<font color= Blue>Visiting scholars</font>** to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [**More Details**](https://qmzheng09work.github.io/opportunities/).  
 ## 🌏Welcome to my homepage ##  
 
 ![](intro_summary_2.png)
@@ -25,6 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
+*   10/12/2024: My PhD student Te MU has got his first research on "Robust disaster impact assessment with daily nighttime light images" published in *IEEE TGRS* ![[Download](https://doi.org/10.1109/TGRS.2024.3512549 )].
 *   28/10/2024: My book review paper "Seeing the unseen in cities at night" has been published in *Nature Cities* ![[Download](https://www.researchgate.net/publication/385303683_Seeing_the_unseen_in_cities_at_night)]   
 *   01/10/2024: I started my new service duty as an external editor of [*Communications Earth and Environment*](https://www.nature.com/commsenv/editorial-board#QimingZheng)  
 *   02/07/2024: I received a HK$730K General Research Fund  from Research Grants Council Hong Kong (role: PI).

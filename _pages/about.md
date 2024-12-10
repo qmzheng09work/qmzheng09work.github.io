@@ -25,8 +25,8 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
-*   10/12/2024: My PhD student Te MU has got his first research on "Robust disaster impact assessment with daily nighttime light images" published in *IEEE TGRS* ![[Download](https://doi.org/10.1109/TGRS.2024.3512549 )].
-*   28/10/2024: My book review paper "Seeing the unseen in cities at night" has been published in *Nature Cities* ![[Download](https://www.researchgate.net/publication/385303683_Seeing_the_unseen_in_cities_at_night)]   
+*   10/12/2024: My PhD student Te MU has got his first research on "Robust disaster impact assessment with daily nighttime light images" published in ***IEEE TGRS*** ![[Download](https://doi.org/10.1109/TGRS.2024.3512549 )].
+*   28/10/2024: My book review paper "Seeing the unseen in cities at night" has been published in ***Nature Cities*** ![[Download](https://www.researchgate.net/publication/385303683_Seeing_the_unseen_in_cities_at_night)]   
 *   01/10/2024: I started my new service duty as an external editor of [*Communications Earth and Environment*](https://www.nature.com/commsenv/editorial-board#QimingZheng)  
 *   02/07/2024: I received a HK$730K General Research Fund  from Research Grants Council Hong Kong (role: PI).
 *   02/07/2024: I officially joined the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a full-time Assistant Professor (tenure-track).
@@ -34,14 +34,12 @@ My research interests center on the human-environment-climate nexus. I aim to le
 *  20/04/2024: My publications exceeded 1,000 Google Scholar citations!
 *  18/03/2024: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" is **ESI highly cited**! [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].
 *  27/01/2024: Our work "Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation" was accepted by *IEEE TGRS* ! [[Download](https://ieeexplore.ieee.org/document/10414127)].
-*  08/01/2024: I joined the Dept. of Geography and Resource Management at Chinese University of Hong Kong as a Part-time Lecturer.
-*  20/12/2023: The work that I supervised,"Estimating building heights in complex urban areas", has been published in *International Journal of Applied Earth Observation and Geoinformation*![[Download(OA)](https://doi.org/10.1016/j.jag.2023.103625)]
-* 13/12/2023: My co-authored paper on "Uncertainties in deforestation emission baseline methodologies" has been published in *Nature Communications*! [[Download (OA)](https://doi.org/10.1038/s41467-023-44127-9)]
+*  20/12/2023: The work that I supervised,"Estimating building heights in complex urban areas", has been published in ***International Journal of Applied Earth Observation and Geoinformation***![[Download(OA)](https://doi.org/10.1016/j.jag.2023.103625)]
+* 13/12/2023: My co-authored paper on "Uncertainties in deforestation emission baseline methodologies" has been published in ***Nature Communications***! [[Download (OA)](https://doi.org/10.1038/s41467-023-44127-9)]
 * 29/09/2023: We posted an eLetter commentary on light pollution measurements in *Science*. [[View eLetter](https://www.science.org/doi/10.1126/science.adg0473#elettersSection)].
-* 21/09/2023: Our manuscript about global abandoned cropland was published in *Nature Communications*.[[Download (OA)](https://www.nature.com/articles/s41467-023-41837-y)].[Media:[Eurekalert AAAS](https://www.eurekalert.org/news-releases/1003363);[Earth.com](https://www.earth.com/news/abandoned-croplands-could-boost-food-security-and-climate-mitigation/); see [More](https://www.nature.com/articles/s41467-023-41837-y/metrics)].
+* 21/09/2023: Our manuscript about global abandoned cropland was published in ***Nature Communications***.[[Download (OA)](https://www.nature.com/articles/s41467-023-41837-y)].[Media:[Eurekalert AAAS](https://www.eurekalert.org/news-releases/1003363);[Earth.com](https://www.earth.com/news/abandoned-croplands-could-boost-food-security-and-climate-mitigation/); see [More](https://www.nature.com/articles/s41467-023-41837-y/metrics)].
 * 08/08/2023: Our proposed research on building height estimation was selected for Alibaba DAMO Academy AI Earth Joint Research & Innovation Programme.
-* 17/06/2023: I gave a talk on “Impact of temporal compositing on nighttime light data and its applications" at Quantitative RS Forum 2023, Chengdu, China. [[Photo@Twitter](https://twitter.com/QimingZheng2/status/1670058400305086464)].
-* 29/05/2023: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" was published in *ISPRS P&RS Journal* [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].
+* 29/05/2023: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" was published in ***ISPRS P&RS Journal*** [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].
 
 
 ## ✉️Contact Info. ##

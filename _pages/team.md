@@ -21,14 +21,14 @@ redirect_from:
 ## - PhD Students - 
 ![](MuTE.png)  
 **Mr. Te Mu (2024- )**  
-MSc (Zhejiang University); BSc (University of Science and Technology Beijing)  
+MSc (Zhejiang University); BSc (Shanxi University)  
 Focus: Nighttime light; Natural Disaster; Time Series Modelling  
 Email: mateomu@link.cuhk.edu.hk    
 First-author publications: [TGRS](https://ieeexplore.ieee.org/document/10781441)
 
 ![](yifei_2.png)  
 **Ms. Yifei Zhao (2025- )**  
-MSc (Beijing Normal University); BSc ( University)  
+MSc (Beijing Normal University); BSc (University of Science and Technology Beijing)  
 Focus: Nature-based Solutions; Climate Change Mitigation; Afforestation  
 Email: yifeizhao@cuhk.edu.hk   
 

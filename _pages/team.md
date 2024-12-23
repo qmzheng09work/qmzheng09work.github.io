@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Group Members
-**Current**: PhD Student (1), Master students (2)  
-**Alumni**: Research Assistants (3), Master students (1)  
+**Current**: PhD Student (2), Master students (1)  
+**Alumni**: Research Assistants (3), Master students (2)  
 
 ## - Principle Investigator - 
 ![](qiming3.png)  

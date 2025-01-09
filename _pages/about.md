@@ -26,7 +26,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 ## 📰News ##  
 *   09/01/2025: My co-authored paper on "Consistency assessment of cross-sensor calibrated nighttime light image products" has been published in ***Remote Sensing of Environment***! [[Download](https://www.sciencedirect.com/science/article/pii/S0034425725000021?via%3Dihub)]  
-*   10/12/2024: My PhD student Te MU has got his first research on "Robust disaster impact assessment with daily nighttime light images" published in ***IEEE TGRS*** ![[Download](https://ieeexplore.ieee.org/ielx8/36/10807682/10781441.pdf?tp=&arnumber=10781441&isnumber=10807682&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwNzgxNDQx)].
+*   10/12/2024: My PhD student Te MU has got his first research on "Robust disaster impact assessment with daily nighttime light images" published in ***IEEE TGRS*** ![[Download(OA)](https://ieeexplore.ieee.org/document/10781441)].
 *   28/10/2024: My book review paper "Seeing the unseen in cities at night" has been published in ***Nature Cities*** ![[Download](https://www.researchgate.net/publication/385303683_Seeing_the_unseen_in_cities_at_night)]   
 *   01/10/2024: I started my new service duty as an external editor of [*Communications Earth and Environment*](https://www.nature.com/commsenv/editorial-board#QimingZheng)  
 *   02/07/2024: I received a HK$730K General Research Fund  from Research Grants Council Hong Kong (role: PI).

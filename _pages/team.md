@@ -38,7 +38,7 @@ Email: yifeizhao@cuhk.edu.hk
 MSc (HK PolyU); BSc (Anhui Normal University)  
 Focus: GIS; Cropland Abandonment  
 
-## - Visiting Scholar - 
+## - Visiting Scholars - 
 ![](xinyu.png)  
 **Dr. Xingyu Zheng (2025- )**  
 Lecturer at Zhejiang A&F University 

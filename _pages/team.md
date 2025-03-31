@@ -38,6 +38,12 @@ Email: yifeizhao@cuhk.edu.hk
 MSc (HK PolyU); BSc (Anhui Normal University)  
 Focus: GIS; Cropland Abandonment  
 
+## - Visiting Scholar - 
+![](xinyu.png)  
+**Dr. Xingyu Zheng (2025- )**  
+Lecturer at Zhejiang A&F University 
+Focus: forest carbon stock modeling
+
 ## - Alumni - 
 ![](quyang.png)  
 **Ms. Yang Qu (2023-2024)**  

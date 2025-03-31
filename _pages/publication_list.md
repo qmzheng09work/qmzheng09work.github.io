@@ -8,10 +8,18 @@ author_profile: true
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author; ^=supervised students/RA)   
-(Total citation=1266; H-index=21)
+(Total citation=1435; H-index=22)
+**2025**  
+[42] **Zheng, Q.#**;  Zeng, Y.;  Zhou, Y.;  Wang, Z.;  **Mu, T.^**; Weng, Q., Nighttime lights reveal substantial spatial heterogeneity and inequality in post-hurricane recovery. ***Remote Sensing of Environment***
+
+[41] Zou, C.;  Chen, Z.;  Yu, B.;  **Zheng, Q.**; Wang, C., An object-oriented nighttime light classification based on light color temperature: A new perspective from UAV nighttime images. ***IEEE Transactions on Geoscience and Remote Sensing***
+
+[40] Zheng, Z.;  **Zheng, Q.**;  Wu, Z.;  Cao, Z.;  Zhu, H.;  Chen, Y.;  Jiang, B.;  Guo, Y.;  Xu, D.; Marinello, F., Logic combination and diagnostic rule-based method for consistency assessment and its application to cross-sensor calibrated nighttime light image products. ***Remote Sensing of Environment***
 
 **2024**   
-[37] **Zheng Q**. Cities at night: seeing the unseen. ***Nature Cities*** 
+[38] **Mu, T.^**;  **Zheng, Q.#**; He, S. Y., Robust disaster impact assessment with synthetic control modeling framework and daily nighttime light time series images. ***IEEE Transactions on Geoscience and Remote Sensing***
+
+[37] **Zheng Q#**. Cities at night: seeing the unseen. ***Nature Cities*** 
 
 [36] Chen, B., **Zheng, Q**, Sun, W., Yang, G., Feng, T., & Wang, Y. (2024). Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation. ***IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING***  
 

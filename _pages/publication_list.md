@@ -11,6 +11,8 @@ author_profile: true
 (Total citation=1435; H-index=22)  
 
 **2025**  
+[43] He, T.;  Hu, Y.;  Li, F.;  Chen, Y.;  Zhang, M.;  **Zheng, Q.**;  Jin, Y.; Ren, H., Mapping land- and offshore-based wind turbines in China in 2023 with Sentinel-2 satellite data. ***Renewable and Sustainable Energy Reviews***
+
 [42] **Zheng, Q.#**;  Zeng, Y.;  Zhou, Y.;  Wang, Z.;  **Mu, T.^**; Weng, Q., Nighttime lights reveal substantial spatial heterogeneity and inequality in post-hurricane recovery. ***Remote Sensing of Environment***
 
 [41] Zou, C.;  Chen, Z.;  Yu, B.;  **Zheng, Q.**; Wang, C., An object-oriented nighttime light classification based on light color temperature: A new perspective from UAV nighttime images. ***IEEE Transactions on Geoscience and Remote Sensing***

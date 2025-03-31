@@ -41,7 +41,7 @@ MSc (HK PolyU); BSc (Anhui Normal University)
 ## - Visiting Scholars - 
 ![](xinyu.png)  
 **Dr. Xingyu Zheng (2025- )**  
-Lecturer at Zhejiang A&F University 
+Lecturer at Zhejiang A&F University   
 -Focus: forest carbon stock modeling
 
 ## - Alumni - 

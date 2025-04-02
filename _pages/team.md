@@ -17,7 +17,13 @@ redirect_from:
 ![](qiming3.png)  
 **Prof. Qiming Zheng**  
 -> [More information](https://qmzheng09work.github.io/cv/) <-
-  
+
+## - Postdoc Fellow -  
+![](xialiao_2.png)  
+**Dr. Xia Liao (2025- )**  
+PhD (Chinese Academy of Sciences); MSc/BSc (Chongqing University)  
+-Focus: Urban and regional sustainability; Land-use change and its impacts  
+
 ## - PhD Students - 
 ![](MuTE.png)  
 **Mr. Te Mu (2024- )**  
@@ -29,8 +35,7 @@ MSc (Zhejiang University); BSc (Shanxi University)
 ![](yifei_2.png)  
 **Ms. Yifei Zhao (2025- )**  
 MSc (Beijing Normal University); BSc (University of Science and Technology Beijing)  
--Focus: Nature-based Solutions; Climate Change Mitigation; Afforestation  
--Email: yifeizhao@cuhk.edu.hk   
+-Focus: Nature-based Solutions; Climate Change Mitigation; Afforestation   
 
 ## - Master Students - 
 ![](mengni.png)  

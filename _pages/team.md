@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Group Members
-**Current**: Postdoc Fellow (1), PhD Student (2), Master students (1), Visiting scholar (1)
+**Current**: Postdoc Fellow (1), PhD Student (2), Master students (1), Visiting scholar (1)   
 **Alumni**: Research Assistants (3), Master students (2)  
 
 ## - Principle Investigator - 

@@ -25,7 +25,7 @@ redirect_from:
     
 * 01/2023 - 06/2024: **Research Assistant Professor**
   * Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University
-  * Affliated with The JC STEM Lab of Earth Observations (Lab Head: [Prof. Qihao Weng](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-weng-qihao/))
+  * Affliated with The JC STEM Lab of Earth Observations  
 
 * 01/2023 - 10/2023: **Lab Manager**
   * The JC STEM Lab of Earth Observations, The Hong Kong Polytechnic University
@@ -55,6 +55,7 @@ see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scho
 
 ## Professional Service
 **Editorship**     
+* 2024 - Present: **Editor**, *Communications Earth & Enviornment* (Q1:11/254)  
 * 2022 - present: **Editorial Board Member**, *ISPRS Journal of Photogrammetry and Remote Sensing* (Q1:2/52)
 * 2021 - 2023: **Guest editor**, *Remote Sensing* (Q2:12/33), Special Issue: Remote Sensing Imagery For Mapping Economic Activities
 

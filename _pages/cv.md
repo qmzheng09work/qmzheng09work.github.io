@@ -42,7 +42,7 @@ redirect_from:
 * Nighttime light remote sensing
   
 ## Publications   
-see [Publication](https://qmzheng09work.github.io/publications/) or [Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=EN)
+see [Publication](https://qmzheng09work.github.io/publication_list/) or [Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=EN)
 
 ## Teaching     
 * GRMD2105 Introduction to GIS (undergraduate). The Chinese University of Hong Kong. 2024/2025, Fall

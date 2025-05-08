@@ -25,6 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
+*   05/05/2025: I was named as one of the Top Reviewers for ***Remote Sensing of Environment*** for the calendar year 2024.  
 *   12/02/2025: My paper "Nighttime lights reveal substantial spatial heterogeneity and inequality in post-hurricane recovery" has been published in ***Remote Sensing of Environment***! [[Download(OA)](https://doi.org/10.1016/j.rse.2025.114645)]  
 *   09/01/2025: My co-authored paper on "Consistency assessment of cross-sensor calibrated nighttime light image products" has been published in ***Remote Sensing of Environment***! [[Download](https://www.sciencedirect.com/science/article/pii/S0034425725000021?via%3Dihub)]  
 *   10/12/2024: My PhD student Te MU has got his first research on "Robust disaster impact assessment with daily nighttime light images" published in ***IEEE TGRS*** ![[Download(OA)](https://ieeexplore.ieee.org/document/10781441)].

@@ -25,7 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
-*   14/05/2025: My proposal "Spatially Explicit Modeling of Reforestation Co-benefits with Geospatial AI Approaches" was funded by one of ten 2025 Strategic Partnership Award Schemes of CUHK to support research collaboration with Prof. Yiwen Zeng (NTU, SG) and Dr. Sreekar Rachakonda (UQ, AUS).  
+*   14/05/2025: My proposal "Spatially Explicit Modeling of Reforestation Co-benefits with Geospatial AI Approaches" was funded as one of ten 2025 Strategic Partnership Award projects of CUHK to support research collaboration with Prof. Yiwen Zeng (NTU, SG) and Dr. Sreekar Rachakonda (UQ, AUS).  
 *   05/05/2025: I was named as one of the Top Reviewers for ***Remote Sensing of Environment*** for the calendar year 2024.  
 *   12/02/2025: My paper "Nighttime lights reveal substantial spatial heterogeneity and inequality in post-hurricane recovery" has been published in ***Remote Sensing of Environment***! [[Download(OA)](https://doi.org/10.1016/j.rse.2025.114645)]  
 *   09/01/2025: My co-authored paper on "Consistency assessment of cross-sensor calibrated nighttime light image products" has been published in ***Remote Sensing of Environment***! [[Download](https://www.sciencedirect.com/science/article/pii/S0034425725000021?via%3Dihub)]  

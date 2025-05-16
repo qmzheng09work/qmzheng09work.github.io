@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Group Members
-**Current**: Postdoc Fellow (1), PhD Student (2), Master students (1), Visiting scholar (1)   
-**Alumni**: Research Assistants (3), Master students (2)  
+**Current**: Postdoc Fellow (1), PhD Student (2), Master students (0), Visiting scholar (1)   
+**Alumni**: Research Assistants (3), Master students (3)  
 
 ## - Principle Investigator - 
 ![](qiming3.png)  
@@ -38,10 +38,6 @@ MSc (Beijing Normal University); BSc (University of Science and Technology Beiji
 -Focus: Nature-based Solutions; Climate Change Mitigation; Afforestation   
 
 ## - Master Students - 
-![](mengni.png)  
-**Ms. Mengni Xia (2023- )**  
-MSc (HK PolyU); BSc (Anhui Normal University)  
--Focus: GIS; Cropland Abandonment  
 
 ## - Visiting Scholars - 
 ![](xinyu.png)  
@@ -50,6 +46,11 @@ Lecturer at Zhejiang A&F University
 -Focus: forest carbon stock modeling
 
 ## - Alumni - 
+![](mengni.png)  
+**Ms. Mengni Xia (2023- )**  
+MSc (HK PolyU); BSc (Anhui Normal University)  
+-Focus: GIS; Cropland Abandonment  
+
 ![](quyang.png)  
 **Ms. Yang Qu (2023-2024)**  
 MSc (HK PolyU); BSc (Hainan University)  

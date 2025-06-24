@@ -8,7 +8,9 @@ author_profile: true
 I am always looking for enthusiastic, scientifically curious, and self-motivated critical thinkers to join my group at CUHK. The expected research focus include but not limited to **Nighttime Light Remote Sensing, Climate Change Mitigation, Global Environmental Changes, Urban Sustainability, and any other related topics**. If you are keen to work with me as a full-time research assistant, MPhil student, PhD student or postdoc, please feel free to contact me (even with no opening listed below, there are always funding/fellowship opportunties available from CUHK and other external sources). 
 
 ## Current opening: 
+· 1-2 PhD students (26 Fall)
 · 1 Visiting PhD/Scholar
+
 
 ## Information 
 **<font color= Blue>Postdocs</font>**   
@@ -36,7 +38,7 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 · The following items will be considered as a plus: first-author publications, project experience, awards in academic competitions, etc.  
 
 <u>Available Funding Schemes</u>   
-· HK PhD Fellowship Scheme ([Link](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs))  
+· HK-PhD/VC Fellowship Scheme ([Link](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs))  
 · CUHK Computational Social Science PhD Fellowship Scheme ([Link](https://cssl.socsc.cuhk.edu.hk/aboutus/fellowship_scheme/))  
 · CUHK General admission and other information ([Link1](https://www.grm.cuhk.edu.hk/en/pg/research-postgraduate/phd/) and [Link2](https://www.gs.cuhk.edu.hk/admissions/programme/social-science#mphil-phd-in-geography-and-resource-management))  
 · Enquiry is welcome and highly encouraged!  

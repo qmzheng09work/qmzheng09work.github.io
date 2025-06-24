@@ -11,7 +11,7 @@ redirect_from:
 
 ## Group Members
 **Current**: Postdoc Fellow (1), PhD Student (2), Master students (0), Visiting scholar (1)   
-**Alumni**: Research Assistants (3), Master students (3)  
+**Alumni**: Research Assistants (3), Master students (3), Final Year Students (2)
 
 ## - Principle Investigator - 
 ![](qiming3.png)  
@@ -46,13 +46,21 @@ Lecturer at Zhejiang A&F University
 -Focus: forest carbon stock modeling
 
 ## - Alumni - 
+**Ms. Mianxi Wu (Final Year student)**
+**CUHK, 2024-2025** 
+BSc (CUHK);  
+- Achievements:  First class honor; GRM Undergraduate International Conference Award; Tam Sai Wing Scholarship for Final Year Thesis.  
+- Current job: Admitted to HKU Master Program  
+
 ![](mengni.png)  
-**Ms. Mengni Xia (2023- )**  
+**Ms. Mengni Xia (Master Student)**  
+**HK PolyU, 2023-2025**  
 MSc (HK PolyU); BSc (Anhui Normal University)  
 -Focus: GIS; Cropland Abandonment  
 
 ![](quyang.png)  
-**Ms. Yang Qu (2023-2024)**  
+**Ms. Yang Qu (Master Student)**  
+**HK PolyU, 2023-2025**  
 MSc (HK PolyU); BSc (Hainan University)  
 -Focus: GIS; Natural Climate Solution  
 -Current job: High-School Geography teacher at Shanghai  

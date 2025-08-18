@@ -37,6 +37,11 @@ MSc (Zhejiang University); BSc (Shanxi University)
 MSc (Beijing Normal University); BSc (University of Science and Technology Beijing)  
 -Focus: Nature-based Solutions; Climate Change Mitigation; Afforestation   
 
+![](gongyu.png)
+**Ms. Yu Gong (2025- )**  
+MSc (Wuhan University); BSc (Hohai University)  
+-Focus: Nighttime light; Urban remote sensing
+
 ## - Master Students - 
 
 ## - Visiting Scholars - 

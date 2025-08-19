@@ -11,7 +11,7 @@ redirect_from:
 
 ## Group Members
 **Current**: Postdoc Fellow (1), PhD Student (4), Master students (0), Visiting scholar (1)   
-**Alumni**: Research Assistants (3), Master students (3), Final Year Students (2)
+**Alumni**: Research Assistants (3), Master students (3), Final Year Students (2), Visiting scholar (1)   
 
 ## - Principle Investigator - 
 ![](qiming3.png)  

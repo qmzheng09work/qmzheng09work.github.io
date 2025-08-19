@@ -38,17 +38,19 @@ MSc (Zhejiang University); BSc (Shanxi University)
 MSc (Beijing Normal University); BSc (University of Science and Technology Beijing)  
 -Focus: Nature-based Solutions; Climate Change Mitigation; Afforestation   
 -Email: zhaoyf@link.cuhk.edu.hk  
--Leading Project: Trade-offs and synergies of the climate benefit and co-benefits of reforestation in China towards 2100 (Co-I; HK$ 100,000)
+-Leading Project: Trade-offs and synergies of the climate benefit and co-benefits of reforestation in China towards 2100 (Co-I; HK$ 100,000)  
 
 ![](gongyu.png)   
 **Ms. Yu Gong (2025- )**  
 MSc (Wuhan University); BSc (Hohai University)  
 -Focus: Nighttime light; Urban remote sensing
+-Email:yuGong@link.cuhk.edu.hk  
 
 ![](hanyue2.png)   
 **Ms. Hanyue Luo (2025- )**  
 MSc (Shanghai Jiaotong University); BSc (China Agricultural University)  
 -Focus: Nature-based Solutions; Urban afforestation 
+-Email:luoHanyue@link.cuhk.edu.hk  
 
 ## - Master Students - 
 

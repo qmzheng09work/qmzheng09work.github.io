@@ -23,6 +23,7 @@ redirect_from:
 **Dr. Xia Liao (2025- )**  
 PhD (Chinese Academy of Sciences); MSc/BSc (Chongqing University)  
 -Focus: Urban and regional sustainability; Land-use change and its impacts  
+-Email:xialiao@cuhk.edu.hk  
 
 ## - PhD Students - 
 ![](MuTE.png)  
@@ -36,6 +37,8 @@ MSc (Zhejiang University); BSc (Shanxi University)
 **Ms. Yifei Zhao (2025- )**  
 MSc (Beijing Normal University); BSc (University of Science and Technology Beijing)  
 -Focus: Nature-based Solutions; Climate Change Mitigation; Afforestation   
+-Email: zhaoyf@link.cuhk.edu.hk  
+-Project Co-I: Trade-offs and synergies of the climate benefit and co-benefits of reforestation in China towards 2100 (HK$ 100,000)
 
 ![](gongyu.png)   
 **Ms. Yu Gong (2025- )**  

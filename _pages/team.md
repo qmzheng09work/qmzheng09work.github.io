@@ -38,7 +38,7 @@ MSc (Zhejiang University); BSc (Shanxi University)
 MSc (Beijing Normal University); BSc (University of Science and Technology Beijing)  
 -Focus: Nature-based Solutions; Climate Change Mitigation; Afforestation   
 -Email: zhaoyf@link.cuhk.edu.hk  
--Project Co-I: Trade-offs and synergies of the climate benefit and co-benefits of reforestation in China towards 2100 (HK$ 100,000)
+-Leading Project: Trade-offs and synergies of the climate benefit and co-benefits of reforestation in China towards 2100 (Co-I; HK$ 100,000)
 
 ![](gongyu.png)   
 **Ms. Yu Gong (2025- )**  

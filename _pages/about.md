@@ -25,7 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
-*   07/07/2025: I joined *Geographical Science地理科学* as a vice director (领导小组副主任) of Young Editorial Board Member  
+*   07/07/2025: I joined the journal *Geographical Science地理科学* as the Vice Director (领导小组副主任) of Young Editorial Board Member  
 *   14/05/2025: My proposal "Spatially Explicit Modeling of Reforestation Co-benefits with Geospatial AI Approaches" was funded as one of ten 2025 Strategic Partnership Award projects of CUHK to support research collaboration with Prof. Yiwen Zeng (NTU, SG) and Dr. Sreekar Rachakonda (UQ, AUS).  
 *   05/05/2025: I was named as one of the Top 20 Reviewers for ***Remote Sensing of Environment*** for the calendar year 2024.  
 *   12/02/2025: My paper "Nighttime lights reveal substantial spatial heterogeneity and inequality in post-hurricane recovery" has been published in ***Remote Sensing of Environment***! [[Download(OA)](https://doi.org/10.1016/j.rse.2025.114645)]  

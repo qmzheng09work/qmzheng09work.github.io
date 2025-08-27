@@ -25,6 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
+*   27/08/2025: My proposal "Seamless daily VIIRS nighttime light data reconstruction and change detection" was funded by Young Scientists Fund of National Natural Science Foundation of China.  
 *   07/07/2025: I joined the journal *Geographical Science地理科学* as the Vice Director (领导小组副主任) of Young Editorial Board Member  
 *   14/05/2025: My proposal "Spatially Explicit Modeling of Reforestation Co-benefits with Geospatial AI Approaches" was funded as one of ten 2025 Strategic Partnership Award projects of CUHK to support research collaboration with Prof. Yiwen Zeng (NTU, SG) and Dr. Sreekar Rachakonda (UQ, AUS).  
 *   05/05/2025: I was named as one of the Top 20 Reviewers for ***Remote Sensing of Environment*** for the calendar year 2024.  

@@ -61,11 +61,11 @@ Lecturer at Zhejiang A&F University
 -Focus: forest carbon stock modeling
 
 ## - Alumni - 
-**Ms. Mianxi Wu (Final Year student)**
-**CUHK, 2024-2025** 
+**Ms. Mianxi Wu (Final Year student)**  
+**CUHK, 2024-2025**   
 BSc (CUHK);  
-- Achievements:  First class honor; GRM Undergraduate International Conference Award; Tam Sai Wing Scholarship for Final Year Thesis.  
-- Current job: Admitted to HKU Master Program  
+- Achievements:  First class honor; GRM Undergraduate International Conference Award; Tam Sai Wing Scholarship for Final Year Thesis.    
+- Current job: Admitted to HKU Master Program    
 
 ![](mengni.png)  
 **Ms. Mengni Xia (Master Student)**  

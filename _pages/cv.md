@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}  
 
-**Latest [CV-EN](https://drive.google.com/file/d/1xhc2pKv2mKbS592Q8iSnLiqeLfxpvRqp/view?usp=sharing) [CV-CN](https://kdocs.cn/l/cre4FBHEw9Us)**
+**Latest [CV](https://drive.google.com/file/d/1vBhWfEEDzm2C3pDlwhMhmofd8OQQ_T9A/view?usp=sharing)**
 
 ## Education    
 * **Ph.D**. in Remote Sensing and GIS, Zhejiang University, China, 2015-2020
-* **Visiting Ph.D.** in Remote Sensing of Urban Environment, Indiana State Universtiy, USA, 2018-2019
 * **B.S.** in Environment and Resource Sciences, Zhejiang University, China, 2011-2015
 
 ## Work experience     

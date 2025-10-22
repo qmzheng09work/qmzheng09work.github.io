@@ -64,14 +64,19 @@ see [Publication](https://qmzheng09work.github.io/publication_list/) or [Google 
 
 **Funding Agency reviewer**
 * Proposal reviewer. Israel Science Foundation, Israel. 2024
-* Proposal reviewer. Belgian Earth Observation Programme, Belgium. 2024
+* Proposal reviewer. Belgian Earth Observation Programme, Belgium. 2024-2025
 
-## Grants
-* Building height estimation with context information. Alibaba DAMO Academy – AI Earth Joint Research & Innovation Programme. 2023-2024
-* Supporting both food security and climate change mitigation with abandoned cropland: potential and trade-offs. Start-up Fund for RAP under the Strategic Hiring Scheme. The Hong Kong Polytechnic University. PI: HK$ 250,000. 2023-2024
+## Grants (PI)
+* Seamless daily VIIRS nighttime light data reconstruction and change detection. Young Scientists Fund, National Natural Science Foundation of China. 2026-2028
+* Trade-offs and synergies of the climate benefit and co-benefits of reforestation in China towards 2100. Direct Grant, The Chinese University of Hong Kong. 2025-2026.
+* Spatially Explicit Modeling of Reforestation Co-benefits with Geospatial AI Approaches. Strategic Partnership Award for Research Collaboration, The Chinese University of Hong Kong. 2025-2026 
+* Urban afforestation in Greater Bay Area towards 2100: Potentials and Uncertainties. General Research Fund, Research Grants Council of Hong Kong. 2025-2027  
+* Building height estimation with context information. Alibaba DAMO Academy – AI Earth Joint Research & Innovation Programme. 2023-2024  
+* Supporting both food security and climate change mitigation with abandoned cropland: potential and trade-offs. Start-up Fund for RAP under the Strategic Hiring  Scheme. The Hong Kong Polytechnic University. PI: HK$ 250,000. 2023-2024  
 * Exploring the spatio-temporal pattern of polycentric cities based on night-time light remote sensing data, Zhejiang University. PI: RMB 40,000. 2019-2020.
 
 ## Major Awards
+* 2025, Top 20 Reviewer of *Remote Sensing of Environment* in 2024, Elsevier
 * 2021, *Remote Sensing* 2021 Best Cover Award, MDPI, CHF 100
 * 2020, Excellent Doctoral Graduate of Zhejiang Province, Department of Education of Zhejiang Province
 * 2019, National PhD Student Award of China, Ministry of Education of China, RMB 30,000

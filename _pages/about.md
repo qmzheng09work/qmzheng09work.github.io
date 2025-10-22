@@ -12,10 +12,10 @@ redirect_from:
 🗺️Qiming: So do I 
 
 ## 🚨Opportunities👩🏻‍🎓👨🏼‍🎓 ##
-I am looking for <font color= Blue>1-2 PhD Students (2026 Fall)</font>, ~~<font color= Blue>1 Postdoc (2024 Fall)</font>~~ and <font color= Blue>Visiting scholars</font> to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [**More Details**](https://qmzheng09work.github.io/opportunities/).  
+I am looking for <font color= Blue>1-2 PhD Students (2026 Fall)</font>, ~~<font color= Blue>1 Postdoc (2025 Fall)</font>~~ and <font color= Blue>Visiting scholars</font> to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [**More Details**](https://qmzheng09work.github.io/opportunities/).  
 ## 🌏Welcome to my homepage ##  
 
-![](intro_summary_2.png)
+![](intro_summary_3.png)
 
 My research interests center on the human-environment-climate nexus. I aim to leverage remote sensing based geospatial intelligence, environment and climate models, and other advanced interdisciplinary approaches to better understand the impacts of human activities on environmental and climate changes, and to deliver policy-relevant solutions to cutting-edge challenges in climate change mitigation and sustainable development. My current research focuses on the following themes:
 * Remote sensing of urban environment;

@@ -55,12 +55,16 @@ MSc (Shanghai Jiaotong University); BSc (China Agricultural University)
 ## - Master Students - 
 
 ## - Visiting Scholars - 
+
+## - Alumni - 
+**Ms. Ruijia Yang (Visiting PhD student)**  
+BSc, MSc (Zhejiang University)  
+
 ![](xinyu.png)  
-**Dr. Xingyu Zheng (2025- )**  
+**Dr. Xingyu Zheng (Visiting Scholar)**  
 Lecturer at Zhejiang A&F University   
 -Focus: forest carbon stock modeling
 
-## - Alumni - 
 **Ms. Mianxi Wu (Final Year student)**  
 **CUHK, 2024-2025**   
 BSc (CUHK);  

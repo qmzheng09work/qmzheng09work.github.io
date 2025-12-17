@@ -58,7 +58,7 @@ MSc (Shanghai Jiaotong University); BSc (China Agricultural University)
 
 ## - Alumni - 
 **Ms. Ruijia Yang (Visiting PhD student)**  
-BSc, MSc (Zhejiang University)  
+BSc, MSc (Zhejiang University)   
 
 
 ![](xinyu.png)  

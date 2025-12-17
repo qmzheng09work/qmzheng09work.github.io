@@ -25,6 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
+*   15/12/2025: Our project on food security in the Global South was funded by Worldwide Universities Network – Research Development Fund 2025 (PI: Qiming Zheng; Co-I: our Postdoc Xia Liao)   
 *   20/11/2025: I joined the Editorial Board of ***Remote Sensing of Environment***.
 *   27/08/2025: My proposal "Seamless daily VIIRS nighttime light data reconstruction and change detection" was funded by Young Scientists Fund of National Natural Science Foundation of China.  
 *   07/07/2025: I joined the journal *Geographical Science地理科学* as the Vice Director (领导小组副主任) of Young Editorial Board Member  

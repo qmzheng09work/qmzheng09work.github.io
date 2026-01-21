@@ -25,7 +25,9 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
-*   15/12/2025: Our project on food security in the Global South was funded by Worldwide Universities Network – Research Development Fund 2025 (PI: Qiming Zheng; Co-I: our Postdoc Xia Liao)   
+*   07/01/2026: Our proposal on “Assessing Ecosystem Services Provision and Accessibility of Hong Kong’s Blue-green Spaces towards 2050” was funded by Environmental and Conservation Fund of Environment and Ecology Bureau of Hong Kong.  
+*   19/12/2025: Our teaching grant on "Creating an AI-powered geoscience learning platform" was funded by the Teaching Development and Language Enhancement Grant (TDLEG) 2025-28 of CUHK.   
+*   15/12/2025: Our project on “food security in the Global South“ was funded by Worldwide Universities Network – Research Development Fund 2025 (PI: Qiming Zheng; Co-I: our Postdoc Xia Liao)   
 *   20/11/2025: I joined the Editorial Board of ***Remote Sensing of Environment***.
 *   27/08/2025: My proposal "Seamless daily VIIRS nighttime light data reconstruction and change detection" was funded by Young Scientists Fund of National Natural Science Foundation of China.  
 *   07/07/2025: I joined the journal *Geographical Science地理科学* as the Vice Director (领导小组副主任) of Young Editorial Board Member  

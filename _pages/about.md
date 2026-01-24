@@ -12,7 +12,7 @@ redirect_from:
 🗺️Qiming: So do I 
 
 ## 🚨Opportunities👩🏻‍🎓👨🏼‍🎓 ##
-I am looking for <font color= Blue>1-2 PhD Students (2026 Fall)</font>, ~~<font color= Blue>1 Postdoc (2025 Fall)</font>~~ and <font color= Blue>Visiting scholars</font> to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [**More Details**](https://qmzheng09work.github.io/opportunities/).  
+I am looking for ~~<font color= Blue>1-2 PhD Students (2026 Fall)</font>~~, <font color= Blue>1 6-month Visiting PhD Students (during 2026-2027)</font>, ~~<font color= Blue>1 Postdoc (2025 Fall)</font>~~ and <font color= Blue>Visiting scholars</font> to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [**More Details**](https://qmzheng09work.github.io/opportunities/).  
 ## 🌏Welcome to my homepage ##  
 
 ![](intro_summary_4.png)

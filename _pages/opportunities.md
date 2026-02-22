@@ -8,12 +8,12 @@ author_profile: true
 I am always looking for enthusiastic, scientifically curious, and self-motivated critical thinkers to join my group at CUHK. The expected research focus include but not limited to **Nighttime Light Remote Sensing, Climate Change Mitigation, Global Environmental Changes, Urban Sustainability, and any other related topics**. If you are keen to work with me as a full-time research assistant, MPhil student, PhD student or postdoc, please feel free to contact me (even with no opening listed below, there are always funding/fellowship opportunties available from CUHK and other external sources). 
 
 ## Current opening: 
-· 1-2 PhD students (26 Fall)
+· 1 Fully-funded PhD students (26 Fall)
 · 1 Visiting PhD/Scholar
 
 
 ## Information 
-**<font color= Blue>Postdocs</font>**   
+~~**<font color= Blue>Postdocs</font>**~~   
 <u>Duties and Responsibilities</u>  
 · Conduct original and collaborative research  
 · Produce high-quality peer-review publications  
@@ -31,11 +31,17 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 · **Highly competitive salary + Health benefits + Annual leaves + MPF**   
 · 1-year fixed-term basis, with the possibility of renewal subject to satisfactory performance and funding availability.
 
-**<font color= Blue>PhD Students (2025 Spring/Fall)</font>**   
+**<font color= Blue> One Fully-funded PhD Students (2026 Fall)</font>**   
 <u>Requirements</u>  
-· A Bachelor/Master degree and research experience in remote sensing, GIS, geography, environmental science or relevant fields  
-· IELTS>=6.5 or TOEFL>=79  
-· The following items will be considered as a plus: first-author publications, project experience, awards in academic competitions, etc.  
+· Developing high-quality and original research in one of the following topics: Night-time Light Remote Sensing, Climate Change Mitigation, Global Environmental Changes, Urban Sustainability, or any relevant topic;
+· Performing other duties as assigned.
+
+<u>Requirements</u>  
+1.	A Master's degree in remote sensing, GIS, geography, environmental science, or relevant fields;
+2.	An outstanding academic record with first-author peer-reviewed publication(s) in reputable journals;
+3.	Proficiency in geospatial and data analysis, and computer programming (e.g., MATLAB, Python, R, C++, etc.);
+4.	Excellent written and oral communication skills and demonstrated ability to work independently as well as in a collaborative team environment
+5.	Preferred skills: remote sensing image processing, Machine learning/Deep learning, climate modeling, weather forecasting, land-use change modeling, IAMs, etc.
 
 <u>Available Funding Schemes</u>   
 · HK-PhD/VC Fellowship Scheme ([Link](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs))  

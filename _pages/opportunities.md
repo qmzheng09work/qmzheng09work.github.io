@@ -8,8 +8,10 @@ author_profile: true
 I am always looking for enthusiastic, scientifically curious, and self-motivated critical thinkers to join my group at CUHK. The expected research focus include but not limited to **Nighttime Light Remote Sensing, Climate Change Mitigation, Global Environmental Changes, Urban Sustainability, and any other related topics**. If you are keen to work with me as a full-time research assistant, MPhil student, PhD student or postdoc, please feel free to contact me (even with no opening listed below, there are always funding/fellowship opportunties available from CUHK and other external sources). 
 
 ## Current opening: 
-· 1 Fully-funded PhD students (26 Fall)
-· 1 Visiting PhD/Scholar
+· 1 Fully-funded PhD students (26 Fall)  
+· 1 funded visiting PhD (6-month 26-27)  
+· Visiting scholars
+
 
 ## Information 
 **<font color= Blue> One fully-funded PhD Students (2026 Fall)</font>**   

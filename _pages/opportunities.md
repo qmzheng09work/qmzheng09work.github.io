@@ -38,7 +38,7 @@ Successful candidate is expected to perform the following duties:
 
 **<font color= Blue> One Visiting PhD Student (funded by CUHK OAL)</font>**     
 <u>Descriptions</u>  
-Applications are invited for a six-month visiting PhD student to join Prof. Qiming Zheng’s team in the Department of Geography and Resource Management at the Chinese University of Hong Kong during August 2026- July 2027. This visiting PhD student position will be funded by the PhD International Mobility for Partnerships and Collaborations Award of the Office of Academic Links (OAL), CUHK (See Link[(https://www.oalglobal.cuhk.edu.hk/phd-impac-award/)]).  
+Applications are invited for a six-month visiting PhD student to join Prof. Qiming Zheng’s team in the Department of Geography and Resource Management at the Chinese University of Hong Kong during August 2026- July 2027. This visiting PhD student position will be funded by the PhD International Mobility for Partnerships and Collaborations Award of the Office of Academic Links (OAL), CUHK (See: https://www.oalglobal.cuhk.edu.hk/phd-impac-award/).  
 
 Successful candidate is expected to lead and collaborate on high-quality and original research in one of the following topics: Night-time Light Remote Sensing, Climate Change Mitigation, Global Environmental Changes, Urban Sustainability, and any relevant topic.
 

@@ -26,7 +26,7 @@ Successful candidate is expected to perform the following duties:
 1.	A Master's degree in remote sensing, GIS, geography, environmental science, or relevant fields;  
 2.	An outstanding academic record with first-author peer-reviewed publication(s) in reputable journals;  
 3.	Proficiency in geospatial and data analysis, and computer programming (e.g., MATLAB, Python, R, C++, etc.);  
-4.	Excellent written and oral communication skills and demonstrated ability to work independently as well as in a collaborative team environment  
+4.	Excellent written and oral communication skills and demonstrated ability to work independently as well as in a collaborative team environment;  
 5.	Preferred skills: remote sensing image processing, Machine learning/Deep learning, climate modeling, weather forecasting, land-use change modeling, IAMs, etc.
 
 <u>What We Offer</u>   
@@ -60,6 +60,6 @@ Applicants should email Prof. Qiming Zheng (qmzheng@cuhk.edu.hk) with “Visitin
 
 Review of applications will start as soon as possible and continue until **Mar 1, 2026**, or until the post is filled, whichever is earlier. For further inquiries, please contact Prof. Zheng.
 
-**<font color= Blue>Visiting scholar</font>**     
+**<font color= Blue>Visiting Scholars</font>**     
 Please email me for further discussion! 
 

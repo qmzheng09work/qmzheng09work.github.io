@@ -16,6 +16,7 @@ see full publication list in [Publication](https://qmzheng09work.github.io/publi
   
    ![](urban_land_change2.png)
 
+
 ### Topic 2: Nighttime Light Remote Sensing    
 
 **1. 30th anniversary of nighttime ight remote sensing for urban applications: Progress, Challenges, and Prospects**   
@@ -28,10 +29,12 @@ see full publication list in [Publication](https://qmzheng09work.github.io/publi
 
    ![](NTL_composite.png)
 
+
 **3. Robust Disaster Impact Assessment With Synthetic Control Modeling Framework and Daily Nighttime Light Time Series Images**
   We proposed an enhanced synthetic control framework that integrates dynamic time warping and random forest regression to accurately estimate business-as-usual nighttime light intensity from NASA's Black Marble data, enabling more precise isolation of disaster impacts from other confounding factors. Our novel approach significantly outperforms existing methods in detecting disaster impacts even at low intensities and short durations, providing crucial insights into regional disparities in disaster coping capacity and socioeconomic resilience to support climate adaptation strategies. (TGRS, 2025)[[PDF Online (OA)](https://ieeexplore.ieee.org/document/10781441)].
   
   ![](SCT_Mute.png)  
+
   
 ### Topic 3: Land-based Climate Change Mitigation & Adaptation
 
@@ -40,6 +43,7 @@ see full publication list in [Publication](https://qmzheng09work.github.io/publi
 of food of net climate change mitigation potential, depending on land-use suitability and land allocation strategies. We also show that applying spatial prioritization is key to maximizing the achievable potentials of abandoned cropland and demonstrate other possible approaches to further increase these potentials. Our findings offer timely insights into the potentials of abandoned cropland and can inform sustainable land management to buttress food security and climate goals. (Nature Communications, 2023) [[Online (OA)](https://www.nature.com/articles/s41467-023-41837-y)]
   
    ![](abandoned_cropland.png)
+
    
 **2. Future land-use competition constrains natural climate solutions**    
   Natural climate solutions (NCS) are an essential complement to climate mitigation and have been increasingly incorporated into international mitigation strategies. Yet, with the ongoing population growth, allocating natural areas for NCS may compete with other socioeconomic priorities, especially urban development and food security. We projected the impacts ofland-use competition incurred by cropland and urban expansion on the climate mitigation potential of NCS.  

@@ -30,12 +30,11 @@ see full publication list in [Publication](https://qmzheng09work.github.io/publi
    ![](NTL_composite.png)
 
 
-**3. Robust Disaster Impact Assessment With Synthetic Control Modeling Framework and Daily Nighttime Light Time Series Images**
+**3. Robust Disaster Impact Assessment With Synthetic Control Modeling Framework and Daily Nighttime Light Time Series Images**   
   We proposed an enhanced synthetic control framework that integrates dynamic time warping and random forest regression to accurately estimate business-as-usual nighttime light intensity from NASA's Black Marble data, enabling more precise isolation of disaster impacts from other confounding factors. Our novel approach significantly outperforms existing methods in detecting disaster impacts even at low intensities and short durations, providing crucial insights into regional disparities in disaster coping capacity and socioeconomic resilience to support climate adaptation strategies. (TGRS, 2025)[[PDF Online (OA)](https://ieeexplore.ieee.org/document/10781441)].
   
-  ![](SCT_Mute.png)  
+  ![](SCT_Mute.png)    
 
-  
 ### Topic 3: Land-based Climate Change Mitigation & Adaptation
 
 **1. The neglected role ofabandoned cropland in supportingbothfoodsecurityand climate change mitigation**   

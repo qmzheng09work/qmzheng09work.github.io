@@ -24,6 +24,10 @@ redirect_from:
 PhD (Chinese Academy of Sciences); MSc/BSc (Chongqing University)  
 -Focus: Urban and regional sustainability; Land-use change and its impacts  
 -Email:xialiao@cuhk.edu.hk  
+-Award: (1) Research Fellow Scheme, CUHK (2025-2026,HK$ 250,000); (2) Research Fellow Scheme, CUHK (2026-2027,HK$ 250,000, only awardee of the Faculty)  
+-Leading project:
+(1) Research Development Fund 2025, Worldwide Universities Network (leading Co-I; GBP 20,000);
+(2) 1+1+1 CUHK–CUHK(SZ)–GDSTC Joint Collaboration Fund, The Chinese University of Hong Kong (Co-I; HK$ 150,000)  
 
 ## - PhD Students - 
 ![](MuTE.png)  
@@ -32,7 +36,8 @@ MSc (Zhejiang University); BSc (Shanxi University)
 -Focus: Nighttime light; Natural Disaster; Time Series Modelling    
 -Email: mateomu@link.cuhk.edu.hk    
 -First-author publications: [TGRS](https://ieeexplore.ieee.org/document/10781441); [RSE](https://doi.org/10.1016/j.rse.2026.115328);  
--Leading Project: AI-powered Geospatial Science E-learning & Practicing Platform Tailored for Social Science Students (GeoLEAP) (Co-I; HK$ 367,400)    
+-Leading Project: 
+(1) Teaching Development and Language Enhancement Grant, CUHK (Co-I; HK$ 367,400)    
 
 ![](yifei_2.png)  
 **Ms. Yifei Zhao (2025- )**  

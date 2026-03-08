@@ -8,7 +8,13 @@ author_profile: true
 
 **Publications** ([[Google Scholar](https://scholar.google.com/citations?user=azf48tgAAAAJ&hl=en)])   
 (Zheng Q=Zheng Qiming; #=Corresponding Author; ^=supervised students/RA)   
-(Total citation=1435; H-index=22)  
+(Total citation=2025; H-index=24)  
+
+**2026**  
+
+[45] **Zheng, Q.#**;**Mu, T.^**, et al., Robust reconstruction of seamless daily VIIRS nighttime light imagery with cloud mask refinement and multi-strategy spatiotemporal gap-filling.  ***Remote Sensing of Environment***
+
+[44] Liu, T., **Zheng, Q.**,et al., Releasing the compound potential of abandoned cropland through recultivation, afforestation, and photovoltaic solutions.  ***Resources, Conservation and Recycling***  
 
 **2025**  
 [43] He, T.;  Hu, Y.;  Li, F.;  Chen, Y.;  Zhang, M.;  **Zheng, Q.**;  Jin, Y.; Ren, H., Mapping land- and offshore-based wind turbines in China in 2023 with Sentinel-2 satellite data. ***Renewable and Sustainable Energy Reviews***

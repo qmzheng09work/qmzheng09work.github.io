@@ -31,7 +31,7 @@ PhD (Chinese Academy of Sciences); MSc/BSc (Chongqing University)
 MSc (Zhejiang University); BSc (Shanxi University)  
 -Focus: Nighttime light; Natural Disaster; Time Series Modelling    
 -Email: mateomu@link.cuhk.edu.hk    
--First-author publications: [TGRS](https://ieeexplore.ieee.org/document/10781441);[RSE](https://doi.org/10.1016/j.rse.2026.115328);  
+-First-author publications: [TGRS](https://ieeexplore.ieee.org/document/10781441); [RSE](https://doi.org/10.1016/j.rse.2026.115328);  
 -Leading Project: AI-powered Geospatial Science E-learning & Practicing Platform Tailored for Social Science Students (GeoLEAP) (Co-I; HK$ 367,400)    
 
 ![](yifei_2.png)  

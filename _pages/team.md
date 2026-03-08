@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Group Members
-**Current**: Postdoc Fellow (1), PhD Student (4), Master students (4), Visiting scholar (1)   
-**Alumni**: Research Assistants (3), Master students (3), Final Year Students (2), Visiting scholar (1)   
+**Current**: Postdoc Fellow (1), PhD Students (4), Master students (4), Final Year Students (3), Visiting scholar (0)   
+**Alumni**: Research Assistants (3), Master students (3), Final Year Students (2), Visiting scholar (3)   
 
 ## - Principle Investigator - 
 ![](qiming3.png)  

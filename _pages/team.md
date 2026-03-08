@@ -31,20 +31,25 @@ PhD (Chinese Academy of Sciences); MSc/BSc (Chongqing University)
 MSc (Zhejiang University); BSc (Shanxi University)  
 -Focus: Nighttime light; Natural Disaster; Time Series Modelling    
 -Email: mateomu@link.cuhk.edu.hk    
--First-author publications: [TGRS](https://ieeexplore.ieee.org/document/10781441)
+-First-author publications: [TGRS](https://ieeexplore.ieee.org/document/10781441);[RSE](https://doi.org/10.1016/j.rse.2026.115328);  
+-Leading Project: AI-powered Geospatial Science E-learning & Practicing Platform Tailored for Social Science Students (GeoLEAP) (Co-I; HK$ 367,400)    
 
 ![](yifei_2.png)  
 **Ms. Yifei Zhao (2025- )**  
 MSc (Beijing Normal University); BSc (University of Science and Technology Beijing)  
 -Focus: Nature-based Solutions; Climate Change Mitigation; Afforestation    
 -Email: zhaoyf@link.cuhk.edu.hk  
--Leading Project: Trade-offs and synergies of the climate benefit and co-benefits of reforestation in China towards 2100 (Co-I; HK$ 100,000)  
+-Leading Project:  
+(1) Direct Grant, CUHK (Co-I; HK$ 100,000);  
+(2) Environment Conservation Fund, Environment and Ecology Bureau of Hong Konk (Co-I; HK$ 371,000)  
 
 ![](gongyu.png)   
 **Ms. Yu Gong (2025- )**  
 MSc (Wuhan University); BSc (Hohai University)  
 -Focus: Nighttime light; Urban remote sensing  
 -Email:yuGong@link.cuhk.edu.hk  
+-Leading Project: 
+(1) Teaching Development and Language Enhancement Grant, CUHK (Co-I; HK$ 367,400)    
 
 ![](hanyue2.png)   
 **Ms. Hanyue Luo (2025- )**  

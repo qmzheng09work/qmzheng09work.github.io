@@ -24,7 +24,7 @@ redirect_from:
 PhD (Chinese Academy of Sciences); MSc/BSc (Chongqing University)  
 -Focus: Urban and regional sustainability; Land-use change and its impacts  
 -Email:xialiao@cuhk.edu.hk  
--Award:  
+-Awards:  
 (1) Research Fellow Scheme, CUHK (2025-2026,HK$ 250,000);   
 (2) Research Fellow Scheme, CUHK (2026-2027,HK$ 250,000, only awardee of the Faculty)    
 -Leading projects:   

@@ -25,6 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
+*   27/03/2026: I was named as one of the Top 20 Reviewers for ***Remote Sensing of Environment*** for the calendar year 2025.  
 *   24/02/2026: Our paper on "Daily nighttime light image gap-filling" has been published in ***Remote Sensing of Environment***! [[Download(OA)]( https://doi.org/10.1016/j.rse.2026.115328)]   
 *   07/01/2026: Our proposal on “Assessing Ecosystem Services Provision and Accessibility of Hong Kong’s Blue-green Spaces towards 2050” was funded by Environmental and Conservation Fund of Environment and Ecology Bureau of Hong Kong.  
 *   19/12/2025: Our teaching grant on "Creating an AI-powered geoscience learning platform" was funded by the Teaching Development and Language Enhancement Grant (TDLEG) 2025-28 of CUHK.   
@@ -44,11 +45,6 @@ My research interests center on the human-environment-climate nexus. I aim to le
 *   24/05/2024: My co-authored paper on "Downscalling VIIRS Nighttime light image" has been published in *International Journal of Applied Earth Observation and Geoinformation*! [[Download(OA)](https://doi.org/10.1016/j.jag.2024.103924)]  
 *  20/04/2024: My publications exceeded 1,000 Google Scholar citations!
 *  18/03/2024: Our review paper "Nighttime light remote sensing for urban applications: progress, challenges, and prospects" is **ESI highly cited**! [[Download (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].
-*  27/01/2024: Our work "Geo-STO3Net: A deep neural network integrating geographical spatiotemporal information for surface ozone estimation" was accepted by *IEEE TGRS* ! [[Download](https://ieeexplore.ieee.org/document/10414127)].
-*  20/12/2023: The work that I supervised,"Estimating building heights in complex urban areas", has been published in ***International Journal of Applied Earth Observation and Geoinformation***![[Download(OA)](https://doi.org/10.1016/j.jag.2023.103625)]
-* 13/12/2023: My co-authored paper on "Uncertainties in deforestation emission baseline methodologies" has been published in ***Nature Communications***! [[Download (OA)](https://doi.org/10.1038/s41467-023-44127-9)]
-* 29/09/2023: We posted an eLetter commentary on light pollution measurements in *Science*. [[View eLetter](https://www.science.org/doi/10.1126/science.adg0473#elettersSection)].
-* 21/09/2023: Our manuscript about global abandoned cropland was published in ***Nature Communications***.[[Download (OA)](https://www.nature.com/articles/s41467-023-41837-y)].[Media:[Eurekalert AAAS](https://www.eurekalert.org/news-releases/1003363);[Earth.com](https://www.earth.com/news/abandoned-croplands-could-boost-food-security-and-climate-mitigation/); see [More](https://www.nature.com/articles/s41467-023-41837-y/metrics)].
 
 
 ## ✉️Contact Info. ##

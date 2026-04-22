@@ -25,6 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
+*   21/04/2026: The paper on the "energy and sustainability co-benefits of depolying PV in marginal land", led by my visiting PhD student Ms. Runjia Yang, was published in ***Communications Earth & Environment***! [[Download(OA)](https://www.nature.com/articles/s43247-026-03448-5)].
 *   27/03/2026: I was named as one of the Top 20 Reviewers for ***Remote Sensing of Environment*** for the calendar year 2025.  
 *   24/02/2026: Our paper on "Daily nighttime light image gap-filling" has been published in ***Remote Sensing of Environment***! [[Download(OA)]( https://doi.org/10.1016/j.rse.2026.115328)]   
 *   07/01/2026: Our proposal on “Assessing Ecosystem Services Provision and Accessibility of Hong Kong’s Blue-green Spaces towards 2050” was funded by Environmental and Conservation Fund of Environment and Ecology Bureau of Hong Kong.  

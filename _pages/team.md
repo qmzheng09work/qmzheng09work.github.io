@@ -1,4 +1,4 @@
----
+<img width="421" height="384" alt="image" src="https://github.com/user-attachments/assets/da6f6712-e002-4d64-bd89-58aefadf41ac" />---
 layout: archive
 title: " "
 permalink: /team/
@@ -69,9 +69,11 @@ MSc (Shanghai Jiaotong University); BSc (China Agricultural University)
 ## - Visiting Scholars - 
 
 ## - Alumni - 
+
 **Ms. Ruijia Yang (Visiting PhD student)**  
 BSc, MSc (Zhejiang University)   
-
+- Achievements: 1st-author publication in ([CEE](https://www.nature.com/articles/s43247-026-03448-5))  
+- Current job: PhD student at Zhejiang University  
 
 ![](xinyu.png)  
 **Dr. Xingyu Zheng (Visiting Scholar)**  

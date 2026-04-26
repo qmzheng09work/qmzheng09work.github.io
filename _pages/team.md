@@ -1,4 +1,3 @@
-<img width="421" height="384" alt="image" src="https://github.com/user-attachments/assets/da6f6712-e002-4d64-bd89-58aefadf41ac" />---
 layout: archive
 title: " "
 permalink: /team/

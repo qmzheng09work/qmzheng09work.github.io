@@ -69,14 +69,8 @@ MSc (Shanghai Jiaotong University); BSc (China Agricultural University)
 
 **Ms. Ruijia Yang (Visiting PhD student)**  
 BSc, MSc (Zhejiang University)   
-- Achievements: 1st-author publication in ([CEE](https://www.nature.com/articles/s43247-026-03448-5))  
+- Publication: [Communications Earth & Environment](https://www.nature.com/articles/s43247-026-03448-5)(1st author)
 - Current job: PhD student at Zhejiang University  
-
-
-![](xinyu.png)  
-**Dr. Xingyu Zheng (Visiting Scholar)**  
-Lecturer at Zhejiang A&F University   
-- Focus: forest carbon stock modeling
 
 **Ms. Mianxi Wu (Final Year student)**  
 **CUHK, 2024-2025**   

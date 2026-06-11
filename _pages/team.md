@@ -42,7 +42,8 @@ MSc (Zhejiang University); BSc (Shanxi University)
 **Ms. Yifei Zhao (2025- )**  
 MSc (Beijing Normal University); BSc (University of Science and Technology Beijing)  
 - Focus: Nature-based Solutions; Climate Change Mitigation; Afforestation    
-- Email: zhaoyf@link.cuhk.edu.hk  
+- Email: zhaoyf@link.cuhk.edu.hk
+- First-author publications:[UFUG](https://doi.org/10.1016/j.ufug.2026.129553)   
 - Leading Projects:    
 (1) Direct Grant, CUHK (Co-I; HKD 100,000);  
 (2) Environment Conservation Fund, Environment and Ecology Bureau of Hong Konk (Co-I; HKD 371,000)  
@@ -59,6 +60,7 @@ MSc (Wuhan University); BSc (Hohai University)
 **Ms. Hanyue Luo (2025- )**  
 MSc (Shanghai Jiaotong University); BSc (China Agricultural University)  
 -Focus: Nature-based Solutions; Urban afforestation   
+-First-author publications:[UFUG](https://doi.org/10.1016/j.ufug.2026.129553)   
 -Email:luoHanyue@link.cuhk.edu.hk  
 
 ## - Master Students - 

@@ -31,7 +31,7 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 · Funding for attending international conference and purchasing PC/Laptop  
 · Opportunities for short-term exchange to top-university abroad    
 
-<u>To Apply We Offer</u>   
+<u>To Apply</u>   
 Email <u>qmzheng@cuhk.edu.hk</u> with the following documents: (1) cover letter; (2) CV; (3) 2-page (max.) research plan; (4) transcripts and IELTS/TOEFL certificate.  
 
 

@@ -13,12 +13,12 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 
 ## **<font color= Blue>PhD Students (2027 Fall)</font>**   
 <u>Requirements</u>  
-1.	A Master's degree in remote sensing, GIS, geography, environmental science, or relevant fields;
-2.	IELTS>=6.5 or TOEFL>=79  
-3.	An outstanding academic record with first-author peer-reviewed publication(s) in reputable journals;
-4.	Proficiency in geospatial and data analysis, and computer programming (e.g., MATLAB, Python, R, C++, etc.);
-5.	Excellent written and oral communication skills and demonstrated ability to work independently as well as in a collaborative team environment
-6.	Preferred skills: remote sensing image processing, Machine learning/Deep learning, climate modeling, weather forecasting, land-use change modeling, IAMs, etc.
+· A Master's degree in remote sensing, GIS, geography, environmental science, or relevant fields;
+· IELTS>=6.5 or TOEFL>=79  
+· An outstanding academic record with first-author peer-reviewed publication(s) in reputable journals;
+· Proficiency in geospatial and data analysis, and computer programming (e.g., MATLAB, Python, R, C++, etc.);
+· Excellent written and oral communication skills and demonstrated ability to work independently as well as in a collaborative team environment
+· Preferred skills: remote sensing image processing, Machine learning/Deep learning, climate modeling, weather forecasting, land-use change modeling, IAMs, etc.
 
 <u>Available Funding Schemes</u>   
 · HK-PhD/VC Fellowship Scheme ([Link](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs))  

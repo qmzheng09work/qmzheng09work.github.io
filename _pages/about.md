@@ -12,10 +12,10 @@ redirect_from:
 🗺️Qiming: So do I 
 
 ## 🚨Opportunities👩🏻‍🎓👨🏼‍🎓 ##
-I am looking for ~~<font color= Blue>1 fully-funded PhD Students (2026 Fall)</font>~~, ~~<font color= Blue>1 6-month Visiting PhD Students (during 2026-2027)</font>~~, ~~<font color= Blue>1 Postdoc (2025 Fall)</font>~~ and <font color= Blue>Visiting students / scholars</font> to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [**More Details**](https://qmzheng09work.github.io/opportunities/).  
+I am looking for <font color= Blue>2 PhD Students (2027 Fall)</font> and <font color= Blue>Visiting students / scholars</font> to join my team at CUHK and work on one of the following topics: Nighttime Light Remote Sensing, Urban Sustainability, Global Environmental Changes, and Nature-based Climate Solutions. [**More Details**](https://qmzheng09work.github.io/opportunities/).  
 ## 🌏Welcome to my homepage ##  
 
-![](intro_summary_4.png)
+![](intro_summary_5.png)
 
 My research interests center on the human-environment-climate nexus. I aim to leverage remote sensing based geospatial intelligence, environment and climate models, and other advanced interdisciplinary approaches to better understand the impacts of human activities on environmental and climate changes, and to deliver policy-relevant solutions to cutting-edge challenges in climate change mitigation and sustainable development. My current research focuses on the following themes:
 * Remote sensing of urban environment;
@@ -59,4 +59,4 @@ Shatin, N.T., Hong Kong SAR, China
 Email: <u>qmzheng@cuhk.edu.hk</u>  
 Department Page: [[Link](https://www.grm.cuhk.edu.hk/en/profile/prof-zheng-qiming/)]
 
-Updated 31/03/2025
+Updated 31/06/2026

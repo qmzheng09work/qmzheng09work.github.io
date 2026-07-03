@@ -10,12 +10,14 @@ author_profile: true
 (Zheng Q=Zheng Qiming; #=Corresponding Author; ^=supervised students/RA)   
 (Total citation=2260; H-index=26)  
 
+
 **Selected Publications**
 - **Zheng, Q.**; Seto, K. C.; Zhou, Y.; You, S.; Weng, Q.*, Nighttime light remote sensing for urban applications: progress, challenges, and prospects. [***ISPRS Journal of Photogrammetry and Remote Sensing***](https://doi.org/10.1016/j.isprsjprs.2023.05.028). 2023. [🏆 Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:001024291700001); 🏆 Most downloaded paper in ISPRS Journal
 - **Zheng, Q.***; Ha, T.; Prishchepov, A., et al., The neglected role of abandoned cropland in supporting food security and climate change mitigation. [***Nature Communications***](https://www.nature.com/articles/s41467-023-41837-y). 2023. [🏆 Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:001024291700001)
 - **Zheng, Q.***, Cities at night: seeing the unseen. [***Nature Cities***](https://www.nature.com/articles/s44284-024-00143-4). 2024. Media: [Editorial of Nature Cities](https://www.nature.com/articles/s44284-024-00163-0)
 - **Zheng, Q.**; Weng, Q.; Wang, K., Characterizing urban changes of 30 global mega-cities using dense nighttime light time series stacks. [***ISPRS Journal of Photogrammetry and Remote Sensing***](https://www.sciencedirect.com/science/article/pii/S0924271621000022). 2021. 🏆 Most popular paper in ISPRS Journal in the past 3 years
 - **Zheng, Q.**; Weng, Q.; Huang, L., et al., A new source of multi-spectral high spatial resolution night-time light imagery—JL1-3B. [***Remote Sensing of Environment***](https://www.sciencedirect.com/science/article/pii/S0034425718302943). 2018.
+
 
 **First / Corresponding / Supervised Publications**
 

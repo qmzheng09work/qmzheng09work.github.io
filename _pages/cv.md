@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}  
-
-**Latest [CV](https://drive.google.com/file/d/1vBhWfEEDzm2C3pDlwhMhmofd8OQQ_T9A/view?usp=sharing)**
+**Latest [CV](https://qmzheng09work.github.io/files/CV_Qiming.pdf)**
 
 ## Education    
 * **Ph.D**. in Remote Sensing and GIS, Zhejiang University, China, 2015-2020

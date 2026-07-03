@@ -11,7 +11,7 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 · PhD students for 2027 Fall   
 · Visiting scholars
 
-**<font color= Blue>PhD Students (2027 Fall)</font>**   
+##**<font color= Blue>PhD Students (2027 Fall)</font>**   
 <u>Requirements</u>  
 1.	A Master's degree in remote sensing, GIS, geography, environmental science, or relevant fields;
 2.	IELTS>=6.5 or TOEFL>=79  
@@ -35,6 +35,6 @@ I am always looking for enthusiastic, scientifically curious, and self-motivated
 Email <u>qmzheng@cuhk.edu.hk</u> with the following documents: (1) cover letter; (2) CV; (3) 2-page (max.) research plan; (4) transcripts and IELTS/TOEFL certificate.  
 
 
-**<font color= Blue>Visiting Scholars</font>**     
+##**<font color= Blue>Visiting Scholars</font>**     
 Please email me via qmzheng@cuhk.edu.hk for further discussion! 
 

@@ -11,7 +11,7 @@ author_profile: true
 (Total citation=2260; H-index=26)  
 
 
-**Selected Publications**
+## **Selected Publications**
 - **Zheng, Q.**; Seto, K. C.; Zhou, Y.; You, S.; Weng, Q.*, Nighttime light remote sensing for urban applications: progress, challenges, and prospects. [***ISPRS Journal of Photogrammetry and Remote Sensing***](https://doi.org/10.1016/j.isprsjprs.2023.05.028). 2023. [🏆 Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:001024291700001); 🏆 Most downloaded paper in ISPRS Journal
 - **Zheng, Q.***; Ha, T.; Prishchepov, A., et al., The neglected role of abandoned cropland in supporting food security and climate change mitigation. [***Nature Communications***](https://www.nature.com/articles/s41467-023-41837-y). 2023. [🏆 Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:001024291700001)
 - **Zheng, Q.***, Cities at night: seeing the unseen. [***Nature Cities***](https://www.nature.com/articles/s44284-024-00143-4). 2024. Media: [Editorial of Nature Cities](https://www.nature.com/articles/s44284-024-00163-0)
@@ -19,7 +19,7 @@ author_profile: true
 - **Zheng, Q.**; Weng, Q.; Huang, L., et al., A new source of multi-spectral high spatial resolution night-time light imagery—JL1-3B. [***Remote Sensing of Environment***](https://www.sciencedirect.com/science/article/pii/S0034425718302943). 2018.
 
 
-**First / Corresponding / Supervised Publications**
+## **First / Corresponding / Supervised Publications**
 
 [53] Luo, H.#; Zhao, Y.#; Liao, X.#; Liu, X.; **Zheng, Q.***; Lee, H. F., Strategic urban afforestation in the Greater Bay Area towards 2050: Spatiotemporally explicit assessment of potential and trade-offs. [***Urban Forestry & Urban Greening***](https://doi.org/10.1016/j.ufug.2026.129553). 2026.
 
@@ -64,7 +64,7 @@ author_profile: true
 [33] **Zheng, Q.**; Deng, J.; Jiang, R., et al., Monitoring and assessing “ghost cities” in Northeast China from the view of nighttime light remote sensing data. [***Habitat International***](https://doi.org/10.1016/j.habitatint.2017.10.005). 2017.
 
 
-**Co-author Publications**
+## **Co-author Publications**
 
 [32] Guo, B.; Fu, Y.; Hu, D.; Liu, Y.; Chen, Y.; **Zheng, Q.**, et al., A novel nighttime light downscaling index approach for generating annual high-definition nighttime light products. [***Information Geography***](https://doi.org/10.1016/j.infgeo.2026.100053). 2026.
 

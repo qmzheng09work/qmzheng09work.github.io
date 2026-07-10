@@ -15,7 +15,7 @@ see full publication list in [Publication](https://qmzheng09work.github.io/publi
   Fine-scale knowledge of post-hurricane recovery remains limited because aggregated metrics obscure spatial heterogeneity. Using daily NASA Black Marble nighttime-light data, Bayesian change detection, and temporal clustering, we examined pixel-level recovery across 446 U.S. counties affected by 10 severe hurricanes. Recovery duration varied sevenfold within counties, and more than 1/3 of affected built-up areas required over 200 days to recover. Minority and disadvantaged populations experienced slower recovery, while disproportionate hurricane assistance further exacerbated inequalities, highlighting the need for finer-scale, more equitable recovery assessment and relief allocation. (RSE, 2025). [[PDF (OA)](https://doi.org/10.1016/j.rse.2025.114645)].
 
 <p align="center">
-  <img src="hurricane.png" alt="Post-hurricane recovery patterns" width="600">
+  <img src="hurricane2.png" alt="Post-hurricane recovery patterns" width="600">
 </p>
 
 **2. Characterizing urban land changes of 30 global megacities using nighttime light time series stacks**    

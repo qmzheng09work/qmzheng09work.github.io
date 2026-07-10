@@ -11,7 +11,13 @@ see full publication list in [Publication](https://qmzheng09work.github.io/publi
 
 ### Topic 1: Understanding Global Urbanization for Sustainable Development
 
-**1. Characterizing urban land changes of 30 global megacities using nighttime light time series stacks**    
+**1. Nighttime lights reveal substantial spatial heterogeneity and inequality in post-hurricane recovery**  
+  Fine-scale knowledge of post-hurricane recovery remains limited because aggregated metrics obscure spatial heterogeneity. Using daily NASA Black Marble nighttime-light data, Bayesian change detection, and temporal clustering, we examined pixel-level recovery across 446 U.S. counties affected by 10 severe hurricanes. Recovery duration varied sevenfold within counties, and more than 1/3 of affected built-up areas required over 200 days to recover. Minority and disadvantaged populations experienced slower recovery, while disproportionate hurricane assistance further exacerbated inequalities, highlighting the need for finer-scale, more equitable recovery assessment and relief allocation. (RSE, 2025). [[PDF (OA)](https://doi.org/10.1016/j.rse.2025.114645)].
+
+  ![](hurricane.png)  
+
+
+**2. Characterizing urban land changes of 30 global megacities using nighttime light time series stacks**    
   We proposed a methodology framework to characterize diverse urban land changes of 30 global megacities using monthly nighttime light time series from VIIRS data. Urban land changes occurred in 51% of the built-up pixels of the megacities. Compared with urban growth, other types of urban land change, particularly land use intensification, contributed to an unexpectedly large proportion of the changes (83%). (ISPRS, 2021) [[PDF](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/_publications/Zheng-2021-Characterizing%20urban%20land%20changes.pdf)][[Online](https://www.sciencedirect.com/science/article/pii/S0924271621000022?via%3Dihub)]   
   
    ![](urban_land_change2.png)

@@ -14,7 +14,7 @@ see full publication list in [Publication](https://qmzheng09work.github.io/publi
 **1. Nighttime lights reveal substantial spatial heterogeneity and inequality in post-hurricane recovery**  
   Fine-scale knowledge of post-hurricane recovery remains limited because aggregated metrics obscure spatial heterogeneity. Using daily NASA Black Marble nighttime-light data, Bayesian change detection, and temporal clustering, we examined pixel-level recovery across 446 U.S. counties affected by 10 severe hurricanes. Recovery duration varied sevenfold within counties, and more than 1/3 of affected built-up areas required over 200 days to recover. Minority and disadvantaged populations experienced slower recovery, while disproportionate hurricane assistance further exacerbated inequalities, highlighting the need for finer-scale, more equitable recovery assessment and relief allocation. (RSE, 2025). [[PDF (OA)](https://doi.org/10.1016/j.rse.2025.114645)].
 
-  ![](hurricane.png)  
+  ![](hurricane.png)   
 
 
 **2. Characterizing urban land changes of 30 global megacities using nighttime light time series stacks**    

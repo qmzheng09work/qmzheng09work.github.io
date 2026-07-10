@@ -23,19 +23,24 @@ see full publication list in [Publication](https://qmzheng09work.github.io/publi
 
 
 ### Topic 2: Nighttime Light Remote Sensing    
+**1. Reconstructing seamless daily VIIRS nighttime light imagery with cloud mask refinement and multi-strategy spatiotemporal gap-filling**  
+Daily VIIRS nighttime-light applications are constrained by cloud contamination and data gaps. We developed a spatiotemporal framework that refines the VNP46 cloud mask, identifies similar pixels using stringent criteria, and reconstructs missing observations through multiple gap-filling strategies. Across 30 global cities, 39% of nominally valid pixels contained undetected clouds. The method remained robust under abrupt lighting changes, cloud underdetection, and dense gaps (R² = 0.80–0.85; RMSE = 2.13–10.84 nW/cm²/sr). Applied to Hurricane Maria, it generated seamless imagery revealing spatially heterogeneous recovery, expanding the potential of daily NTL data. (RSE, 2026) [[PDF (OA](https://doi.org/10.1016/j.rse.2026.115328)]
 
-**1. 30th anniversary of nighttime ight remote sensing for urban applications: Progress, Challenges, and Prospects**   
+ ![](gap_filling.png)
+
+
+**2. 30th anniversary of nighttime ight remote sensing for urban applications: Progress, Challenges, and Prospects**   
   Nighttime light (NTL) remote sensing data offer unique capabilities to characterize both the extent and intensity of human activities and have been extensively used to understand urbanization for over 30 years since 1992. The recent proliferation of NTL sensors, algorithms, and products creates new opportunities to understand contemporary urbanization and the associated socioeconomic and environmental changes. We conducted a comprehensive literature review to understand the trends in how NTL data have been used to study urbanization (e.g., with which data products, during which time span, and in which geographies) and to synthesize the progress and challenges of key urban application topics. Based on our review, we identified four research directions for future NTL-based urban applications: (1) a better understanding of scale effects and sources of variations in NTL data; (2) integrating multi-source NTL data and synergizing NTL data with other types of geospatial data for improved NTL utilization; (3) more research on the Global South; and (4) developing new urban applications with new NTL data products. [[PDF Online (OA)](https://www.sciencedirect.com/science/article/pii/S0924271623001521)].  
 
   ![](NTL_review.png) 
 
-**2. Impact of temporal compositing on nighttime light data and its applications**   
+**3. Impact of temporal compositing on nighttime light data and its applications**   
   We utilized over 180,000 daily NTL tiles from NASA’s Black Marble VIIRS product (VNP46A2, 2012–2020), covering 230 cities from China and the United States, to delve into the influence of temporal compositing on valid pixel coverage and spatiotemporal pattern of NTL data and the performance of three representative types of NTL-based applications. (RSE, 2022) [[PDF](https://github.com/qmzheng09work/qmzheng09work.github.io/raw/master/_publications/NTL_composite_Zheng_2023.pdf)][[Online](https://www.sciencedirect.com/science/article/pii/S0034425722001304?via%3Dihub)]
 
    ![](NTL_composite.png)
 
 
-**3. Robust Disaster Impact Assessment With Synthetic Control Modeling Framework and Daily Nighttime Light Time Series Images**   
+**4. Robust Disaster Impact Assessment With Synthetic Control Modeling Framework and Daily Nighttime Light Time Series Images**   
   We proposed an enhanced synthetic control framework that integrates dynamic time warping and random forest regression to accurately estimate business-as-usual nighttime light intensity from NASA's Black Marble data, enabling more precise isolation of disaster impacts from other confounding factors. Our novel approach significantly outperforms existing methods in detecting disaster impacts even at low intensities and short durations, providing crucial insights into regional disparities in disaster coping capacity and socioeconomic resilience to support climate adaptation strategies. (TGRS, 2025)[[PDF Online (OA)](https://ieeexplore.ieee.org/document/10781441)].
   
   ![](SCT_Mute.png)    

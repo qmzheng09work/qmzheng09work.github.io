@@ -20,7 +20,8 @@ author_profile: true
 **Dr. Xia Liao (2025- )**  
 PhD (Chinese Academy of Sciences); MSc/BSc (Chongqing University)  
 - Focus: Urban and regional sustainability; Land-use change and its impacts  
-- Email:xialiao@cuhk.edu.hk  
+- Email:xialiao@cuhk.edu.hk
+- First-author publications: Nature Communications (Accepted; In press)  
 - Awards:  
 (1) Research Fellow Scheme, CUHK (2025-2026,HKD 250,000);  
 (2) Research Fellow Scheme, CUHK (2026-2027,HKD 250,000, only awardee of the Faculty)    

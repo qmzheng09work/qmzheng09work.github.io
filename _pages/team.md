@@ -64,6 +64,18 @@ MSc (Shanghai Jiaotong University); BSc (China Agricultural University)
 -First-author publications:[UFUG](https://doi.org/10.1016/j.ufug.2026.129553)   
 -Email:luoHanyue@link.cuhk.edu.hk  
 
+![](ruijie.png)   
+**Mr. Ruijie Huang (2026- )**   
+Msc/BSc (Tongji Unviersity)  
+-Focus: Nighttime light remote sensing; VIIRS   
+-Email: ruijiehuang@link.cuhk.edu.hk   
+
+![](xi.png)   
+**Ms. Xi Chen (2026- )**    
+Msc/BSc (China University of Geosciences, Wuhan)
+-Focus: Nighttime light remote sensing; Urban application
+-Email: xichen29@link.cuhk.edu.hk  
+
 ## - Master Students - 
 
 ## - Visiting Scholars - 

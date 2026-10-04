@@ -68,14 +68,14 @@ MSc (Shanghai Jiaotong University); BSc (China Agricultural University)
 ![](ruijie.png)   
 **Mr. Ruijie Huang (2026- )**   
 Msc/BSc (Tongji Unviersity)  
--Focus: Nighttime light remote sensing; VIIRS   
--Email: ruijiehuang@link.cuhk.edu.hk   
+- Focus: Nighttime light remote sensing; VIIRS   
+- Email: ruijiehuang@link.cuhk.edu.hk   
 
 ![](xi.png)   
 **Ms. Xi Chen (2026- )**    
 Msc/BSc (China University of Geosciences, Wuhan)   
--Focus: Nighttime light remote sensing; Urban application   
--Email: xichen29@link.cuhk.edu.hk  
+- Focus: Nighttime light remote sensing; Urban application   
+- Email: xichen29@link.cuhk.edu.hk  
 
 ## - Master Students - 
 

@@ -54,6 +54,7 @@ MSc (Beijing Normal University); BSc (University of Science and Technology Beiji
 MSc (Wuhan University); BSc (Hohai University)  
 - Focus: Nighttime light; Urban remote sensing  
 - Email:yuGong@link.cuhk.edu.hk  
+- First-author publications: RSE (Accept; in press)  
 - Leading Projects:   
 (1) Teaching Development and Language Enhancement Grant, CUHK (Co-I; HKD 367,400)    
 

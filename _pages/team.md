@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Group Members
-**Current**: Postdoc Fellow (1), PhD Students (4), Master students (4), Final Year Students (3), Visiting scholar (0)   
+**Current**: Postdoc Fellow (1), PhD Students (6),Final Year Students (3), Visiting scholar (0)   
 **Alumni**: Research Assistants (3), Master students (3), Final Year Students (2), Visiting scholar (3)   
 
 ## - Principle Investigator - 
@@ -54,7 +54,7 @@ MSc (Beijing Normal University); BSc (University of Science and Technology Beiji
 MSc (Wuhan University); BSc (Hohai University)  
 - Focus: Nighttime light; Urban remote sensing  
 - Email:yuGong@link.cuhk.edu.hk  
-- First-author publications: RSE (Accept; in press)  
+- First-author publications: [RSE](https://doi.org/10.1016/j.rse.2026.115724)    
 - Leading Projects:   
 (1) Teaching Development and Language Enhancement Grant, CUHK (Co-I; HKD 367,400)    
 

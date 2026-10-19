@@ -25,6 +25,7 @@ My research interests center on the human-environment-climate nexus. I aim to le
 
 
 ## 📰News ##  
+*   18/10/2026: Prof. Qiming received the Best Young Scholar Award at International Conference on Remote Sensing and Geoinformation (2026) by Elsevier  
 *   14/10/2026: Our paper on the "Disagreement between ground-level and satellite-level nighttime light observations" was published in ***Remote Sensing of Environment***! [[Download(OA)](https://doi.org/10.1016/j.rse.2026.115724)].  
 *   11/06/2026: Our paper on the "Strategic urban afforestation in the Greater Bay Area", led by my  PhD student Hanyue Luo and Yifei Zhao, was published in ***Urban Forestry & Urban Greening***! [[Download(OA)](https://doi.org/10.1016/j.ufug.2026.129553)].  
 *   21/04/2026: The paper on the "energy and sustainability co-benefits of depolying PV in marginal land", led by my visiting PhD student Ms. Runjia Yang, was published in ***Communications Earth & Environment***! [[Download(OA)](https://www.nature.com/articles/s43247-026-03448-5)].
